@@ -1,0 +1,346 @@
+<config version="3">
+  <cars>
+    <car id="Car_1_europe" min_acceleration="1" max_acceleration="3" min_speed="2" max_speed="6" min_resistance="1" max_resistance="3" min_turbospeed="1" max_turbospeed="4" buyCost="0" currencyBuyType="coins" />
+    <car id="Car_2_europe" min_acceleration="1" max_acceleration="4" min_speed="3" max_speed="7" min_resistance="2" max_resistance="4" min_turbospeed="2" max_turbospeed="5" buyCost="10000" currencyBuyType="coins" /> 
+    <car id="Car_3_europe" min_acceleration="2" max_acceleration="5" min_speed="4" max_speed="8" min_resistance="2" max_resistance="5" min_turbospeed="3" max_turbospeed="7" buyCost="40" currencyBuyType="diamonds" unlock_xp_level="13" alternativeCost="15000" alternativeCurrencyType="coins" />
+    <car id="Car_4_europe" min_acceleration="3" max_acceleration="6" min_speed="5" max_speed="9" min_resistance="3" max_resistance="6" min_turbospeed="4" max_turbospeed="8" buyCost="90" currencyBuyType="diamonds" />
+    <car id="Car_5_europe" min_acceleration="5" max_acceleration="7" min_speed="6" max_speed="10" min_resistance="3" max_resistance="7" min_turbospeed="6" max_turbospeed="10" buyCost="180" currencyBuyType="diamonds" />
+    <car id="Car_1_oriental" min_acceleration="2" max_acceleration="6" min_speed="1" max_speed="3" min_resistance="1" max_resistance="3" min_turbospeed="1" max_turbospeed="4" buyCost="0" currencyBuyType="coins" />
+    <car id="Car_2_oriental" min_acceleration="3" max_acceleration="7" min_speed="1" max_speed="4" min_resistance="2" max_resistance="4" min_turbospeed="2" max_turbospeed="5" buyCost="32000" currencyBuyType="coins" />
+    <car id="Car_3_oriental" min_acceleration="4" max_acceleration="8" min_speed="2" max_speed="5" min_resistance="2" max_resistance="5" min_turbospeed="3" max_turbospeed="7" buyCost="25" currencyBuyType="diamonds"  unlock_xp_level="18" alternativeCost="7000" alternativeCurrencyType="coins" />
+    <car id="Car_4_oriental" min_acceleration="5" max_acceleration="9" min_speed="3" max_speed="6" min_resistance="3" max_resistance="6" min_turbospeed="4" max_turbospeed="8" buyCost="120" currencyBuyType="diamonds" />
+    <car id="Car_5_oriental" min_acceleration="6" max_acceleration="10" min_speed="5" max_speed="7" min_resistance="4" max_resistance="7" min_turbospeed="6" max_turbospeed="10" buyCost="240" currencyBuyType="diamonds" />
+    <car id="Car_1_american" min_acceleration="1" max_acceleration="4" min_speed="3" max_speed="7" min_resistance="2" max_resistance="4" min_turbospeed="2" max_turbospeed="5" buyCost="0" currencyBuyType="coins" />
+    <car id="Car_2_american" min_acceleration="1" max_acceleration="4" min_speed="3" max_speed="7" min_resistance="2" max_resistance="4" min_turbospeed="2" max_turbospeed="5" buyCost="54000" currencyBuyType="coins" />
+    <car id="Car_3_american" min_acceleration="2" max_acceleration="5" min_speed="4" max_speed="8" min_resistance="2" max_resistance="5" min_turbospeed="3" max_turbospeed="7" buyCost="50" currencyBuyType="diamonds"  unlock_xp_level="21" alternativeCost="20000" alternativeCurrencyType="coins" />
+    <car id="Car_4_american" min_acceleration="3" max_acceleration="6" min_speed="5" max_speed="9" min_resistance="3" max_resistance="6" min_turbospeed="4" max_turbospeed="8" buyCost="160" currencyBuyType="diamonds" />
+    <car id="Car_5_american" min_acceleration="5" max_acceleration="7" min_speed="6" max_speed="10" min_resistance="3" max_resistance="7" min_turbospeed="6" max_turbospeed="10" buyCost="280" currencyBuyType="diamonds" />
+    <car id="Car_1_muscle" min_acceleration="2" max_acceleration="6" min_speed="1" max_speed="3" min_resistance="1" max_resistance="3" min_turbospeed="1" max_turbospeed="4" buyCost="0" currencyBuyType="coins" />
+    <car id="Car_2_muscle" min_acceleration="3" max_acceleration="7" min_speed="1" max_speed="4" min_resistance="2" max_resistance="4" min_turbospeed="2" max_turbospeed="5" buyCost="68000" currencyBuyType="coins" />
+    <car id="Car_3_muscle" min_acceleration="4" max_acceleration="8" min_speed="2" max_speed="5" min_resistance="2" max_resistance="5" min_turbospeed="3" max_turbospeed="7" buyCost="145" currencyBuyType="diamonds"  unlock_xp_level="35" alternativeCost="25000" alternativeCurrencyType="coins" />
+    <car id="Car_4_muscle" min_acceleration="5" max_acceleration="9" min_speed="3" max_speed="6" min_resistance="3" max_resistance="6" min_turbospeed="4" max_turbospeed="8" buyCost="180" currencyBuyType="diamonds" />
+    <car id="Car_5_muscle" min_acceleration="6" max_acceleration="10" min_speed="5" max_speed="7" min_resistance="4" max_resistance="7" min_turbospeed="6" max_turbospeed="10" buyCost="350" currencyBuyType="diamonds" />
+  </cars>
+  
+  <cars_update>
+    <car id="Car_1_europe" acceleration="1.5" max_speed="1.4" resistance="1.3" turbo_speed="1.1" discount="20.0"/>
+    <car id="Car_2_europe" acceleration="1.6" max_speed="1.5" resistance="1.5" turbo_speed="1.3" discount="15.0"/>
+    <car id="Car_3_europe" acceleration="1.8" max_speed="1.6" resistance="1.7" turbo_speed="1.5" discount="10.0"/>
+    <car id="Car_4_europe" acceleration="2.0" max_speed="1.8" resistance="1.9" turbo_speed="1.7" discount="5.0"/>
+    <car id="Car_5_europe" acceleration="2.1" max_speed="1.9" resistance="2.0" turbo_speed="1.8" discount="0.0"/>
+    
+    <car id="Car_1_oriental" acceleration="1.5" max_speed="1.4" resistance="1.3" turbo_speed="1.1"/>
+    <car id="Car_2_oriental" acceleration="1.6" max_speed="1.5" resistance="1.5" turbo_speed="1.3"/>
+    <car id="Car_3_oriental" acceleration="1.8" max_speed="1.6" resistance="1.7" turbo_speed="1.5"/>
+    <car id="Car_4_oriental" acceleration="2.0" max_speed="1.8" resistance="1.9" turbo_speed="1.7"/>
+    <car id="Car_5_oriental" acceleration="2.1" max_speed="1.9" resistance="2.0" turbo_speed="1.8"/>
+    
+    <car id="Car_1_american" acceleration="1.5" max_speed="1.4" resistance="1.3" turbo_speed="1.1"/>
+    <car id="Car_2_american" acceleration="1.6" max_speed="1.5" resistance="1.5" turbo_speed="1.3"/>
+    <car id="Car_3_american" acceleration="1.8" max_speed="1.6" resistance="1.7" turbo_speed="1.5"/>
+    <car id="Car_4_american" acceleration="2.0" max_speed="1.8" resistance="1.9" turbo_speed="1.7"/>
+    <car id="Car_5_american" acceleration="2.1" max_speed="1.9" resistance="2.0" turbo_speed="1.8"/>
+    
+    <car id="Car_1_muscle" acceleration="1.5" max_speed="1.4" resistance="1.3" turbo_speed="1.1"/>
+    <car id="Car_2_muscle" acceleration="1.6" max_speed="1.5" resistance="1.5" turbo_speed="1.3"/>
+    <car id="Car_3_muscle" acceleration="1.8" max_speed="1.6" resistance="1.7" turbo_speed="1.5"/>
+    <car id="Car_4_muscle" acceleration="2.0" max_speed="1.8" resistance="1.9" turbo_speed="1.7"/>
+    <car id="Car_5_muscle" acceleration="2.1" max_speed="1.9" resistance="2.0" turbo_speed="1.8"/>
+  </cars_update>
+  
+  <car_physics>
+    <player acceleration="14, 25" max_speed="233, 270" resistance="0.75, 0.05" turbo_speed="380, 500" side_acceleration="220" limitMaxSpeed="425" speedReductionPerHit="0.5"/>
+    <opponent acceleration="5" max_speed="140" max_speed_wrong_direction="120" side_acceleration="180" />
+    <special_vehicles acceleration="15, 25" max_speed="355, 355" resistance="0.5, 0.15" turbo_speed="420, 420" side_acceleration="180" limitMaxSpeed="355" />
+  </car_physics>
+
+  <shop>
+    <fuel show_perc="0">
+      <pack1 quantity="1" price="40" />
+      <pack2 quantity="4" price="8" />
+      <pack3 quantity="8" price="15" />
+      <pack4 quantity="20" price="35" />
+      <pack5 quantity="50" price="85" />
+      <pack6 quantity="120" price="200" />
+    </fuel>
+    <diamonds show_perc="0">
+      <pack1 quantity="20" price="1" />
+      <pack2 quantity="45" price="2" />
+      <pack3 quantity="130" price="6" />
+      <pack4 quantity="300" price="11" />
+      <pack5 quantity="1600" price="50" />
+      <pack6 quantity="3500" price="90" />
+    </diamonds>
+    <coins show_perc="0">
+      <pack1 quantity="100" price="1" />
+      <pack2 quantity="10000" price="20" />
+      <pack3 quantity="20000" price="35" />
+      <pack4 quantity="50000" price="50" />
+      <pack5 quantity="120000" price="100" />
+      <pack6 quantity="250000" price="200" />
+    </coins>
+  </shop>
+  
+  <inapps>
+    <inapp product_id="purchase_diamonds_0" price="0.99" />
+    <inapp product_id="purchase_diamonds_1" price="1.99" />
+    <inapp product_id="purchase_diamonds_2" price="5.99" />
+    <inapp product_id="purchase_diamonds_3" price="10.99" />
+    <inapp product_id="purchase_diamonds_4" price="49.99" />
+    <inapp product_id="purchase_diamonds_5" price="89.99" />
+  </inapps>
+  
+  <boosts>
+      <Turbo multiplier="0.5" type="Coin"/>
+      <Shield multiplier="0.6" type="Coin"/>
+      <SpecialCar multiplier="0.7" type="Coin"/>
+      <DoubleCoins value="1.0" type="Diamond" />
+      <DoubleExp value="1.0" type="Diamond"/>
+      <MoreCheckpointTime multiplier="1.0" type="Coin"/>
+      <SurprisePack value="340" type="Coin"/>
+      <MultiplePack value="1800" type="Coin"/>
+  </boosts>
+  
+  <special_cars>
+      <General duration="6" delta_time="1" boost_duration="4" force_spawn_counter="3"/>
+      <Bigfoot price="0" unlock_xp_level="0" multiplier="1.2" />
+      <Tank price="10" unlock_xp_level="3" multiplier="1.25" alternativeCost="3000"/> 
+      <Firetruck price="40" unlock_xp_level="9" multiplier="1.25"  alternativeCost="15000"/>
+      <UFO price="145" unlock_xp_level="22" multiplier="1.31"  alternativeCost="25000"/>
+      <Plane price="250" unlock_xp_level="32" multiplier="1.33"  alternativeCost="40000"/>
+  </special_cars>
+  
+  <save_me>
+      <Cost diamonds="1, 2, 5, 10, 15, 25"/>
+      <Duration seconds="4.75"/>
+      <Time multiplier="2.0" upgrade="2" seconds="10"/>
+      <ThirdBolt multiplier="1.25" upgrade="1" seconds="5"/>
+      <HelpingHand multiplier="0.75" upgrade="1" seconds="5"/>
+  </save_me>
+  
+  <wheel>
+    <cheap perc="85.0" quantity="4">
+      <pack1 quantity="100" type="Coin" />
+      <pack2 quantity="200" type="Coin" />
+      <pack3 quantity="300" type="Coin" />
+      <pack4 quantity="400" type="Coin" />
+      <pack5 quantity="500" type="Coin" />
+      <pack6 quantity="600" type="Coin" />
+      <pack8 quantity="1" type="ExtraSpin" />
+      <pack9 quantity="1" type="Fuel" />
+    </cheap>
+    <medium perc="14.0" quantity="3">
+      <pack1 quantity="700" type="Coin" />
+      <pack2 quantity="1000" type="Coin" />
+      <pack3 quantity="1200" type="Coin" />
+      <pack4 quantity="1500" type="Coin" />
+      <pack5 quantity="1" type="Diamond" />
+      <pack6 quantity="3" type="Diamond" />
+      <pack7 quantity="4" type="Diamond" />
+      <pack8 quantity="2" type="Fuel" />
+    </medium>
+    <rich perc="1.0" quantity="1">
+      <pack1 quantity="20000" type="Coin" />
+      <pack2 quantity="25" type="Diamond" />
+      <pack3 quantity="25" type="Fuel" />
+      <pack4 quantity="1" type="FuelFreeze" />
+      <!--pack5 quantity="1" type="Car" /-->
+    </rich>
+    <extra_spin quantity="3" cost="3"/>
+    <near_win perc="40.0"/>
+  </wheel>
+  
+  
+    <daily_bonus>
+        <bonus1 bonusId="0" quantity="300" type="Coin" />
+        <bonus2 bonusId="1" quantity="1" type="ExtraSpin" />
+        <bonus3 bonusId="2" quantity="-1" type="Mistery">
+        	<reward quantity="500" type="Coin" />
+        	<reward quantity="1" type="Diamond" />
+        </bonus3>
+        <bonus4 bonusId="3" quantity="1000" type="Coin" />
+        <!--bonus5 bonusId="4" quantity="1" type="SpecialCar" /-->
+        <bonus5 bonusId="4" quantity="15" type="Diamond" />
+        <recover_streak cost="3"/>
+  </daily_bonus>
+    
+  <specials>
+      <Money>
+          <best id="1"/>
+          <popular id="5"/>
+      </Money>
+      <Diamonds>
+          <best id="1"/>
+          <popular id="5"/>
+      </Diamonds>
+      <Fuel>
+          <best id="1"/>
+          <popular id="5"/>
+      </Fuel>
+  </specials>
+
+  <advertising>
+    <chartboost_is_enabled value="false"/>
+    <chartboost_limit_per_day value="2"/>
+    <!--<boost_video_limit_per_day value="2"/>-->
+  </advertising>
+
+  <interstitials interstitials_are_enabled="true" num_sessions_to_skip="2" max_per_session="5" max_per_day="5">
+    <trigger_point id="missionCompleted" enabled="true"/>
+    <trigger_point id="backToMainScreen" enabled="true"/>
+    <trigger_point id="levelUp" enabled="true"/>
+  </interstitials>
+
+  <video_ads video_ads_are_enabled="true" coins_reward_for_video="100" max_videos_per_day="5" max_booster_videos_per_day="3" max_freefuel_videos_per_day="2" max_freesaveme_videos_per_day="2"/>
+  
+  <android_video_ads>
+    <!--<coins_reward value="100"/>-->
+    <flurry_ads_priority value="2"/>
+    <adcolony_priority value="1"/>
+  </android_video_ads>
+  
+  <police_and_helicopter>
+    <general min_distance_from_checkpoint="400" />
+    <police percentage="80.0">
+      <one percentage="65.0" min_spawn_distance="800" max_spawn_distance="1700"/>
+      <three percentage="25.0" min_spawn_distance="1300" max_spawn_distance="3000"/>
+    </police>
+    <helicopter>
+      <one min_spawn_distance="1000" max_spawn_distance="2300"/>
+      <two min_spawn_distance="1400" max_spawn_distance="3400"/>
+      <three min_spawn_distance="2000" max_spawn_distance="6000"/>
+    </helicopter>
+  </police_and_helicopter>
+  
+  <obstacles>
+      <road_works min_duration="75" max_duration="125" min_distance="250" max_distance="350"/>
+      <central_mud min_duration="150" max_duration="200" min_hole_duration="150" max_hole_duration="200"/>
+  </obstacles>
+  
+  <power_ups>
+      <BonusTurbo start_min_spawn_distance="400" start_max_spawn_distance="1100" end_min_spawn_distance="400" end_max_spawn_distance="1100"/>
+      <BonusMoney start_min_spawn_distance="150" start_max_spawn_distance="180" end_min_spawn_distance="180" end_max_spawn_distance="200"/>
+      <BonusMagnet start_min_spawn_distance="1400" start_max_spawn_distance="1400" end_min_spawn_distance="1900" end_max_spawn_distance="2500"/>
+      <BonusShield start_min_spawn_distance="1600" start_max_spawn_distance="1600" end_min_spawn_distance="2600" end_max_spawn_distance="3500"/>
+  </power_ups>
+  
+  <traffic>
+	<data range="2">
+      <initial_values start_min_spawn_distance="75" start_max_spawn_distance="125" end_min_spawn_distance="75" end_max_spawn_distance="125"/>
+      <limit_values max_start_min_spawn_distance="25" max_start_max_spawn_distance="45" max_end_min_spawn_distance="25" max_end_max_spawn_distance="45"/>
+      <increments delta_start_min_spawn_distance="4" delta_start_max_spawn_distance="7" delta_end_min_spawn_distance="4" delta_end_max_spawn_distance="7"/>
+    </data>
+	<data>
+      <initial_values start_min_spawn_distance="70" start_max_spawn_distance="120" end_min_spawn_distance="70" end_max_spawn_distance="120"/>
+      <limit_values max_start_min_spawn_distance="25" max_start_max_spawn_distance="45" max_end_min_spawn_distance="25" max_end_max_spawn_distance="45"/>
+      <increments delta_start_min_spawn_distance="4" delta_start_max_spawn_distance="7" delta_end_min_spawn_distance="4" delta_end_max_spawn_distance="7"/>
+    </data>
+  </traffic>
+  
+  <social>
+    <invites reset_after_days="1" max_invites="5" reward_diamonds="1"/>
+    <gifts reset_after_days="1" max_gifts="5"/>
+    <fbadvise ingame_advise_duration="5"/>
+  </social>
+  
+  <rank_bar>
+    <level_up_reward first_time="1" increase="1" increase_every_levels="10"/>
+    <consumable_bonuses level_init="0" level_interval="7" gems_quantitiy_init="1" gems_quantitiy_mult="1.5" coins_quantitiy_init="1" coins_quantitiy_mult="1.5" fuel_quantitiy_init="1" fuel_quantitiy_mult="1.5" spins_quantitiy_init="1" spins_quantitiy_mult="1.5"/>
+  </rank_bar>
+  
+  <level_bonuses>
+    <bonus level="2" type="FuelPack" quantity="3"/>
+    <bonus level="3" type="Other" quantity="-1"/>
+    <bonus level="4" type="GemsPack" quantity="8"/>
+    <bonus level="5" type="CoinsPack" quantity="1500"/>
+    <bonus level="6" type="FuelPack" quantity="4"/>
+    <bonus level="7" type="Other" quantity="-1"/>
+    <bonus level="8" type="GemsPack" quantity="3"/>
+    <bonus level="9" type="Other" quantity="-1"/>
+    <bonus level="10" type="GemsPack" quantity="8"/>
+    <bonus level="11" type="FuelPack" quantity="4"/>
+    <bonus level="12" type="CoinsPack" quantity="2000"/>
+    <bonus level="13" type="Other" quantity="-1"/>
+    <bonus level="14" type="GemsPack" quantity="3"/>
+    <bonus level="15" type="FreeSpinsPack" quantity="2"/>
+    <bonus level="16" type="Other" quantity="-1"/>
+    <bonus level="17" type="GemsPack" quantity="4"/>
+    <bonus level="18" type="Other" quantity="-1"/>
+    <bonus level="19" type="GemsPack" quantity="8"/>
+    <bonus level="20" type="FuelPack" quantity="20"/>
+    <bonus level="21" type="Other" quantity="-1"/>
+    <bonus level="22" type="Other" quantity="-1"/>
+    <bonus level="23" type="CoinsPack" quantity="3000"/>
+    <bonus level="24" type="GemsPack" quantity="8"/>
+    <bonus level="25" type="Other" quantity="-1"/>
+    <bonus level="26" type="FreeSpinsPack" quantity="3"/>
+    <bonus level="27" type="FuelFreeze" quantity="1"/>
+    <bonus level="28" type="CoinsPack" quantity="3500"/>
+    <bonus level="29" type="GemsPack" quantity="10"/>
+    <bonus level="30" type="FreeSpinsPack" quantity="4"/>
+    <bonus level="31" type="FuelPack" quantity="6"/>
+    <bonus level="32" type="Other" quantity="-1"/>
+    <bonus level="33" type="CoinsPack" quantity="4000"/>
+    <bonus level="34" type="GemsPack" quantity="12"/>
+    <bonus level="35" type="Other" quantity="-1"/>
+  </level_bonuses>
+    
+  <level_bonuses_alternative>
+    <bonus level="3" type="CoinsPack" quantity="1500"/>
+    <bonus level="7" type="CoinsPack" quantity="1800"/>
+    <bonus level="9" type="CoinsPack" quantity="2000"/>
+    <bonus level="13" type="CoinsPack" quantity="2500"/>
+    <bonus level="16" type="CoinsPack" quantity="2800"/>
+    <bonus level="18" type="CoinsPack" quantity="3000"/>
+    <bonus level="21" type="CoinsPack" quantity="3500"/>
+    <bonus level="22" type="CoinsPack" quantity="3800"/>
+    <bonus level="25" type="CoinsPack" quantity="4000"/>
+    <bonus level="32" type="CoinsPack" quantity="4500"/>
+    <bonus level="35" type="CoinsPack" quantity="4800"/>
+  </level_bonuses_alternative>
+  
+  <general>
+    <tiers_count value="4"/>
+    <max_player_level value="35"/>
+    <mission_related_modifications helicopter_distance_multiplier="0.8" police_distance_multiplier="0.7"/>
+    <mission_reward diamonds="1" diamond_perc="25" base_value="2400" increase_per_level="100" meters_multiplier="0.1"/>
+    <skip_mission_popup first_time="0" shown_every="5" diamonds_to_skip_multiplier="1"/>
+    <percentage_force_special_vehicle value="90.0"/>
+    <special_cameras>
+      <slideshow active="0" enter_speed="6.0" exit_speed="3.0"/>
+      <turbo active="0" enter_speed="1.5" exit_speed="1.5"/>
+      <final active="0" enter_speed="3.0" exit_speed="1.8"/>
+    </special_cameras>
+    <collision_protection_time value="1.0"/>
+    <visible_fuel value="4"/>
+    <time_to_wait_to_trucks_advise value="0"/>
+    <time_to_wait_to_reach_rank value="4"/>
+    <show_fps value="false"/>
+    <checkpoints distance="1500" time_list="25, 20, 17, 15, 14, 13, 13" init_time="12" decrease_time="0" min_time="12"/>
+    <avg_coins_per_run value="400"/>
+    <avg_xp_per_run value="1000"/>
+    <initial_currencies diamonds="5" coins="0"/>
+    <tiers_xp_threshold value="0, 7, 16, 25" buy_for="0, 40, 100, 200"/>
+    <tiers_price value="0, 0, 0, 0" currency="Coin, Diamond, Diamond, Diamond"/>
+    <tiers_coming_soon value="0, 0, 0, 0"/>
+    <fuel_freeze duration_hours="12" notification_advance_seconds="3600"/> 
+    <fuel_refill duration_minutes="10"/>
+    <slipstreamReward base="1" step="1" exponent="1.6"/>
+    <opponent_crash normal="1" special="2"/>
+    <helicopter_cone coins_for_delta="3" delta_time="0.15"/>
+    <missions_xp increment="200" easy="3000" medium="500" hard="2"/>
+    <missions_cost increment="80"/>
+    <turbo_duration seconds="7"/>
+    <slipstream wait_for_activation="0.0" duration="1.7" distance="24" acceleration="25" deltaSpeed="85" acceleration_list="28, 28, 34, 34, 36, 36" deltaSpeed_list="20, 35, 45, 55, 65, 75, 85, 90"/>
+    <slipstream_from_truck_duration seconds="1"/>
+    <weekly_challemge_reward quantity="1"/>
+    <first_fuel_gift quantity="4" enabled="1"/>
+    <num_scores_offgame_ranks value="50"/>
+    <num_scores_ingame_ranks value="100"/>
+    <facebook_page_link value="https://www.facebook.com/pages/On-The-Run/251185165078080"/>
+    <facebook_login value="5" initial_counter="0" delta_counter="5" max_times_shown="4" with_reward_appear_after="0" type="Diamond" diamonds_for_invite="1"/>
+	<facebook_logged_popup days="1" minutes="10" friends="2"/>
+    <inapp_remove_ads_advisefreq value="3"/> <!-- 0 = just first time, X = every X times -->
+  </general>
+  
+</config>

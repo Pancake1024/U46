@@ -1,0 +1,40 @@
+{
+  "group": "SponsorPay",
+  "patches": [],
+  "libs": [
+    "SponsorPay/iOS/sponsorpay-sdk/libSponsorPaySDK-7.2.2.a:<group>"
+  ],
+  "librarysearchpaths": [
+    "SponsorPay/iOS/sponsorpay-sdk/"
+  ],
+  "frameworks": [
+    "AdSupport.framework:weak",
+    "CoreGraphics.framework",
+    "QuartzCore.framework",
+    "MediaPlayer.framework",
+    "SystemConfiguration.framework",
+    "StoreKit.framework:weak",
+    "CoreTelephony.framework",
+    "Security.framework"
+  ],
+  "headerpaths": [
+    "SponsorPay/iOS",
+    "SponsorPay/iOS/sponsorpay-sdk"
+  ],
+  "files": [
+    "SponsorPay/iOS/SponsorPayUnityPlugin.mm:-fobjc-arc"
+  ],
+  "folders": [
+    "SponsorPay/iOS/sponsorpay-sdk/Resources"
+  ],	
+  "excludes": [],
+  "linkers": [
+  "-ObjC"
+  ],
+  "plist": [
+    "<root>
+        <key>SPOFWShowCloseOnLoad</key>
+        <false/>
+    </root>"
+  ]
+}

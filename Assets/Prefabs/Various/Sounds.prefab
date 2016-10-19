@@ -1,0 +1,294 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400002}
+  - 114: {fileID: 11400004}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Sounds
+  m_TagString: Sounds
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.20013332, y: -5.39002371, z: 9.09348202}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0ea26b224f667949b0af1042d957556, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Explosions:
+  - {fileID: 8300000, guid: b5476ab4548e93241b864d62561b4f56, type: 3}
+  - {fileID: 8300000, guid: 93feac8028d5f744ead9c2744b3f4276, type: 3}
+  - {fileID: 8300000, guid: b49ab7ba65486d14f9a96a42eb25a079, type: 3}
+  - {fileID: 8300000, guid: f2b4420e18693a94bbe1949cab78ede5, type: 3}
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25d646db583730b41a85102e3a6f260a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  offgameMusicBaseVolume: 1
+  ingameMusic: {fileID: 0}
+  ingameMusicBadGuys: {fileID: 0}
+  metersOk: {fileID: 8300000, guid: d9d46e474a7c824488bcf05aa555e41c, type: 3}
+  bonusTurbo:
+  - {fileID: 8300000, guid: 929f9777c7d5b6d428179996a2d257a4, type: 3}
+  - {fileID: 8300000, guid: 40dd151c6f608c747afaab044f4ff1f5, type: 3}
+  - {fileID: 8300000, guid: 62ecbc7a8ab753743abac1271f96427d, type: 3}
+  bonusMoney: {fileID: 8300000, guid: 325dc56cb06563c47966e6a2bd91faa9, type: 3}
+  bonusBigMoney: {fileID: 8300000, guid: 90923682c67bce6459700426c3572d73, type: 3}
+  bonusMagnet: {fileID: 8300000, guid: a2667e3b673f7514cb53008c4273d303, type: 3}
+  bonusShield: {fileID: 8300000, guid: 068d274733079854494adc578320280c, type: 3}
+  ramp: {fileID: 8300000, guid: e3c56c2d051c5174f9ce4e9b8cc91211, type: 3}
+  startBigfoot: {fileID: 8300000, guid: d5b91018fe92fb84ca1690028606bed3, type: 3}
+  startTank: {fileID: 8300000, guid: f02a8ca9fe0514a4a94a05627730e63e, type: 3}
+  tankCannon: {fileID: 8300000, guid: 3bee2348b0bb0e64b82e82e9a9208ef7, type: 3}
+  landing: {fileID: 8300000, guid: e841ed6b1de2e404e85b3141d721a326, type: 3}
+  landingTank: {fileID: 8300000, guid: 2f53a686bc0c7da4c99c0f758ff581a4, type: 3}
+  backToCar: {fileID: 8300000, guid: bd193b24e1ca0594d92d00787a303101, type: 3}
+  jingleTv: {fileID: 8300000, guid: 2387bc261cdac9845ac11c7a173f41f6, type: 3}
+  moneyOnAir: {fileID: 8300000, guid: 73187bd4e055c5e4a94832cdff1e4c3e, type: 3}
+  ufoTractorBeam: {fileID: 8300000, guid: b0055cfe171f8cb439c47467f509d19d, type: 3}
+  planeGun: {fileID: 8300000, guid: 55e15e310d29cee40a5d685b3c3b42bd, type: 3}
+  firetruckSiren: {fileID: 8300000, guid: c947059ed33f947459fba724606e30e6, type: 3}
+  woodHit: {fileID: 8300000, guid: 9213e28ea6454054aaf631c8928da57d, type: 3}
+  wind: {fileID: 8300000, guid: 559564d80c5e04b40b38a373bc0aa3f6, type: 3}
+  missionCompleted: {fileID: 8300000, guid: 93db60e6754a5de41889698b4e26c446, type: 3}
+  speechInitial:
+  - {fileID: 8300000, guid: 2e33968f304ebff4bb702b2d0bc4f670, type: 3}
+  - {fileID: 8300000, guid: 74c4867ffeed8f446bf59e49dae628cd, type: 3}
+  speechBolt:
+  - {fileID: 8300000, guid: d98ee541f341e124899dabc2a3b28f7d, type: 3}
+  - {fileID: 8300000, guid: 8b7a8995dbb674e42b76bb2d24f18d98, type: 3}
+  - {fileID: 8300000, guid: 941cdd049a826b64fa47c1bfea15df0e, type: 3}
+  - {fileID: 8300000, guid: e157d4f0245865441928c66d99fbe442, type: 3}
+  - {fileID: 8300000, guid: 05910f31baa94ee4cafe26b2cad39f1f, type: 3}
+  - {fileID: 8300000, guid: 41bc1a4140d7c174e99974fd7ff00d59, type: 3}
+  - {fileID: 8300000, guid: ff61096bc350e494184d002320de1d48, type: 3}
+  speechTank:
+  - {fileID: 8300000, guid: 003ef7e719356f442acf17ed5fd07242, type: 3}
+  - {fileID: 8300000, guid: 97f665083e1526742a46b7795f7f7bf4, type: 3}
+  speechBigfoot:
+  - {fileID: 8300000, guid: f59ca90b4917e3f418140ded64f729e6, type: 3}
+  - {fileID: 8300000, guid: 11b0893f0c83ca343be16333f453e110, type: 3}
+  speechCheckpoint:
+  - {fileID: 8300000, guid: 623e35cbade6eb24694130f87789cb3a, type: 3}
+  - {fileID: 8300000, guid: c803ffb7e5486144085acdd0885fd073, type: 3}
+  - {fileID: 8300000, guid: 6d37f6451b973df439d355bc7e692890, type: 3}
+  - {fileID: 8300000, guid: 88d0e5d7dcb5d1a42abaec71cb487f49, type: 3}
+  - {fileID: 8300000, guid: da69e4ff548f0e948988bd7b4fe68ed0, type: 3}
+  speechTruckTurbo:
+  - {fileID: 8300000, guid: 27549329c8144e84a9d5d2812a982680, type: 3}
+  - {fileID: 8300000, guid: b53ecb2b743bda849a37b5b9203ef308, type: 3}
+  - {fileID: 8300000, guid: d168b214c1d44b8468797213f7e1c42a, type: 3}
+  speechCollision:
+  - {fileID: 8300000, guid: d3a1a2a9b61910742aab975e662d4995, type: 3}
+  - {fileID: 8300000, guid: fb6806e68b4dfaf4bb2a905f5d19db6d, type: 3}
+  - {fileID: 8300000, guid: bf37af912d077b44ca92ce0ffdc76fd2, type: 3}
+  - {fileID: 8300000, guid: 61ed8bc0fab57534c9a85f5c76283448, type: 3}
+  - {fileID: 8300000, guid: fb6806e68b4dfaf4bb2a905f5d19db6d, type: 3}
+  - {fileID: 8300000, guid: bf37af912d077b44ca92ce0ffdc76fd2, type: 3}
+  speechTimeEnded:
+  - {fileID: 8300000, guid: e0724480345956b419b48a4e2bc06d97, type: 3}
+  - {fileID: 8300000, guid: 38898d1678893a442beaa4dc01a97736, type: 3}
+  - {fileID: 8300000, guid: d6494e6f22b84224282153e5b7a0e0d7, type: 3}
+  speechBadGuy:
+  - {fileID: 8300000, guid: d35999d716fa7ce43a843f76b4ed23e1, type: 3}
+  - {fileID: 8300000, guid: aad019e0add9b8c478eff008731ec67e, type: 3}
+  - {fileID: 8300000, guid: d8b5a7832ccbf414f98df495bd450d55, type: 3}
+  - {fileID: 8300000, guid: 10baf784a614c814bbc791186121bd98, type: 3}
+  speechHurry:
+  - {fileID: 8300000, guid: c43bb228ef30ca84b8f60263949b7708, type: 3}
+  speechBoom:
+  - {fileID: 8300000, guid: 46c61a959d1517340ba093c75cf24e2f, type: 3}
+  - {fileID: 8300000, guid: 99b580ee9f508d247a483739bdbd2bfa, type: 3}
+  - {fileID: 8300000, guid: 516f77a4164d54b439a0105215becccd, type: 3}
+  - {fileID: 8300000, guid: 82f97cbe6eac6f443b6cc01bb69ca288, type: 3}
+  speechPoliceEnter:
+  - {fileID: 8300000, guid: 09defb90f7309324eb63636c81c49988, type: 3}
+  - {fileID: 8300000, guid: e98c9b03d0d1aaf4eb8fb8921b48c7f3, type: 3}
+  - {fileID: 8300000, guid: b855e5b427c903b46b6b8bac8bb077f7, type: 3}
+  - {fileID: 8300000, guid: a45b9f27b86c0c242a510498bef7ee6d, type: 3}
+  - {fileID: 8300000, guid: 4bebcf8b471a1214f93fb017e3b0f650, type: 3}
+  - {fileID: 8300000, guid: 7df44ff5b75eaec46a9a66e4978e790c, type: 3}
+  - {fileID: 8300000, guid: 95858f3e6d19de54697fc9b3094067fd, type: 3}
+  - {fileID: 8300000, guid: 33b425b7ef943a541ab109e5ddd3641f, type: 3}
+  - {fileID: 8300000, guid: afdfee21eb8792f4799bace62d6534c1, type: 3}
+  - {fileID: 8300000, guid: 96e895b8aa77fb144871fd2a36612c8c, type: 3}
+  speechHelicopterEnter:
+  - {fileID: 8300000, guid: 0ee3744f8fcda3849b8d36b0b7dec581, type: 3}
+  - {fileID: 8300000, guid: bc451b4cd0287864c8746bed3f4feacf, type: 3}
+  - {fileID: 8300000, guid: 8d98f41d8bdb95c4db0a194460a74bd1, type: 3}
+  - {fileID: 8300000, guid: 538cb855d25f2e84bbe6f83438a022ce, type: 3}
+  - {fileID: 8300000, guid: d7479448462c9414f83ef6d95e348c09, type: 3}
+  - {fileID: 8300000, guid: 431524643dbf72e428a24fcd8815d320, type: 3}
+  speechPlaneEnter:
+  - {fileID: 8300000, guid: 84d2e65c64cb4f34cb82aac661e343a5, type: 3}
+  - {fileID: 8300000, guid: ce41f7f0381e87541ad952e63e0f110e, type: 3}
+  - {fileID: 8300000, guid: 13e39fde723592445a4a9de2fa49ed25, type: 3}
+  - {fileID: 8300000, guid: 6c5d4ea393f734541ba136d0772a79f4, type: 3}
+  - {fileID: 8300000, guid: 4a15a04b94a70f448aa7ff2656a1c425, type: 3}
+  - {fileID: 8300000, guid: 0f5cba0ec585fca468c8e6fcbe4fe2f7, type: 3}
+  - {fileID: 8300000, guid: 4e229dad958976e459ea0fc558c0ee2b, type: 3}
+  - {fileID: 8300000, guid: bfd6b4a3a0488714e924bcad603ce6e6, type: 3}
+  - {fileID: 8300000, guid: 4a34fe780c8aaed4d9c1bd2df3510938, type: 3}
+  - {fileID: 8300000, guid: 41fb31b5da86d854da7ded7309811828, type: 3}
+  - {fileID: 8300000, guid: 93898f39b74b3b3489237076955c12a6, type: 3}
+  - {fileID: 8300000, guid: 00f7ed59e35685642a1e2e780a9d7e70, type: 3}
+  - {fileID: 8300000, guid: b862f99eb935b7248879c0a824b6dac8, type: 3}
+  speechUFOEnter:
+  - {fileID: 8300000, guid: 13118b10906cce14ab3a2714b9407c29, type: 3}
+  - {fileID: 8300000, guid: e78f40b96a21b384cadd7bda6e9fde15, type: 3}
+  - {fileID: 8300000, guid: 386714a6c6e822441a2b0523175b847a, type: 3}
+  - {fileID: 8300000, guid: c5cc9a35014142449baaeba4c7feb991, type: 3}
+  - {fileID: 8300000, guid: 4d4d6ff76ebe1c445b58ba24647956fe, type: 3}
+  - {fileID: 8300000, guid: 9f51fb7628c2a2c488ad361736809197, type: 3}
+  - {fileID: 8300000, guid: 335d522f735eede4fab4a5aad78e9ad3, type: 3}
+  - {fileID: 8300000, guid: 243550449bb49634bb7a9ae224ec6d88, type: 3}
+  - {fileID: 8300000, guid: 201941057a524f7478ec559f6c966741, type: 3}
+  - {fileID: 8300000, guid: 4608a11b186291a4e8e42385761b278c, type: 3}
+  - {fileID: 8300000, guid: 2d1e5538b7534c44887a1ae049469db4, type: 3}
+  - {fileID: 8300000, guid: b56412ee4d2ebd24ea92414c5f50d0a9, type: 3}
+  - {fileID: 8300000, guid: afe644dc9215d0d4a9dd7d25cbeee5e2, type: 3}
+  - {fileID: 8300000, guid: 6209bcb618648dd42ad75ecf1bbef047, type: 3}
+  - {fileID: 8300000, guid: f6741ede08a12f245af3bb3425689974, type: 3}
+  - {fileID: 8300000, guid: 388e758bf4f89854dab0da0a6c720003, type: 3}
+  - {fileID: 8300000, guid: d46589e1cfc43a749bd3470df7bb1b4e, type: 3}
+  speechFiretruckEnter:
+  - {fileID: 8300000, guid: c63e142336bd16c498011341e5db15bd, type: 3}
+  - {fileID: 8300000, guid: 3129a1ea0b90db748809ed26baf01ec4, type: 3}
+  - {fileID: 8300000, guid: 30740e7829ab51f44b0ef70d9839be34, type: 3}
+  - {fileID: 8300000, guid: de2529fc4699b5448bbab97ee5fbf0e0, type: 3}
+  - {fileID: 8300000, guid: e0b51136fcaae104a93fda1939786e5b, type: 3}
+  - {fileID: 8300000, guid: 5de2dc799b7f0bf49963554013163340, type: 3}
+  - {fileID: 8300000, guid: 761cf0ae2c01e7146a20e55eec57c5fb, type: 3}
+  - {fileID: 8300000, guid: 81c2b513bd3fb6342bd373de0c8c6131, type: 3}
+  - {fileID: 8300000, guid: 1749d52963baa3b4c864bdc8ac1f06ca, type: 3}
+  - {fileID: 8300000, guid: fad28406853c0f94fbce35829fb404ea, type: 3}
+  speechReporterFirstPart:
+  - speechList:
+    - {fileID: 8300000, guid: 554fe2664ed789941a29c0db4fe29fdb, type: 3}
+    - {fileID: 8300000, guid: 19367fe02cff95b468056a0a0166f85a, type: 3}
+    - {fileID: 8300000, guid: 28b7059ade3ed7b43897fa0b9fbc5a01, type: 3}
+    - {fileID: 8300000, guid: 43ec94fb904a3d948b167e8edbe8a2bf, type: 3}
+  - speechList:
+    - {fileID: 8300000, guid: d52560b9fe56abf45bfb7d531b3e6ddb, type: 3}
+    - {fileID: 8300000, guid: 5287cd8176ee418458ae9a99e3b2b4cd, type: 3}
+    - {fileID: 8300000, guid: 236127e42fa000c42925ba85779aa5eb, type: 3}
+    - {fileID: 8300000, guid: 66d424e85f872e743960adfdb8c9cda3, type: 3}
+    - {fileID: 8300000, guid: a30fcd0f822ed084fb409ba4a771f71f, type: 3}
+  - speechList:
+    - {fileID: 8300000, guid: 53b65ead8f3b1dd42b5a2fa2ee4abedb, type: 3}
+    - {fileID: 8300000, guid: f5f72861bfe9bc644967f4d34a29340e, type: 3}
+  speechReporterSecondPart:
+  - speechList:
+    - {fileID: 8300000, guid: 434aa45359787b64797eea7f621c0684, type: 3}
+    - {fileID: 8300000, guid: 092048bc8f608464280e8e16c7c51117, type: 3}
+    - {fileID: 8300000, guid: e9a021aeb1721664e8792525dc666181, type: 3}
+    - {fileID: 8300000, guid: 6f86a7e5c7af6c0459007dddc96ed9f1, type: 3}
+    - {fileID: 8300000, guid: b98ead3f42e86cb42a6ee1cb5aa5c5fa, type: 3}
+  - speechList:
+    - {fileID: 8300000, guid: bbf9cacba7c5c2d4885ee6fbbca7dd8d, type: 3}
+    - {fileID: 8300000, guid: e67c0ea851916c94a83abbac91c058b4, type: 3}
+    - {fileID: 8300000, guid: bc7fdfaef20cce24491bbc22e2438e14, type: 3}
+  - speechList:
+    - {fileID: 8300000, guid: 3e3d3944534fab2468e0be9ce3766bdc, type: 3}
+    - {fileID: 8300000, guid: 5f501ce2c31d9a04ea07b0da86472dde, type: 3}
+    - {fileID: 8300000, guid: f621dcf0e5884e544982234f705639ff, type: 3}
+    - {fileID: 8300000, guid: 86df96b854c27504997a4b57a362476e, type: 3}
+  - speechList:
+    - {fileID: 8300000, guid: bd8af995d6601694e86590df6dd016c8, type: 3}
+    - {fileID: 8300000, guid: d50e46be7752aee41800f57a55cd9f58, type: 3}
+    - {fileID: 8300000, guid: 5fe814ed1a88b34468ddd25095427c4c, type: 3}
+    - {fileID: 8300000, guid: a352332717b31ad489e335beb844a04e, type: 3}
+  - speechList:
+    - {fileID: 8300000, guid: 38e7e8156d14b904a96069a107cf8cc8, type: 3}
+    - {fileID: 8300000, guid: 6db0a0f0c8c668249aa0de8ba1a7c03c, type: 3}
+    - {fileID: 8300000, guid: 733c288772bbecc40ac6d9e3eef940f3, type: 3}
+    - {fileID: 8300000, guid: 224f57a21b1f88240ada0f64fb17e27a, type: 3}
+  - speechList:
+    - {fileID: 8300000, guid: 01d13d1f8627a2a4085b2fd19b1381c6, type: 3}
+    - {fileID: 8300000, guid: 0774e2d00e91d1c42b8333f243ef7fec, type: 3}
+    - {fileID: 8300000, guid: 1c0145974c5dc5b40b1b6afa7b4c19a0, type: 3}
+    - {fileID: 8300000, guid: df442b64c2ac23c45aed856c6670342b, type: 3}
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 763d6c4a5eebd634291c018edc9a4704, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scroll_car: {fileID: 8300000, guid: 8d398f662d09d3f4a8f18126a6a573fe, type: 3}
+  popup: {fileID: 8300000, guid: ddfe1d08ba901e8429ade8109ec941a5, type: 3}
+  buy: {fileID: 8300000, guid: 2b77f57b0de9b1e429e1ca781d73b144, type: 3}
+  change_location: {fileID: 8300000, guid: 9eabbbff5574eb04a9d2174035d4fae8, type: 3}
+  counter_star: {fileID: 8300000, guid: 838b62bad6d924f4ea214fa2e3c0effe, type: 3}
+  counter_coin: {fileID: 8300000, guid: 14f9b59afced82c47b3f1ea0915155fa, type: 3}
+  panel_exit: {fileID: 8300000, guid: 3f3719ce7811d0d4982f0f1a7d4f0753, type: 3}
+  panel_enter: {fileID: 8300000, guid: c6d9efa61156022419940bf37243037d, type: 3}
+  padlock_open: {fileID: 8300000, guid: b96257cdc40b42a45a130fdae1256ab1, type: 3}
+  spin_peg: {fileID: 8300000, guid: 590a827f9fb2ae84ca9bbc4a57fa23ea, type: 3}
+  spin_coin: {fileID: 8300000, guid: 3e597f409829ecd48aa35792c6a13efd, type: 3}
+  spin_powerup: {fileID: 8300000, guid: a768df880291e2c49ac97a5c3f9a237a, type: 3}
+  spin_main: {fileID: 8300000, guid: 858236aed4bf12049be256adee21ebb8, type: 3}
+  fireworks: {fileID: 8300000, guid: eabb3def2b0f8214ca1efbfd0740b015, type: 3}
+  click: {fileID: 8300000, guid: 5b1ab86230cf5b54bb2403d2fa6ff6fa, type: 3}
+  offgameMusic: {fileID: 8300000, guid: 3bff841e7ced2cd44bc21c8670a9a1db, type: 3}
+  offgameMusicAlt1: {fileID: 8300000, guid: b5e1eb813948da34c937ee3f9fc40cae, type: 3}
+  offgameMusicAlt2: {fileID: 8300000, guid: b58c2da145b034b4db102f24ad16ea82, type: 3}
+  jinglePos: {fileID: 0}
+  jingleNeg: {fileID: 0}
+  hurryUp: {fileID: 0}
+  ready: {fileID: 8300000, guid: b7fd48078e021db43aa5bab6e2cc5ff0, type: 3}
+  go: {fileID: 8300000, guid: fa95ac1ac58173d4b9f3c54a3d2d2484, type: 3}
+  swish: {fileID: 8300000, guid: 23b5fd9a8cd87614298ecdb907fe8cfc, type: 3}
+  endingTime: {fileID: 8300000, guid: 66d067ac66cfe46419a9f38d761a4d1d, type: 3}
+  turboExplosion: {fileID: 8300000, guid: 2b5a82f24d26eda4a95544468e75a87d, type: 3}
+  checkPointClips:
+  - {fileID: 8300000, guid: 09d064ae884967b408cf91038ba8f17e, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

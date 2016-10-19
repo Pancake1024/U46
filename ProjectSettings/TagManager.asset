@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  tags:
+  - Interface
+  - Player
+  - Sounds
+  - GameplayManagers
+  - Bonus
+  - Turbo_fx
+  - Turbo_fx_smoke
+  - Checkpoint
+  - Turbo_fx_speed
+  - Turbo_fx_explosion
+  - Bonus_turbo
+  - Draft_fx
+  - Traffic
+  - FxTemporaire
+  - TunnelLights
+  - BonusSpecialTrigger
+  - Police
+  - GameLight
+  - GarageLight
+  - GarageCar
+  - UICameraUnity
+  - MiniclipAPI
+  - 
+  Builtin Layer 0: Default
+  Builtin Layer 1: TransparentFX
+  Builtin Layer 2: Ignore Raycast
+  Builtin Layer 3: 
+  Builtin Layer 4: Water
+  Builtin Layer 5: UI
+  Builtin Layer 6: 
+  Builtin Layer 7: 
+  User Layer 8: OverlaysLayer
+  User Layer 9: Ground
+  User Layer 10: Gesture
+  User Layer 11: Tunnel
+  User Layer 12: Traffic
+  User Layer 13: Bonus
+  User Layer 14: Player
+  User Layer 15: Blocks
+  User Layer 16: Fx
+  User Layer 17: GuardRail
+  User Layer 18: 
+  User Layer 19: 
+  User Layer 20: 
+  User Layer 21: 
+  User Layer 22: 
+  User Layer 23: 
+  User Layer 24: 
+  User Layer 25: 
+  User Layer 26: 
+  User Layer 27: 
+  User Layer 28: 
+  User Layer 29: 
+  User Layer 30: UIBackground
+  User Layer 31: UI_SBS
+  m_SortingLayers:
+  - name: Default
+    userID: 0
+    uniqueID: 0
+    locked: 0

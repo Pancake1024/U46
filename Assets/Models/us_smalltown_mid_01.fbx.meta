@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 7121bd7e710a78d449b456715f343665
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: us_smalltown_mid_01 1
+    100004: us_smalltown_props
+    100006: polySurface101
+    100008: polySurface102
+    100010: polySurface103
+    100012: polySurface104
+    100014: polySurface105
+    100016: polySurface106
+    100018: polySurface109
+    100020: polySurface111
+    100022: polySurface112
+    100024: polySurface113
+    100026: polySurface114
+    100028: polySurface115
+    100030: polySurface116
+    100032: us_smalltown_mid_01
+    100034: us_smalltown_mid_02
+    400000: //RootNode
+    400002: us_smalltown_mid_01 1
+    400004: us_smalltown_props
+    400006: polySurface101
+    400008: polySurface102
+    400010: polySurface103
+    400012: polySurface104
+    400014: polySurface105
+    400016: polySurface106
+    400018: polySurface109
+    400020: polySurface111
+    400022: polySurface112
+    400024: polySurface113
+    400026: polySurface114
+    400028: polySurface115
+    400030: polySurface116
+    400032: us_smalltown_mid_01
+    400034: us_smalltown_mid_02
+    2300000: us_smalltown_mid_01 1
+    2300002: us_smalltown_props
+    2300004: polySurface101
+    2300006: polySurface102
+    2300008: polySurface103
+    2300010: polySurface104
+    2300012: polySurface105
+    2300014: polySurface106
+    2300016: polySurface109
+    2300018: polySurface111
+    2300020: polySurface112
+    2300022: polySurface113
+    2300024: polySurface114
+    2300026: polySurface115
+    2300028: polySurface116
+    2300030: us_smalltown_mid_01
+    2300032: us_smalltown_mid_02
+    3300000: us_smalltown_mid_01 1
+    3300002: us_smalltown_props
+    3300004: polySurface101
+    3300006: polySurface102
+    3300008: polySurface103
+    3300010: polySurface104
+    3300012: polySurface105
+    3300014: polySurface106
+    3300016: polySurface109
+    3300018: polySurface111
+    3300020: polySurface112
+    3300022: polySurface113
+    3300024: polySurface114
+    3300026: polySurface115
+    3300028: polySurface116
+    3300030: us_smalltown_mid_01
+    3300032: us_smalltown_mid_02
+    4300000: us_smalltown_mid_01
+    4300002: us_smalltown_props
+    4300004: us_smalltown_mid_02
+    4300006: polySurface101
+    4300008: polySurface102
+    4300010: polySurface103
+    4300012: polySurface104
+    4300014: polySurface105
+    4300016: polySurface106
+    4300018: polySurface109
+    4300020: polySurface111
+    4300022: polySurface112
+    4300024: polySurface113
+    4300026: polySurface114
+    4300028: polySurface115
+    4300030: polySurface116
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

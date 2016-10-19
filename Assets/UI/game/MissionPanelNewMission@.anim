@@ -1,0 +1,1146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MissionPanelNewMission@
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1.21414208, y: 1.2141422, z: 1.2141422}
+        inSlope: {x: -1.42761385, y: -1.42761469, z: -1.42761469}
+        outSlope: {x: -1.42761385, y: -1.42761469, z: -1.42761469}
+        tangentMode: 0
+      - time: .150000006
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -.713806927, y: -.713807344, z: -.713807344}
+        outSlope: {x: -.713806927, y: -.713807344, z: -.713807344}
+        tangentMode: 0
+      - time: .216666669
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 5
+      - time: 1.2833333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: NewMissionEffect
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1054168405
+      - time: .616666675
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1038674153
+      - time: .666666687
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: .600000262, y: .600000262, z: .600000262}
+        outSlope: {x: .600000262, y: .600000262, z: .600000262}
+        tangentMode: 0
+      - time: .75
+        value: {x: 1.10000002, y: 1.10000002, z: 1.10000002}
+        inSlope: {x: .225000143, y: .225000143, z: .225000143}
+        outSlope: {x: .225000143, y: .225000143, z: .225000143}
+        tangentMode: 1769173865
+      - time: .883333325
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -.375000119, y: -.375000119, z: -.375000119}
+        outSlope: {x: -.375000119, y: -.375000119, z: -.375000119}
+        tangentMode: 0
+      - time: 1.0333333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 58
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: NewMissionEffect/tfNewMission
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .5, y: 2.7817409, z: 1}
+        inSlope: {x: 0, y: -12.935092, z: 0}
+        outSlope: {x: 0, y: -12.935092, z: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .5, y: .625892103, z: 1}
+        inSlope: {x: 0, y: -3.06357431, z: 0}
+        outSlope: {x: 0, y: -3.06357431, z: 0}
+        tangentMode: 0
+      - time: .483333319
+        value: {x: .5, y: 2.7817409, z: 1}
+        inSlope: {x: 0, y: 3.40397167, z: 0}
+        outSlope: {x: 0, y: 3.40397167, z: 0}
+        tangentMode: 5
+      - time: 1.0333333
+        value: {x: .5, y: 2.7817409, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: NewMissionEffect/h_line
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.2833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: LeftSide
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.2833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: RightSide
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.2833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: bg
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .996078432
+        inSlope: .0117647052
+        outSlope: .0117647052
+        tangentMode: 10
+      - time: .333333343
+        value: 1
+        inSlope: -.0176470634
+        outSlope: -.0176470634
+        tangentMode: 10
+      - time: .416666657
+        value: .996078432
+        inSlope: -.00672269985
+        outSlope: -.00672269985
+        tangentMode: 10
+      - time: .533333361
+        value: 1
+        inSlope: .00373481959
+        outSlope: .00373481959
+        tangentMode: 10
+      - time: .683333337
+        value: .996078432
+        inSlope: -.0130718965
+        outSlope: -.0130718965
+        tangentMode: 10
+      - time: 1.0333333
+        value: .996078432
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: .996078432
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.r
+    path: NewMissionEffect/tfNewMission
+    classID: 114
+    script: {fileID: 11500000, guid: f038246890c21f24b8071caf871990bb, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .992156863
+        inSlope: .0208822489
+        outSlope: .0208822489
+        tangentMode: 10
+      - time: .333333343
+        value: .999117613
+        inSlope: -.0313233845
+        outSlope: -.0313233845
+        tangentMode: 10
+      - time: .416666657
+        value: .992156863
+        inSlope: -.0119327344
+        outSlope: -.0119327344
+        tangentMode: 10
+      - time: .533333361
+        value: .999117613
+        inSlope: .00662927143
+        outSlope: .00662927143
+        tangentMode: 10
+      - time: .683333337
+        value: .992156863
+        inSlope: -.0232025031
+        outSlope: -.0232025031
+        tangentMode: 10
+      - time: 1.0333333
+        value: .992156863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: .992156863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.g
+    path: NewMissionEffect/tfNewMission
+    classID: 114
+    script: {fileID: 11500000, guid: f038246890c21f24b8071caf871990bb, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .113725491
+        inSlope: 2.06323528
+        outSlope: 2.06323528
+        tangentMode: 10
+      - time: .333333343
+        value: .801470578
+        inSlope: -3.09485388
+        outSlope: -3.09485388
+        tangentMode: 10
+      - time: .416666657
+        value: .113725491
+        inSlope: -1.17899346
+        outSlope: -1.17899346
+        tangentMode: 10
+      - time: .533333361
+        value: .801470578
+        inSlope: .654994011
+        outSlope: .654994011
+        tangentMode: 10
+      - time: .683333337
+        value: .113725491
+        inSlope: -2.29248405
+        outSlope: -2.29248405
+        tangentMode: 10
+      - time: 1.0333333
+        value: .113725491
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: .113725491
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.b
+    path: NewMissionEffect/tfNewMission
+    classID: 114
+    script: {fileID: 11500000, guid: f038246890c21f24b8071caf871990bb, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 2.06896567
+        outSlope: 2.06896567
+        tangentMode: 10
+      - time: .483333319
+        value: 1
+        inSlope: 1.03448284
+        outSlope: 1.03448284
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: -2
+        outSlope: -2
+        tangentMode: 10
+      - time: 1.2833333
+        value: 0
+        inSlope: -4
+        outSlope: -4
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: NewMissionEffect/h_line
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: -2
+        outSlope: -2
+        tangentMode: 10
+      - time: 1.2833333
+        value: 0
+        inSlope: -4
+        outSlope: -4
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.a
+    path: NewMissionEffect/tfNewMission
+    classID: 114
+    script: {fileID: 11500000, guid: f038246890c21f24b8071caf871990bb, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.r
+    path: NewMissionEffect/title_bg
+    classID: 114
+    script: {fileID: 11500000, guid: 312edce4c948005408bc022a24630062, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.g
+    path: NewMissionEffect/title_bg
+    classID: 114
+    script: {fileID: 11500000, guid: 312edce4c948005408bc022a24630062, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.b
+    path: NewMissionEffect/title_bg
+    classID: 114
+    script: {fileID: 11500000, guid: 312edce4c948005408bc022a24630062, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: -2
+        outSlope: -2
+        tangentMode: 10
+      - time: 1.2833333
+        value: 0
+        inSlope: -4
+        outSlope: -4
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.a
+    path: NewMissionEffect/title_bg
+    classID: 114
+    script: {fileID: 11500000, guid: 312edce4c948005408bc022a24630062, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.2833333
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: NewMissionEffect
+    classID: 1
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1.2833333
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.2833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: LeftSide
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.2833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: RightSide
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.2833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: bg
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.21414208
+        inSlope: -1.42761385
+        outSlope: -1.42761385
+        tangentMode: 10
+      - time: .150000006
+        value: 1
+        inSlope: -.713806927
+        outSlope: -.713806927
+        tangentMode: 10
+      - time: .216666669
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: NewMissionEffect
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.2141422
+        inSlope: -1.42761469
+        outSlope: -1.42761469
+        tangentMode: 10
+      - time: .150000006
+        value: 1
+        inSlope: -.713807344
+        outSlope: -.713807344
+        tangentMode: 10
+      - time: .216666669
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: NewMissionEffect
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.2141422
+        inSlope: -1.42761469
+        outSlope: -1.42761469
+        tangentMode: 10
+      - time: .150000006
+        value: 1
+        inSlope: -.713807344
+        outSlope: -.713807344
+        tangentMode: 10
+      - time: .216666669
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: NewMissionEffect
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .996078432
+        inSlope: .0117647052
+        outSlope: .0117647052
+        tangentMode: 10
+      - time: .333333343
+        value: 1
+        inSlope: -.0176470634
+        outSlope: -.0176470634
+        tangentMode: 10
+      - time: .416666657
+        value: .996078432
+        inSlope: -.00672269985
+        outSlope: -.00672269985
+        tangentMode: 10
+      - time: .533333361
+        value: 1
+        inSlope: .00373481959
+        outSlope: .00373481959
+        tangentMode: 10
+      - time: .683333337
+        value: .996078432
+        inSlope: -.0130718965
+        outSlope: -.0130718965
+        tangentMode: 10
+      - time: 1.0333333
+        value: .996078432
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: .996078432
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.r
+    path: NewMissionEffect/tfNewMission
+    classID: 114
+    script: {fileID: 11500000, guid: f038246890c21f24b8071caf871990bb, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .992156863
+        inSlope: .0208822489
+        outSlope: .0208822489
+        tangentMode: 10
+      - time: .333333343
+        value: .999117613
+        inSlope: -.0313233845
+        outSlope: -.0313233845
+        tangentMode: 10
+      - time: .416666657
+        value: .992156863
+        inSlope: -.0119327344
+        outSlope: -.0119327344
+        tangentMode: 10
+      - time: .533333361
+        value: .999117613
+        inSlope: .00662927143
+        outSlope: .00662927143
+        tangentMode: 10
+      - time: .683333337
+        value: .992156863
+        inSlope: -.0232025031
+        outSlope: -.0232025031
+        tangentMode: 10
+      - time: 1.0333333
+        value: .992156863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: .992156863
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.g
+    path: NewMissionEffect/tfNewMission
+    classID: 114
+    script: {fileID: 11500000, guid: f038246890c21f24b8071caf871990bb, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .113725491
+        inSlope: 2.06323528
+        outSlope: 2.06323528
+        tangentMode: 10
+      - time: .333333343
+        value: .801470578
+        inSlope: -3.09485388
+        outSlope: -3.09485388
+        tangentMode: 10
+      - time: .416666657
+        value: .113725491
+        inSlope: -1.17899346
+        outSlope: -1.17899346
+        tangentMode: 10
+      - time: .533333361
+        value: .801470578
+        inSlope: .654994011
+        outSlope: .654994011
+        tangentMode: 10
+      - time: .683333337
+        value: .113725491
+        inSlope: -2.29248405
+        outSlope: -2.29248405
+        tangentMode: 10
+      - time: 1.0333333
+        value: .113725491
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: .113725491
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.b
+    path: NewMissionEffect/tfNewMission
+    classID: 114
+    script: {fileID: 11500000, guid: f038246890c21f24b8071caf871990bb, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .616666675
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 1
+        inSlope: .600000262
+        outSlope: .600000262
+        tangentMode: 10
+      - time: .75
+        value: 1.10000002
+        inSlope: .225000143
+        outSlope: .225000143
+        tangentMode: 10
+      - time: .883333325
+        value: 1
+        inSlope: -.375000119
+        outSlope: -.375000119
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: NewMissionEffect/tfNewMission
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .616666675
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 1
+        inSlope: .600000262
+        outSlope: .600000262
+        tangentMode: 10
+      - time: .75
+        value: 1.10000002
+        inSlope: .225000143
+        outSlope: .225000143
+        tangentMode: 10
+      - time: .883333325
+        value: 1
+        inSlope: -.375000119
+        outSlope: -.375000119
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: NewMissionEffect/tfNewMission
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .616666675
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 1
+        inSlope: .600000262
+        outSlope: .600000262
+        tangentMode: 10
+      - time: .75
+        value: 1.10000002
+        inSlope: .225000143
+        outSlope: .225000143
+        tangentMode: 10
+      - time: .883333325
+        value: 1
+        inSlope: -.375000119
+        outSlope: -.375000119
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: NewMissionEffect/tfNewMission
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 2.06896567
+        outSlope: 2.06896567
+        tangentMode: 10
+      - time: .483333319
+        value: 1
+        inSlope: 1.03448284
+        outSlope: 1.03448284
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: -2
+        outSlope: -2
+        tangentMode: 10
+      - time: 1.2833333
+        value: 0
+        inSlope: -4
+        outSlope: -4
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: NewMissionEffect/h_line
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .483333319
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: .5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: NewMissionEffect/h_line
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 2.7817409
+        inSlope: -12.935092
+        outSlope: -12.935092
+        tangentMode: 10
+      - time: .166666672
+        value: .625892103
+        inSlope: -3.06357431
+        outSlope: -3.06357431
+        tangentMode: 10
+      - time: .483333319
+        value: 2.7817409
+        inSlope: 3.40397167
+        outSlope: 3.40397167
+        tangentMode: 10
+      - time: 1.0333333
+        value: 2.7817409
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: NewMissionEffect/h_line
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .483333319
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: NewMissionEffect/h_line
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: -2
+        outSlope: -2
+        tangentMode: 10
+      - time: 1.2833333
+        value: 0
+        inSlope: -4
+        outSlope: -4
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.a
+    path: NewMissionEffect/tfNewMission
+    classID: 114
+    script: {fileID: 11500000, guid: f038246890c21f24b8071caf871990bb, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.r
+    path: NewMissionEffect/title_bg
+    classID: 114
+    script: {fileID: 11500000, guid: 312edce4c948005408bc022a24630062, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.g
+    path: NewMissionEffect/title_bg
+    classID: 114
+    script: {fileID: 11500000, guid: 312edce4c948005408bc022a24630062, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2833333
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.b
+    path: NewMissionEffect/title_bg
+    classID: 114
+    script: {fileID: 11500000, guid: 312edce4c948005408bc022a24630062, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: 1
+        inSlope: -2
+        outSlope: -2
+        tangentMode: 10
+      - time: 1.2833333
+        value: 0
+        inSlope: -4
+        outSlope: -4
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: color.a
+    path: NewMissionEffect/title_bg
+    classID: 114
+    script: {fileID: 11500000, guid: 312edce4c948005408bc022a24630062, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.2833333
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: NewMissionEffect
+    classID: 1
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events:
+  - time: 0
+    functionName: PlayNewMissionSound
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

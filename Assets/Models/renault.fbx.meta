@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 233dd9372320c804ab597601b497f4ba
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: veh_wheel_br
+    100004: veh_wheel_fr
+    100006: veh_wheel_bl
+    100008: veh_wheel_fl
+    100010: veh_shadow
+    100012: veh_wheel_b
+    100014: light_headlights
+    100016: light_indicator_dx
+    100018: light_indicator_sx
+    100020: lights_stop
+    400000: //RootNode
+    400002: veh_wheel_br
+    400004: veh_wheel_fr
+    400006: veh_wheel_bl
+    400008: veh_wheel_fl
+    400010: veh_shadow
+    400012: veh_wheel_b
+    400014: light_headlights
+    400016: light_indicator_dx
+    400018: light_indicator_sx
+    400020: lights_stop
+    2300000: //RootNode
+    2300002: veh_wheel_br
+    2300004: veh_wheel_fr
+    2300006: veh_wheel_bl
+    2300008: veh_wheel_fl
+    2300010: veh_shadow
+    2300012: veh_wheel_b
+    2300014: light_headlights
+    2300016: light_indicator_dx
+    2300018: light_indicator_sx
+    2300020: lights_stop
+    3300000: //RootNode
+    3300002: veh_wheel_br
+    3300004: veh_wheel_fr
+    3300006: veh_wheel_bl
+    3300008: veh_wheel_fl
+    3300010: veh_shadow
+    3300012: veh_wheel_b
+    3300014: light_headlights
+    3300016: light_indicator_dx
+    3300018: light_indicator_sx
+    3300020: lights_stop
+    4300000: CarWheel4
+    4300002: CarWheel2
+    4300004: CarWheel3
+    4300006: CarWheel1
+    4300008: PlayerCar
+    4300010: player_chassis
+    4300012: veh_shadow
+    4300014: veh_wheel_fl
+    4300016: veh_wheel_bl
+    4300018: veh_wheel_fr
+    4300020: veh_wheel_br
+    4300022: veh_wheel_b
+    4300024: light_headlights
+    4300026: light_indicator_dx
+    4300028: light_indicator_sx
+    4300030: lights_stop
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

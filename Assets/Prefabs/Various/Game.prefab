@@ -1,0 +1,530 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400004}
+  - 114: {fileID: 11400006}
+  - 114: {fileID: 11400008}
+  - 114: {fileID: 11400014}
+  - 114: {fileID: 11400016}
+  - 114: {fileID: 11400010}
+  - 114: {fileID: 11400012}
+  - 114: {fileID: 11400018}
+  - 114: {fileID: 11400022}
+  - 114: {fileID: 11400024}
+  - 114: {fileID: 11400026}
+  - 114: {fileID: 11400032}
+  - 114: {fileID: 11400034}
+  - 114: {fileID: 11400020}
+  - 114: {fileID: 11400028}
+  - 114: {fileID: 11400036}
+  - 114: {fileID: 11454322}
+  - 114: {fileID: 11442460}
+  m_Layer: 0
+  m_Name: Game
+  m_TagString: GameplayManagers
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -.656337738, y: 0, z: 2.55484891}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a25a2032e3118c043880eeb8b3adda1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11400006
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c73c1b369cea3364f97e9ee1ddbfa43f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11400008
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4500f690608c36441a7ae5116a98495c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  carsList:
+  - {fileID: 100024, guid: a731c0dce1605be41b6548bcdb1f95d9, type: 2}
+  - {fileID: 100036, guid: c06a83a14c4997342b4eba9f5cd634a0, type: 2}
+  - {fileID: 100026, guid: 42dd48e13802835469bd34478bf9c317, type: 2}
+  - {fileID: 100026, guid: 5adabe26f137a1c41abafde79f1463c5, type: 2}
+  - {fileID: 100028, guid: 726782d8f1e47134f9d4a1eaf810b03e, type: 2}
+  - {fileID: 100028, guid: 1630467a9648aa34582175f62d3bc6c6, type: 2}
+  blinkCarSound: {fileID: 8300000, guid: c8fb44d256549934293f5e3a5ee42873, type: 3}
+  coinsExponent: 1.60000002
+  coinsBase: 1
+  coinsStep: 1
+  helpingHandDistance: 50
+  checkForDailyBonusAfterPause: 0
+  Cars_EU:
+  - {fileID: 100024, guid: a731c0dce1605be41b6548bcdb1f95d9, type: 2}
+  - {fileID: 100028, guid: 5c99602b2591e2948ab34e6dda63eb96, type: 2}
+  - {fileID: 100028, guid: 1b4d38620186057439d912e9211f7bd4, type: 2}
+  - {fileID: 100032, guid: a8023a5603497f9479a3385203287793, type: 2}
+  - {fileID: 100032, guid: 77d617460b53a12408085203ee776dd6, type: 2}
+  Cars_NY:
+  - {fileID: 100032, guid: 4aa2d6bae2679814a876616df41b5782, type: 2}
+  - {fileID: 100032, guid: 4846d50110fd7ae42849032006f8a3fa, type: 2}
+  - {fileID: 100032, guid: 7e7ce9bd2c61102418dca4f88a5d9607, type: 2}
+  - {fileID: 100032, guid: 0b30b198b0caeaf48ad36cc8c65ea9c8, type: 2}
+  - {fileID: 100032, guid: 7f2993a28cb736b4a95df82caf300057, type: 2}
+  Cars_JP:
+  - {fileID: 100028, guid: f7550ec3fc18f88438fd2db19c4097fb, type: 2}
+  - {fileID: 100032, guid: cbb3697b38a1c204bb16bfdd87b1da97, type: 2}
+  - {fileID: 100032, guid: 3abc939beb51e2547b448b99463c1fd9, type: 2}
+  - {fileID: 100032, guid: 3142eb982e88de14e84e40245d246b89, type: 2}
+  - {fileID: 100032, guid: 11ecf9c6b6fbb1344a092fcf7b9c118a, type: 2}
+  Cars_USA:
+  - {fileID: 100032, guid: 1632d703d46d7774fa69e07d06def1b0, type: 2}
+  - {fileID: 100032, guid: 6a0a25e2b00fb084a8685a8e5e77d729, type: 2}
+  - {fileID: 100032, guid: 050bab631cc35c0449d70bb0ef23525f, type: 2}
+  - {fileID: 100032, guid: a83c6e95004a90e4d9c6f97686fb7b07, type: 2}
+  - {fileID: 100032, guid: 4f1eac9c825ce0f43b27f1610582253d, type: 2}
+  slipstreamFX_1: {fileID: 19800008, guid: ca381209eec1bfc4593ea9f38904a3df, type: 2}
+  slipstreamFX_2: {fileID: 19800008, guid: 9cd43ae8d345fd94fb580864d1365558, type: 2}
+  slipstreamFX_3: {fileID: 19800016, guid: accabbf68e165b84cb69fc9cc73a6fbf, type: 2}
+  slipstreamFX_4: {fileID: 19800002, guid: 771161cc063dbf8459c900fea600a8c6, type: 2}
+  slipstreamFX_5: {fileID: 19800002, guid: bcb1a5923c2370345bccc78240585c6a, type: 2}
+  slipstreamFX_6: {fileID: 19800002, guid: 5882e7cc195f6d44489ab68d64541aba, type: 2}
+  logIsEnabled: 0
+--- !u!114 &11400010
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f59a1b407064f6843a3eb61c0b907f04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poolList:
+  - objType: 0
+    obj_Prefab:
+    - {fileID: 100000, guid: 6684906162972494a8d561a959da8682, type: 2}
+    quantity: 3
+  - objType: 6
+    obj_Prefab:
+    - {fileID: 100004, guid: afc9dcb0c3384ef409f43037846da4d6, type: 2}
+    quantity: 5
+  - objType: 7
+    obj_Prefab:
+    - {fileID: 100000, guid: 570d02ae4b914b842942aed772be7197, type: 2}
+    quantity: 8
+  - objType: 8
+    obj_Prefab:
+    - {fileID: 100000, guid: 35cb32f68b07d8c47b15e4bf4c0ab1c3, type: 2}
+    quantity: 4
+  - objType: 9
+    obj_Prefab:
+    - {fileID: 100002, guid: 8d3c48cc35bd0d945bc8770a93662abb, type: 2}
+    quantity: 1
+  - objType: 32
+    obj_Prefab:
+    - {fileID: 100006, guid: 0abd167ab30b2344b9147d8d6fe1b912, type: 2}
+    quantity: 10
+  - objType: 31
+    obj_Prefab:
+    - {fileID: 100000, guid: aca200a516d438f438d280f144d74d15, type: 2}
+    quantity: 15
+  - objType: 2
+    obj_Prefab:
+    - {fileID: 100000, guid: 66ea8bfb75964be49ba896e8a2dc75c4, type: 2}
+    quantity: 20
+  - objType: 3
+    obj_Prefab:
+    - {fileID: 100000, guid: fd80c20225a318a4abfb565d18b4ec68, type: 2}
+    quantity: 1
+  - objType: 30
+    obj_Prefab:
+    - {fileID: 100000, guid: 0b6a7cb3728b4d24e8523d05b937a802, type: 2}
+    quantity: 2
+  - objType: 12
+    obj_Prefab:
+    - {fileID: 100002, guid: 414b4485e7f8283438e3d70ca066900f, type: 2}
+    quantity: 1
+  - objType: 13
+    obj_Prefab:
+    - {fileID: 100000, guid: 8bad1e08a94872f488d9515752c644ae, type: 2}
+    quantity: 1
+  - objType: 4
+    obj_Prefab:
+    - {fileID: 100002, guid: b07f6558d17117c4aaaff078a14ad868, type: 2}
+    quantity: 1
+  - objType: 14
+    obj_Prefab:
+    - {fileID: 100002, guid: ea92eafa2a478414b82465c74b4e0b9e, type: 2}
+    quantity: 15
+  - objType: 33
+    obj_Prefab:
+    - {fileID: 100010, guid: 824ff83ff85d3184cb07c3c869f2184c, type: 2}
+    quantity: 3
+  - objType: 25
+    obj_Prefab:
+    - {fileID: 100000, guid: 9cf7e0176388f774fbad48ac3dbbf204, type: 2}
+    quantity: 2
+  - objType: 26
+    obj_Prefab:
+    - {fileID: 100002, guid: 605820e7c45aead49b9264dc9ebc138f, type: 2}
+    quantity: 3
+  - objType: 18
+    obj_Prefab:
+    - {fileID: 100000, guid: a95b145f7dae60145a3811505f911f05, type: 2}
+    quantity: 1
+  - objType: 29
+    obj_Prefab:
+    - {fileID: 100000, guid: 1695a0d0c65974741a0cd518335775e4, type: 2}
+    quantity: 1
+  - objType: 27
+    obj_Prefab:
+    - {fileID: 100000, guid: 3d056b456662f564fadd9b057084e09c, type: 2}
+    quantity: 16
+  - objType: 28
+    obj_Prefab:
+    - {fileID: 100000, guid: dd5a78e1e58a0204791a1b49c22dde2c, type: 2}
+    quantity: 1
+  - objType: 34
+    obj_Prefab:
+    - {fileID: 100004, guid: 3c991a63f193a414fb8c6dff2094553a, type: 2}
+    quantity: 15
+  - objType: 35
+    obj_Prefab:
+    - {fileID: 100012, guid: 6caa982e24c0608459920d6bce7dea5b, type: 2}
+    quantity: 3
+  - objType: 39
+    obj_Prefab:
+    - {fileID: 100000, guid: beb0f001b55935e4491810ef5fbd2cdc, type: 2}
+    quantity: 5
+  - objType: 40
+    obj_Prefab:
+    - {fileID: 100006, guid: 3f90d83de9957664d927dc260c74e522, type: 2}
+    quantity: 4
+--- !u!114 &11400012
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25a60d2bc0c830246a95b1416f80e188, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentTrafficDirection: 0
+  currentEnvironment: 0
+  asphaltMaterials:
+  - {fileID: 2100000, guid: 0ed34e21ba99d7a49a17104371f04482, type: 2}
+  - {fileID: 2100000, guid: 872e562c05ef4154eaca5e7f207c5041, type: 2}
+--- !u!114 &11400014
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3ee8bd8a1fec84439aeac1f399d33dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  checkpointDistance: 1500
+  objectDistanceForRemoving: 15
+  maxStartMinSpawn: 25
+  maxStartMaxSpawn: 45
+  maxEndMinSpawn: 25
+  maxEndMaxSpawn: 45
+  deltaStartMinSpawn: 3
+  deltaStartMaxSpawn: 5
+  deltaEndMinSpawn: 3
+  deltaEndMaxSpawn: 5
+  objectsToSpawn:
+  - startMinSpawnDistance: 55
+    startMaxSpawnDistance: 95
+    endMinSpawnDistance: 55
+    endMaxSpawnDistance: 95
+    priority: 5
+    type: 5
+    alwaysSpawn: 0
+    avoidSpecialEvents: 0
+  - startMinSpawnDistance: 400
+    startMaxSpawnDistance: 1100
+    endMinSpawnDistance: 400
+    endMaxSpawnDistance: 1100
+    priority: 2
+    type: 0
+    alwaysSpawn: 1
+    avoidSpecialEvents: 0
+  - startMinSpawnDistance: -1
+    startMaxSpawnDistance: -1
+    endMinSpawnDistance: -1
+    endMaxSpawnDistance: -1
+    priority: 0
+    type: 9
+    alwaysSpawn: 1
+    avoidSpecialEvents: 0
+  - startMinSpawnDistance: 150
+    startMaxSpawnDistance: 180
+    endMinSpawnDistance: 180
+    endMaxSpawnDistance: 200
+    priority: 6
+    type: 2
+    alwaysSpawn: 0
+    avoidSpecialEvents: 0
+  - startMinSpawnDistance: 1400
+    startMaxSpawnDistance: 1400
+    endMinSpawnDistance: 1900
+    endMaxSpawnDistance: 1900
+    priority: 2
+    type: 3
+    alwaysSpawn: 0
+    avoidSpecialEvents: 0
+  - startMinSpawnDistance: 1600
+    startMaxSpawnDistance: 1600
+    endMinSpawnDistance: 2300
+    endMaxSpawnDistance: 2300
+    priority: 4
+    type: 4
+    alwaysSpawn: 0
+    avoidSpecialEvents: 0
+  - startMinSpawnDistance: 900
+    startMaxSpawnDistance: 1800
+    endMinSpawnDistance: 900
+    endMaxSpawnDistance: 1800
+    priority: 2
+    type: 12
+    alwaysSpawn: 0
+    avoidSpecialEvents: 1
+  - startMinSpawnDistance: 2000
+    startMaxSpawnDistance: 3500
+    endMinSpawnDistance: 2000
+    endMaxSpawnDistance: 3500
+    priority: 1
+    type: 13
+    alwaysSpawn: 1
+    avoidSpecialEvents: 1
+  firstSpecialVehicleInSession: 1
+--- !u!114 &11400016
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecc7d9f9fab073c46a2ec7750f0b1a37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11400018
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe7dca9e0b83c5d459f93f7f09b6f185, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  policeSpawnData:
+  - id: 1 police car
+    minSpawnDistance: 800
+    maxSpawnDistance: 1700
+    percentage: 0
+  - id: 3 police car
+    minSpawnDistance: 1000
+    maxSpawnDistance: 2000
+    percentage: 0
+  helicopterSpawnData:
+  - id: 1 helicopter
+    minSpawnDistance: 1000
+    maxSpawnDistance: 2300
+    percentage: 0
+  - id: 2 helicopter
+    minSpawnDistance: 1400
+    maxSpawnDistance: 3400
+    percentage: 0
+  - id: 3 helicopter
+    minSpawnDistance: 2000
+    maxSpawnDistance: 6000
+    percentage: 0
+  minRoadBlockCarDistance: 10
+  maxRoadBlockCarDistance: 15
+--- !u!114 &11400020
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9464dc365463b840b2b27b4eadce61a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  justEnteredInGarage: 0
+  initialCounter: 1
+  deltaCounter: 1
+  maxDisplayCount: 3
+--- !u!114 &11400022
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 330b848df77e0374c84e5d8a3eea1b50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fpsText: {fileID: 0}
+--- !u!114 &11400024
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 580bff5ef6598224aa6f90539b4a0110, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startGuardRail: {fileID: 100002, guid: ab2234a2cee3f55429e4fd9896b66e70, type: 2}
+  centerGuardRail: {fileID: 100000, guid: bb05c907801c0324fbf8bd35f0f20596, type: 2}
+  endGuardRail: {fileID: 100002, guid: 853640347a4317d46996210a3b8e4b6c, type: 2}
+--- !u!114 &11400026
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14ff35c319964f04d89e8e894db0e162, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  streakType: none
+  streakDays: 0
+--- !u!114 &11400028
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cb0b861b9edc7644ba21a617e38048d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11400032
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0f4752a56f70484b8dd7c882a8c2746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireworksPrefab: {fileID: 100002, guid: 229e95d0a0e974240b840c0931db542c, type: 2}
+--- !u!114 &11400034
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 062a76fa077ee2b40babdbcc054d85d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tutPopup: {fileID: 0}
+--- !u!114 &11400036
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e49b733d99f94b46a62d27a321bf60b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  friendMarkerRef: {fileID: 100002, guid: b2168b65057c7784c86636402d4449e4, type: 2}
+--- !u!114 &11442460
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d7ae960e200114aaa32fb8947c19ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coinsSpriteRef: {fileID: 21300000, guid: d4235e31d85c9ab449f64f30170b092c, type: 3}
+  gemsSpriteRef: {fileID: 21300000, guid: 210a3ff31d222124d8b4b6c742976e4b, type: 3}
+  fuelSpriteRef: {fileID: 21300000, guid: d8cd36babc03fa949b3e99d0fbb28c5f, type: 3}
+  fuelFreezeSpriteRef: {fileID: 21300000, guid: ceae82adcfebcd443a5800e035761753,
+    type: 3}
+  freeSpinsSpriteRef: {fileID: 21300000, guid: af13b7418424e6545b078777252ec061, type: 3}
+--- !u!114 &11454322
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5040ba08da7ad9241a8628072d474f39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerRef: {fileID: 0}
+  playerKinematics: {fileID: 0}
+  numActiveMissions: 4
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

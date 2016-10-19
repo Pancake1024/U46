@@ -1,0 +1,2099 @@
+<languages>
+	<language id="en" type="latin">
+		<btPlay><![CDATA[PLAY]]></btPlay>
+		<btContinue><![CDATA[CONTINUE]]></btContinue>
+		<btFreeCoins><![CDATA[FREE COINS]]></btFreeCoins>
+		<news><![CDATA[NEWS]]></news>
+		<options><![CDATA[OPTIONS]]></options>
+		<ranking><![CDATA[RANKING]]></ranking>
+		<spin><![CDATA[SPIN]]></spin>
+		<moregames><![CDATA[MORE GAMES]]></moregames>
+		<copyright><![CDATA[COPYRIGHT 2015
+WWW.MINICLIP.COM]]></copyright>
+		<developed_by><![CDATA[DEVELOPED BY]]></developed_by>
+		<loading><![CDATA[LOADING]]></loading>
+		<tutorial><![CDATA[TUTORIAL]]></tutorial>
+		<friends><![CDATA[FRIENDS]]></friends>
+		<country><![CDATA[COUNTRY]]></country>
+		<global><![CDATA[GLOBAL]]></global>
+		<all_time><![CDATA[ALL TIME]]></all_time>
+		<monthly><![CDATA[MONTHLY]]></monthly>
+		<weekly><![CDATA[WEEKLY]]></weekly>
+		<spin_and_win><![CDATA[SPIN and WIN!]]></spin_and_win>
+		<no_spin_popup_title><![CDATA[TRY YOUR LUCK!!!]]></no_spin_popup_title>
+		<no_spin_popup_text><![CDATA[Win awesome prizes!]]></no_spin_popup_text>
+		<no_spin_popup_buy_text><![CDATA[BUY NOW]]></no_spin_popup_buy_text>
+		<still><![CDATA[REMAINING]]></still>
+		<extra_spin><![CDATA[EXTRA SPIN]]></extra_spin>
+		<extra_spins><![CDATA[EXTRA SPINS!]]></extra_spins>
+		<fuel_freeze><![CDATA[FUEL FREEZE]]></fuel_freeze>
+		<you_win><![CDATA[YOU WIN]]></you_win>
+		<win><![CDATA[WIN]]></win>
+		<garage><![CDATA[GARAGE]]></garage>
+		<special_btn><![CDATA[SPECIALS]]></special_btn>
+		<buy_for><![CDATA[BUY FOR]]></buy_for>
+		<or_buy_for><![CDATA[OR BUY FOR]]></or_buy_for>
+		<duration><![CDATA[DURATION]]></duration>
+		<best><![CDATA[BEST]]></best>
+		<car ><![CDATA[CAR]]></car >
+		<diamond><![CDATA[DIAMOND]]></diamond>
+		<coin><![CDATA[COIN]]></coin>
+		<coins><![CDATA[COINS]]></coins>
+		<levelShort><![CDATA[LVL]]></levelShort>
+		<level><![CDATA[LEVEL]]></level>
+		<europeanCarsTitle><![CDATA[HIGHWAY CHASE]]></europeanCarsTitle>
+		<americanCarsTitle><![CDATA[MEN AT WORK]]></americanCarsTitle>
+		<orientalCarsTitle><![CDATA[EXOTIC NIGHT]]></orientalCarsTitle>
+		<muscleCarsTitle><![CDATA[DESERT RIDE]]></muscleCarsTitle>
+		<euCarName1><![CDATA[BELINA]]></euCarName1>
+		<euCarName2><![CDATA[GEMINI]]></euCarName2>
+		<euCarName3><![CDATA[GORGON]]></euCarName3>
+		<euCarName4><![CDATA[COLOSSUS]]></euCarName4>
+		<euCarName5><![CDATA[MEDUSA]]></euCarName5>
+		<asiaCarName1><![CDATA[SUMO]]></asiaCarName1>
+		<asiaCarName2><![CDATA[WASABI]]></asiaCarName2>
+		<asiaCarName3><![CDATA[KATANA]]></asiaCarName3>
+		<asiaCarName4><![CDATA[ONI]]></asiaCarName4>
+		<asiaCarName5><![CDATA[SAMURAI]]></asiaCarName5>
+		<nyCarName1><![CDATA[TOMAHAWK]]></nyCarName1>
+		<nyCarName2><![CDATA[BLADE]]></nyCarName2>
+		<nyCarName3><![CDATA[BULLET]]></nyCarName3>
+		<nyCarName4><![CDATA[KINGBOLT]]></nyCarName4>
+		<nyCarName5><![CDATA[HAMMER]]></nyCarName5>
+		<usaCarName1><![CDATA[GUERRILLA]]></usaCarName1>
+		<usaCarName2><![CDATA[CHILI]]></usaCarName2>
+		<usaCarName3><![CDATA[FUERTE]]></usaCarName3>
+		<usaCarName4><![CDATA[EL FUGITIVO]]></usaCarName4>
+		<usaCarName5><![CDATA[TORO LOCO]]></usaCarName5>
+		<bigfoot><![CDATA[BIGFOOT]]></bigfoot>
+		<plane><![CDATA[PLANE]]></plane>
+		<tank><![CDATA[TANK]]></tank>
+		<ufo><![CDATA[UFO]]></ufo>
+		<firetruck><![CDATA[FIRETRUCK]]></firetruck>
+		<freeze><![CDATA[FREEZE]]></freeze>
+		<currency_buy_freeze_prefix><![CDATA[Freeze your fuel for]]></currency_buy_freeze_prefix>
+		<currency_buy_freeze_postfix><![CDATA[hours]]></currency_buy_freeze_postfix>
+		<currency_bought_freeze><![CDATA[Fuel freeze active
+Expires in:]]></currency_bought_freeze>
+		<login><![CDATA[LOGIN]]></login>
+		<best_meters><![CDATA[YOUR BEST]]></best_meters>
+		<your_meters><![CDATA[DISTANCE REACHED]]></your_meters>
+		<special_vehicles><![CDATA[SPECIAL VEHICLE]]></special_vehicles>
+		<special_bottom_descr><![CDATA[Get these to see them on the road.]]></special_bottom_descr>
+		<special_bigfoot_long_descr><![CDATA[The Bigfoot is invulnerable and crushes everything in its path! Every car you crush yields some coins.]]></special_bigfoot_long_descr>
+		<special_bigfoot_short_descr><![CDATA[Crush everything in your path!]]></special_bigfoot_short_descr>
+		<special_tank_long_descr><![CDATA[The Tank travels in the central lane, crushing all obstacles in the way. Shoot other cars by tapping left or right. Every destroyed car will yield some coins.]]></special_tank_long_descr>
+		<special_tank_short_descr><![CDATA[Ready, aim, FIRE!]]></special_tank_short_descr>
+		<special_firetruck_long_descr><![CDATA[The Firetruck shoots water as you tap left or right, pushing other cars around. Push cars off the road to yield coins.]]></special_firetruck_long_descr>
+		<special_firetruck_short_descr><![CDATA[Wash those cars off the road!]]></special_firetruck_short_descr>
+		<special_ufo_long_descr><![CDATA[The UFO flies above traffic, and abducts whatever gets underneath it for experiments! Abducting cars will yield some coins.]]></special_ufo_long_descr>
+		<special_ufo_short_descr><![CDATA[Abduction is the new destruction!]]></special_ufo_short_descr>
+		<special_plane_long_descr><![CDATA[The plane flies above traffic and shoots anything in its sights. Shooting cars will destroy them and yield coins.]]></special_plane_long_descr>
+		<special_plane_short_descr><![CDATA[Rain fire from above!]]></special_plane_short_descr>
+		<cancel><![CDATA[CANCEL]]></cancel>
+		<buy_fuel><![CDATA[BUY FUEL]]></buy_fuel>
+		<not_enough_fuel><![CDATA[NOT ENOUGH FUEL]]></not_enough_fuel>
+		<buy_diamonds><![CDATA[BUY DIAMONDS]]></buy_diamonds>
+		<not_enough_diamonds><![CDATA[NOT ENOUGH DIAMONDS]]></not_enough_diamonds>
+		<buy_coins><![CDATA[BUY COINS]]></buy_coins>
+		<not_enough_coins><![CDATA[NOT ENOUGH COINS]]></not_enough_coins>
+		<inapp_descr><![CDATA[Tap "?" to view description]]></inapp_descr>
+		<go><![CDATA[GO!]]></go>
+		<checkpoint><![CDATA[CHECKPOINT]]></checkpoint>
+		<reached><![CDATA[REACHED!]]></reached>
+		<time_extended><![CDATA[TIME EXTENDED:]]></time_extended>
+		<timeout><![CDATA[TIMEOUT]]></timeout>
+		<collect><![CDATA[COLLECT]]></collect>
+		<no_level><![CDATA[n.a.]]></no_level>
+		<version><![CDATA[VER ]]></version>
+		<mission_completed><![CDATA[RUN GOAL COMPLETED!]]></mission_completed>
+		<mission_failed><![CDATA[RUN GOAL FAILED]]></mission_failed>
+		<one_more><![CDATA[ONE MORE]]></one_more>
+		<two_more><![CDATA[TWO MORE]]></two_more>
+		<time_saved><![CDATA[TIME SAVED]]></time_saved>
+		<police_destroyed><![CDATA[POLICE DESTROYED]]></police_destroyed>
+		<combo><![CDATA[COMBO]]></combo>
+		<item_ready><![CDATA[READY]]></item_ready>
+		<fuel_saver_expires_in><![CDATA[FUEL FREEZE EXPIRES IN]]></fuel_saver_expires_in>
+		<buy_parking_lot><![CDATA[BUY STAGE]]></buy_parking_lot>
+		<buy_car><![CDATA[BUY CAR]]></buy_car>
+		<turbo_speed><![CDATA[TURBO SPEED]]></turbo_speed>
+		<resistance><![CDATA[RESISTANCE]]></resistance>
+		<max_speed><![CDATA[MAX SPEED]]></max_speed>
+		<acceleration><![CDATA[ACCELERATION]]></acceleration>
+		<parkinglot_unlocked><![CDATA[stage unlocked]]></parkinglot_unlocked>
+		<day><![CDATA[Day]]></day>
+		<daily_bonus_title><![CDATA[DAILY BONUS!]]></daily_bonus_title>
+		<daily_bonus_descr><![CDATA[Get a better bonus each consecutive day you play!]]></daily_bonus_descr>
+		<you_bought><![CDATA[YOU BOUGHT]]></you_bought>
+		<fuel><![CDATA[FUEL]]></fuel>
+		<no_internet_connection><![CDATA[No internet connection detected!]]></no_internet_connection>
+		<ok><![CDATA[OK]]></ok>
+		<rate_descr><![CDATA[Loving On The Run?]]></rate_descr>
+		<rate_invite><![CDATA[Please rate it on the]]></rate_invite>
+		<later><![CDATA[LATER]]></later>
+		<rate><![CDATA[Rate]]></rate>
+		<app_store_name><![CDATA[App Store]]></app_store_name>
+		<google_store_name><![CDATA[Play Store]]></google_store_name>
+		<amazon_store_name><![CDATA[Amazon Store]]></amazon_store_name>
+		<windowsphone_store_name><![CDATA[Windows Phone Store]]></windowsphone_store_name>
+		<store_name><![CDATA[Store]]></store_name>
+		<on_the_run><![CDATA[On The Run]]></on_the_run>
+		<purchase_aborted><![CDATA[PURCHASE ABORTED]]></purchase_aborted>
+		<purchase_failed><![CDATA[PURCHASE FAILED]]></purchase_failed>
+		<purchase_successful><![CDATA[PURCHASE SUCCESSFUL]]></purchase_successful>
+		<purchase_processing><![CDATA[PROCESSING]]></purchase_processing>
+		<quit_confirm><![CDATA[Exit the game?]]></quit_confirm>
+		<yes><![CDATA[YES]]></yes>
+		<no><![CDATA[NO]]></no>
+		<meters><![CDATA[meters]]></meters>
+		<meters_short><![CDATA[m]]></meters_short>
+		<challenge_completed><![CDATA[Challenge completed]]></challenge_completed>
+		<mission_reach_combo_prefix><![CDATA[Reach combo]]></mission_reach_combo_prefix>
+		<mission_reach_combo_postfix><![CDATA[]]></mission_reach_combo_postfix>
+		<times><![CDATA[times]]></times>
+		<mission_destroy><![CDATA[Destroy]]></mission_destroy>
+		<mission_abduct_ufo_long><![CDATA[Abduct]]></mission_abduct_ufo_long>
+		<mission_police_cars_plural><![CDATA[police cars]]></mission_police_cars_plural>
+		<mission_police_car_single><![CDATA[police car]]></mission_police_car_single>
+		<seconds><![CDATA[seconds]]></seconds>
+		<seconds_short><![CDATA[s]]></seconds_short>
+		<mission_stay_on_air><![CDATA[Stay ON AIR]]></mission_stay_on_air>
+		<mission_drive_for><![CDATA[Drive]]></mission_drive_for>
+		<mission_right_lane><![CDATA[meters in the two rightmost lanes]]></mission_right_lane>
+		<mission_left_lane><![CDATA[meters in the two leftmost lanes]]></mission_left_lane>
+		<mission_central_lane><![CDATA[meters in central lane]]></mission_central_lane>
+		<mission_right_lane_short><![CDATA[in the two rightmost lanes]]></mission_right_lane_short>
+		<mission_left_lane_short><![CDATA[in the two leftmost lanes]]></mission_left_lane_short>
+		<mission_central_lane_short><![CDATA[in central lane]]></mission_central_lane_short>
+		<mission_collect><![CDATA[Collect]]></mission_collect>
+		<mission_coins><![CDATA[coins]]></mission_coins>
+		<mission_bonus_big_coins><![CDATA[big coins]]></mission_bonus_big_coins>
+		<mission_traffic><![CDATA[vehicles]]></mission_traffic>
+		<mission_jump><![CDATA[Jump]]></mission_jump>
+		<mission_drive_through><![CDATA[Pass checkpoints]]></mission_drive_through>
+		<mission_pass><![CDATA[Pass]]></mission_pass>
+		<mission_checkpoint><![CDATA[checkpoints]]></mission_checkpoint>
+		<plane_active><![CDATA[PLANE ACTIVE]]></plane_active>
+		<ufo_active><![CDATA[UFO ACTIVE]]></ufo_active>
+		<tap_to_shoot><![CDATA[TAP LEFT/RIGHT TO SHOOT]]></tap_to_shoot>
+		<destroy_them_all><![CDATA[DESTROY THEM ALL]]></destroy_them_all>
+		<tap_to_cannon><![CDATA[TAP LEFT/RIGHT TO USE CANNON]]></tap_to_cannon>
+		<you_already_have><![CDATA[YOU ALREADY HAVE]]></you_already_have>
+		<boost><![CDATA[BOOST!]]></boost>
+		<item_purchased><![CDATA[ITEM PURCHASED!]]></item_purchased>
+		<booster_turbo_name><![CDATA[Turbo]]></booster_turbo_name>
+		<booster_turbo_descr><![CDATA[Start the run with speed boost activated.]]></booster_turbo_descr>
+		<booster_shield_name><![CDATA[Shield]]></booster_shield_name>
+		<booster_shield_descr><![CDATA[The Shield protects you from one collision with another vehicle.]]></booster_shield_descr>
+		<booster_specialcar_name><![CDATA[Special Vehicle]]></booster_specialcar_name>
+		<booster_specialcar_descr><![CDATA[Starts the run with a random special vehicle.]]></booster_specialcar_descr>
+		<booster_doublecoins_name><![CDATA[Double Coins]]></booster_doublecoins_name>
+		<booster_doublecoins_descr><![CDATA[Doubles the value of collected coins in this run.]]></booster_doublecoins_descr>
+		<booster_doubleexp_name><![CDATA[Double Exp]]></booster_doubleexp_name>
+		<booster_doubleexp_descr><![CDATA[Doubles the amount of experience gained at the end of the run.]]></booster_doubleexp_descr>
+		<booster_moreckp_name><![CDATA[Checkpoint Time]]></booster_moreckp_name>
+		<booster_moreckp_descr><![CDATA[Each checkpoint passed adds 1 extra second to the clock.]]></booster_moreckp_descr>
+		<tips_tip1><![CDATA[When you're flanking another vehicle, you can ram it by steering into it.]]></tips_tip1>
+		<tips_tip2><![CDATA[When the news helicopter appears, stay in the spotlight to earn coins. ]]></tips_tip2>
+		<tips_tip3><![CDATA[Collect blue bolts to activate turbo, then crash into other cars to earn coins. Why not, it's fun!]]></tips_tip3>
+		<tips_tip4><![CDATA[Play each day to collect bigger and better daily bonuses! There are exclusive cars to be earned!]]></tips_tip4>
+		<tips_tip5><![CDATA[Racing uses fuel. It will refill over time, or you can buy fuel at the shop.]]></tips_tip5>
+		<tips_tip6><![CDATA[Driving onto special transport trucks will turn you into a special vehicle!]]></tips_tip6>
+		<tips_tip7><![CDATA[Watch out for police cars! If they find you, try to flank and ram them away.]]></tips_tip7>
+		<tips_tip8><![CDATA[The shield bonus pickup will protect you from one collision. Use it wisely!]]></tips_tip8>
+		<tips_tip9><![CDATA[The magnet bonus automatically picks up any nearby coins for you.]]></tips_tip9>
+		<tips_tip10><![CDATA[Catch the traffic's slipstream to gain speed. Build up a combo to go even faster.]]></tips_tip10>
+		<tips_tip11><![CDATA[Each checkpoint you pass will grant you additional time.]]></tips_tip11>
+		<tips_tip12><![CDATA[At the beginning of a race, activate boosters to help you get a better score.]]></tips_tip12>
+		<notifications_generic_text1><![CDATA[Time to make your getaway! Grab your ride and let's go!]]></notifications_generic_text1>
+		<notifications_generic_text2><![CDATA[Don't forget to take your car for a spin today, awesome daily bonuses are waiting for you!]]></notifications_generic_text2>
+		<notifications_generic_text3><![CDATA[Don't be left behind on the leaderboards! Play and climb your way up the ranks!]]></notifications_generic_text3>
+		<notifications_timedevents_text1><![CDATA[Watch out! The Fuel Freeze bonus will expire soon, so make the most out of it!]]></notifications_timedevents_text1>
+		<notifications_timedevents_text2><![CDATA[Hey! Your fuel tank is full now, so let's go race!]]></notifications_timedevents_text2>
+		<notifications_daily_bonus1><![CDATA[Your free daily bonus is ready. Collect it now!]]></notifications_daily_bonus1>
+		<notifications_daily_bonus2><![CDATA[Come and grab your free daily bonus now!]]></notifications_daily_bonus2>
+		<notifications_daily_bonus3><![CDATA[Hey, your free daily bonus is ready!]]></notifications_daily_bonus3>
+		<more_meters><![CDATA[more meters]]></more_meters>
+		<beat_score><![CDATA[ to beat your friend's score]]></beat_score>
+		<keep_running><![CDATA[Keep going!]]></keep_running>
+		<great_spin><![CDATA[GREAT SPIN!]]></great_spin>
+		<popup_amazing><![CDATA[AMAZING!]]></popup_amazing>
+		<popup_unlocked_car><![CDATA[New car unlocked]]></popup_unlocked_car>
+		<popup_unlocked_tier><![CDATA[New stage unlocked]]></popup_unlocked_tier>
+		<popup_unlocked_special><![CDATA[New special vehicle unlocked]]></popup_unlocked_special>
+		<popup_tutorial_title><![CDATA[TUTORIAL]]></popup_tutorial_title>
+		<popup_tutorial_warning_title><![CDATA[TUTORIAL IS NOW ACTIVE!]]></popup_tutorial_warning_title>
+		<popup_tutorial_warning><![CDATA[You are now driving with your first car in Highway Chase.
+ 
+You will be free to change the default scenery and car at the end of this tutorial.]]></popup_tutorial_warning>
+		<popup_tutorial_subtitle1><![CDATA[AVOID THE TRAFFIC]]></popup_tutorial_subtitle1>
+		<popup_tutorial_subtitle2><![CDATA[SLIPSTREAM]]></popup_tutorial_subtitle2>
+		<popup_tutorial_subtitle3><![CDATA[BOLTS]]></popup_tutorial_subtitle3>
+		<popup_tutorial_subtitle4><![CDATA[TRUCKS]]></popup_tutorial_subtitle4>
+		<popup_tutorial_subtitle5><![CDATA[GOOD LUCK!]]></popup_tutorial_subtitle5>
+		<popup_tutorial_tap><![CDATA[Tap to continue]]></popup_tutorial_tap>
+		<popup_tutorial_beginningright><![CDATA[Congrats! It seems you know how to move. But do you know how to go even faster?]]></popup_tutorial_beginningright>
+		<popup_tutorial_beginningleft><![CDATA[Use other cars' slipstream and stack up your combos!]]></popup_tutorial_beginningleft>
+		<popup_tutorial_bolts><![CDATA[Collect the bolts on the road for a powerful speed boost!]]></popup_tutorial_bolts>
+		<popup_tutorial_specialvehicles><![CDATA[There are special trucks on the road, what could they be for?]]></popup_tutorial_specialvehicles>
+		<popup_tutorial_end><![CDATA[Tutorial completed. Now, how far can you go?]]></popup_tutorial_end>
+		<maxed><![CDATA[MAXED]]></maxed>
+		<num_separator><![CDATA[,]]></num_separator>
+		<streak_bonus_title><![CDATA[WHERE HAVE YOU BEEN?!?]]></streak_bonus_title>
+		<streak_bonus_description><![CDATA[You were so close to getting the final super prize!]]></streak_bonus_description>
+		<streak_bonus_buy_text1><![CDATA[YOU CAN STILL SAVE THE DAILY BONUS STREAK!]]></streak_bonus_buy_text1>
+		<streak_bonus_buy_text2><![CDATA[Only]]></streak_bonus_buy_text2>
+		<streak_bonus_buy_text3><![CDATA[days left!]]></streak_bonus_buy_text3>
+		<skip><![CDATA[SKIP]]></skip>
+		<btVideo><![CDATA[FREE BOOSTER]]></btVideo>
+		<facebook_login_popup_description_1><![CDATA[LIMITED TIME OFFER!]]></facebook_login_popup_description_1>
+		<facebook_login_popup_description_2><![CDATA[GRAB YOUR REWARD WHILE YOU STILL CAN!]]></facebook_login_popup_description_2>
+		<facebook_login_popup_title><![CDATA[LOG IN TO COMPETE WITH YOUR FRIENDS!]]></facebook_login_popup_title>
+		<facebook_login_popup_get><![CDATA[AND GET]]></facebook_login_popup_get>
+		<fuel_gift_title><![CDATA[LOOKS LIKE YOU RAN OUT OF FUEL!]]></fuel_gift_title>
+		<fuel_gift_description><![CDATA[You can buy it at the shop, but this first refill is on us!]]></fuel_gift_description>
+		<share><![CDATA[SHARE]]></share>
+		<facebook_feed_caption><![CDATA[I've just carved a pathway of destruction in On The Run!]]></facebook_feed_caption>
+		<facebook_feed_share_rank><![CDATA[Another diamond for me! I've just reached level ]]></facebook_feed_share_rank>
+		<facebook_feed_share_wheel><![CDATA[I just won an awesome prize in On The Run!]]></facebook_feed_share_wheel>
+		<facebook_feed_buy_car><![CDATA[My new car is ready to hit the road!]]></facebook_feed_buy_car>
+		<facebook_feed_buy_tier><![CDATA[I've just unlocked a new stage: ]]></facebook_feed_buy_tier>
+		<facebook_feed_unlock_special><![CDATA[I have a new special vehicle available! A brand new ]]></facebook_feed_unlock_special>
+		<facebook_feed_distance><![CDATA[I've just reached a distance of ]]></facebook_feed_distance>
+		<unlock_tier_prefix><![CDATA[REACH]]></unlock_tier_prefix>
+		<unlock_tier_postfix><![CDATA[TO UNLOCK STAGE]]></unlock_tier_postfix>
+		<xp><![CDATA[XP]]></xp>
+		<web_help><![CDATA[HELP]]></web_help>
+		<web_btSubmit><![CDATA[SUBMIT SCORE]]></web_btSubmit>
+		<web_not_enough_coins><![CDATA[NOT ENOUGH COINS, KEEP PLAYING!]]></web_not_enough_coins>
+		<web_mobilepromo_tag><![CDATA[Check out the game on mobile!]]></web_mobilepromo_tag>
+		<web_highscore><![CDATA[HIGHSCORES]]></web_highscore>
+		<web_help_directions><![CDATA[Move with]]></web_help_directions>
+		<web_help_collectbolts><![CDATA[Collect]]></web_help_collectbolts>
+		<web_help_bolttext><![CDATA[to activate turbo]]></web_help_bolttext>
+		<web_help_slipstream><![CDATA[Slipstream]]></web_help_slipstream>
+		<web_help_slipstreamtext><![CDATA[Get behind another vehicle and catch its slipstream to get a small speed boost. Do it several times in a row to build up a slipstream combo and go even faster!]]></web_help_slipstreamtext>
+		<web_help_trucks><![CDATA[Trucks]]></web_help_trucks>
+		<web_help_truckstext><![CDATA[When you see transporter trucks, drive onto them: amazing things will happen!]]></web_help_truckstext>
+		<web_help_back><![CDATA[GOT IT]]></web_help_back>
+		<web_pressspacetocontinue><![CDATA[PRESS SPACEBAR TO CONTINUE]]></web_pressspacetocontinue>
+		<web_tap_to_shoot><![CDATA[TO SHOOT]]></web_tap_to_shoot>
+		<web_tap_to_cannon><![CDATA[TO USE CANNON]]></web_tap_to_cannon>
+		<web_special_tank_long_descr><![CDATA[The Tank travels in the central lane, crushing all obstacles in the way. You can also shoot other cars by pressing left or right arrow keys, and every destroyed car will yield some coins.]]></web_special_tank_long_descr>
+		<web_special_firetruck_long_descr><![CDATA[The Firetruck shoots water as you press left or right arrow keys, pushing other cars around. Pushing cars beyond the road's edges destroys them and yields coins.]]></web_special_firetruck_long_descr>
+		<web_restart_game><![CDATA[Restart game?]]></web_restart_game>
+		<web_skip_saveme><![CDATA[PRESS SPACEBAR]]></web_skip_saveme>
+		<web_inapp_descr><![CDATA[Buy upgrades. Click "?" for more info]]></web_inapp_descr>
+		<web_back><![CDATA[BACK]]></web_back>
+		<web_highscores_description><![CDATA[Select stage]]></web_highscores_description>
+		<web_highscores_title><![CDATA[VIEW YOUR BEST SCORES]]></web_highscores_title>
+		<mission_combo><![CDATA[Combo]]></mission_combo>
+		<you_know><![CDATA[Did you know?]]></you_know>
+		<trucks_advise><![CDATA[You can buy new special vehicles and upgrade them too!]]></trucks_advise>
+		<web_distance><![CDATA[Distance]]></web_distance>
+		<web_best_distance><![CDATA[Best Distance]]></web_best_distance>
+		<reach_lvl_tounlock><![CDATA[TO UNLOCK THE STAGE]]></reach_lvl_tounlock>
+		<beat_your_score><![CDATA[ to beat your best score]]></beat_your_score>
+		<beat_non_friend_score><![CDATA[ to beat this score]]></beat_non_friend_score>
+		<game_center><![CDATA[ACHIEVEMENTS]]></game_center>
+		<invite_tab><![CDATA[INVITE]]></invite_tab>
+		<invite_title><![CDATA[NEW INVITED FRIENDS EARN YOU 1]]></invite_title>
+		<invite_button><![CDATA[INVITE]]></invite_button>
+		<friends_tab><![CDATA[FRIENDS]]></friends_tab>
+		<friends_title><![CDATA[AVAILABLE TO GIFT TO YOUR FRIENDS TODAY]]></friends_title>
+		<gift_button><![CDATA[GIFT]]></gift_button>
+		<notification_popup_title><![CDATA[YOU RECEIVED A GIFT!]]></notification_popup_title>
+		<notification_popup_text1><![CDATA[sent you 1 Fuel]]></notification_popup_text1>
+		<notification_popup_text2><![CDATA[Accept and send 1 back]]></notification_popup_text2>
+		<notification_popup_button><![CDATA[ACCEPT AND GIFT BACK]]></notification_popup_button>
+		<notification_popup_button_accept><![CDATA[ACCEPT]]></notification_popup_button_accept>
+		<no_FB_friends><![CDATA[NO FRIENDS DETECTED]]></no_FB_friends>
+		<no_FB_friends_playing><![CDATA[NONE OF YOUR FRIENDS ARE PLAYING. INVITE THEM!]]></no_FB_friends_playing>
+		<mission_new><![CDATA[NEW]]></mission_new>
+		<invite_reward_text><![CDATA[HERE'S YOUR REWARD]]></invite_reward_text>
+		<tap_continue_missions><![CDATA[Tap to continue]]></tap_continue_missions>
+		<not_logged_in_ingame><![CDATA[LOGIN TO SEE YOUR FRIENDS HERE]]></not_logged_in_ingame>
+		<no_friends_ingame><![CDATA[INVITE YOUR FRIENDS TO BEAT THEIR SCORES]]></no_friends_ingame>
+		<invite_5_thanks><![CDATA[THANKS FOR INVITING 5 FRIENDS!]]></invite_5_thanks>
+		<invite_5_comeback><![CDATA[Come back tomorrow and invite more friends to get more diamonds!]]></invite_5_comeback>
+		<fake_username_1><![CDATA[Getaway Noob]]></fake_username_1>
+		<fake_username_2><![CDATA[Getaway Pro]]></fake_username_2>
+		<fake_username_3><![CDATA[Getaway Master]]></fake_username_3>
+		<sorry><![CDATA[Sorry!]]></sorry>
+		<no_video_available><![CDATA[There are currently no video ads available]]></no_video_available>
+		<congratulations><![CDATA[Congratulations!]]></congratulations>
+		<coins_reward_prefix><![CDATA[You have just been awarded]]></coins_reward_prefix>
+		<coins_reward_postfix><![CDATA[coins!]]></coins_reward_postfix>
+		<invite_friend_text><![CDATA[Play On The Run if you have a need for speed!]]></invite_friend_text>
+		<invite_friend_title><![CDATA[I just burned rubber in this amazing game!]]></invite_friend_title>
+		<login_facebook_ranking><![CDATA[LOG IN WITH FACEBOOK TO PLAY WITH YOUR FRIENDS!]]></login_facebook_ranking>
+		<invite_facebook_ranking><![CDATA[IT SEEMS NONE OF YOUR FRIENDS IS PLAYING WITH YOU... SPREAD THE WORD!]]></invite_facebook_ranking>
+		<unlock_specials_prefix><![CDATA[REACH LEVEL]]></unlock_specials_prefix>
+		<unlock_specials_postfix><![CDATA[TO UNLOCK OR BUY FOR]]></unlock_specials_postfix>
+		<login_facebook_notlogged_title><![CDATA[LOGIN AND ACCESS EXCLUSIVE FEATURES!]]></login_facebook_notlogged_title>
+		<login_facebook_notlogged_compete><![CDATA[COMPETE WITH YOUR FACEBOOK FRIENDS]]></login_facebook_notlogged_compete>
+		<login_facebook_notlogged_fuel><![CDATA[SEND FUEL TO YOUR FRIENDS]]></login_facebook_notlogged_fuel>
+		<login_facebook_notlogged_diamonds><![CDATA[5 DIAMONDS WELCOME GIFT!]]></login_facebook_notlogged_diamonds>
+		<diamonds><![CDATA[DIAMONDS]]></diamonds>
+		<new_record><![CDATA[NEW RECORD]]></new_record>
+		<day_ends_in><![CDATA[DAY ENDS IN]]></day_ends_in>
+		<tiers_btn><![CDATA[STAGES]]></tiers_btn>
+		<get_boosters><![CDATA[GET BOOSTERS]]></get_boosters>
+		<run_goal><![CDATA[RUN GOAL]]></run_goal>
+		<xp_postfix><![CDATA[XP]]></xp_postfix>
+		<rank_bar_player><![CDATA[YOU]]></rank_bar_player>
+		<description_tier_1><![CDATA[The perfect highway for beginners: 5 lanes and 1 way to go.]]></description_tier_1>
+		<description_tier_2><![CDATA[Enjoy the Far East, but be careful: there are 2 opposite lanes here!]]></description_tier_2>
+		<description_tier_3><![CDATA[See the evocative ocean... And watch out for the roadworks!]]></description_tier_3>
+		<description_tier_4><![CDATA[The ultimate challenge: a bumpy desert highway with 2 opposite lanes.]]></description_tier_4>
+		<mission_avoid_barriers><![CDATA[without hitting barriers]]></mission_avoid_barriers>
+		<mission_fast_lane><![CDATA[in fast lane]]></mission_fast_lane>
+		<mission_destroy_in_turbo_ingame><![CDATA[with bolt active]]></mission_destroy_in_turbo_ingame>
+		<mission_destroy_in_turbo_wrong_lane_ingame><![CDATA[with bolt active in wrong lane]]></mission_destroy_in_turbo_wrong_lane_ingame>
+		<mission_destroy_in_turbo_offgame><![CDATA[vehicles with bolt active]]></mission_destroy_in_turbo_offgame>
+		<mission_destroy_in_turbo_wrong_lane_offgame><![CDATA[vehicles with bolt active in wrong lane]]></mission_destroy_in_turbo_wrong_lane_offgame>
+		<mission_with><![CDATA[with]]></mission_with>
+		<mission_meters_with><![CDATA[meters with]]></mission_meters_with>
+		<mission_vehicles_with><![CDATA[vehicles with]]></mission_vehicles_with>
+		<mission_wrong_lane><![CDATA[vehicles in wrong lane with]]></mission_wrong_lane>
+		<coins_pack><![CDATA[COINS PACK]]></coins_pack>
+		<gems_pack><![CDATA[GEMS PACK]]></gems_pack>
+		<free_spin_pack><![CDATA[FREE SPINS PACK]]></free_spin_pack>
+		<fuel_pack><![CDATA[FUEL PACK]]></fuel_pack>
+		<car_unlocked><![CDATA[NEW CAR]]></car_unlocked>
+		<tier_unlocked><![CDATA[NEW STAGE]]></tier_unlocked>
+		<mission_run><![CDATA[Run]]></mission_run>
+		<mission_in_wrong_lane><![CDATA[in wrong lane]]></mission_in_wrong_lane>
+		<mission_smash_bigfoot_short><![CDATA[Smash vehicles]]></mission_smash_bigfoot_short>
+		<mission_abduct_ufo_short><![CDATA[Abduct vehicles]]></mission_abduct_ufo_short>
+		<mission_pushaway_firetruck_short><![CDATA[Push away vehicles]]></mission_pushaway_firetruck_short>
+		<mission_smash_bigfoot_long><![CDATA[Smash]]></mission_smash_bigfoot_long>
+		<mission_pushaway_firetruck_long><![CDATA[Push away]]></mission_pushaway_firetruck_long>
+		<mission_coins_short><![CDATA[Collect coins]]></mission_coins_short>
+		<mission_collect_short><![CDATA[Collect big coins]]></mission_collect_short>
+		<skip_popup_title_step1><![CDATA[HAVING TROUBLE WITH THIS RUN GOAL?]]></skip_popup_title_step1>
+		<skip_popup_text_step1><![CDATA[Get some upgrades for your car before facing the run!]]></skip_popup_text_step1>
+		<skip_popup_title_step2><![CDATA[SKIP CURRENT RUN GOAL?]]></skip_popup_title_step2>
+		<skip_popup_text_step2><![CDATA[Get a new goal for]]></skip_popup_text_step2>
+		<skip_popup_upgrade><![CDATA[UPGRADE YOUR CAR!]]></skip_popup_upgrade>
+		<rank_bar_title><![CDATA[YOUR RANK PROGRESS]]></rank_bar_title>
+		<mission_destroy_vehicles><![CDATA[Destroy vehicles]]></mission_destroy_vehicles>
+		<today><![CDATA[TODAY]]></today>
+		<inapp_remove_ads><![CDATA[PURCHASE ANY DIAMONDS PACK TO REMOVE ADS!]]></inapp_remove_ads>
+		<or><![CDATA[OR]]></or>
+		<popup_free_coins_congrat><![CDATA[Congratulations! You have just won a prize!]]></popup_free_coins_congrat>
+		<popup_free_coins_sorry><![CDATA[Sorry!]]></popup_free_coins_sorry>
+		<popup_free_coins_another_video><![CDATA[Do you want to watch another video for more prizes?]]></popup_free_coins_another_video>
+		<popup_free_coins_not_available><![CDATA[There are no more videos to watch. Come back later!]]></popup_free_coins_not_available>
+		<popup_free_coins_later><![CDATA[Later]]></popup_free_coins_later>
+		<popup_free_coins_watch_now><![CDATA[Watch now!]]></popup_free_coins_watch_now>
+		<popup_free_coins_ok><![CDATA[Ok]]></popup_free_coins_ok>
+		<watch_video><![CDATA[WATCH A VIDEO]]></watch_video>
+		<get_free_fuel><![CDATA[AND GET 1 FREE FUEL]]></get_free_fuel>
+		<free_video><![CDATA[FREE]]></free_video>
+		<confirm_buy_car><![CDATA[Want to buy this awesome car?]]></confirm_buy_car>
+		<buy_with_coins_postfix><![CDATA[TO BUY WITH COINS]]></buy_with_coins_postfix>
+		<special_vehicle_plane><![CDATA[Plane]]></special_vehicle_plane>
+		<special_vehicle_ufo><![CDATA[UFO]]></special_vehicle_ufo>
+		<special_vehicle_bigfoot><![CDATA[Bigfoot]]></special_vehicle_bigfoot>
+		<special_vehicle_firetruck><![CDATA[Firetruck]]></special_vehicle_firetruck>
+		<special_vehicle_tank><![CDATA[Tank]]></special_vehicle_tank>
+		<special_mission><![CDATA[SPECIAL]]></special_mission>
+		<new_mission><![CDATA[NEW RUN GOAL!]]></new_mission>
+		<popular_tag><![CDATA[MOST POPULAR]]></popular_tag>
+		<bestvalue_tag><![CDATA[BEST VALUE]]></bestvalue_tag>
+		<invitefriends_reminder_title><![CDATA[DON'T FORGET TO INVITE YOUR FRIENDS!]]></invitefriends_reminder_title>
+		<invitefriends_reminder_payoff><![CDATA[GET 1 DIAMOND FOR NEW INVITED FRIENDS]]></invitefriends_reminder_payoff>
+		<invitefriends_maxremaining><![CDATA[NEW FRIENDS TO INVITE TODAY: ]]></invitefriends_maxremaining>
+		<invitefriends_reinvite><![CDATA[RE-INVITE]]></invitefriends_reinvite>
+		<credits_production><![CDATA[PRODUCTION]]></credits_production>
+		<credits_design><![CDATA[DESIGN]]></credits_design>
+		<credits_programming><![CDATA[PROGRAMMING]]></credits_programming>
+		<credits_3dart><![CDATA[3D ART]]></credits_3dart>
+		<credits_2dart><![CDATA[2D ART]]></credits_2dart>
+		<credits_sound><![CDATA[SOUND]]></credits_sound>
+		<credits_qa><![CDATA[QA]]></credits_qa>
+		<credits_thanks><![CDATA[THANKS]]></credits_thanks>
+		<credits_specialthanks><![CDATA[SPECIAL THANKS]]></credits_specialthanks>
+		<credits_allstaff><![CDATA[The rest of Miniclip staff]]></credits_allstaff>
+	</language>
+	<language id="it" type="latin">
+		<btPlay><![CDATA[GIOCA]]></btPlay>
+		<btContinue><![CDATA[CONTINUA]]></btContinue>
+		<btFreeCoins><![CDATA[MONETE GRATIS]]></btFreeCoins>
+		<news><![CDATA[NOVITA']]></news>
+		<options><![CDATA[OPZIONI]]></options>
+		<ranking><![CDATA[CLASSIFICHE]]></ranking>
+		<spin><![CDATA[GIRA]]></spin>
+		<moregames><![CDATA[ALTRI GIOCHI]]></moregames>
+		<copyright><![CDATA[COPYRIGHT 2015
+WWW.MINICLIP.COM]]></copyright>
+		<developed_by><![CDATA[SVILUPPATO DA]]></developed_by>
+		<loading><![CDATA[CARICAMENTO]]></loading>
+		<tutorial><![CDATA[TUTORIAL]]></tutorial>
+		<friends><![CDATA[AMICI]]></friends>
+		<country><![CDATA[PAESE]]></country>
+		<global><![CDATA[GLOBALE]]></global>
+		<all_time><![CDATA[SEMPRE]]></all_time>
+		<monthly><![CDATA[MENSILE]]></monthly>
+		<weekly><![CDATA[SETTIMANALE]]></weekly>
+		<spin_and_win><![CDATA[GIRA e VINCI]]></spin_and_win>
+		<no_spin_popup_title><![CDATA[TENTA LA FORTUNA!!!]]></no_spin_popup_title>
+		<no_spin_popup_text><![CDATA[Vinci fantastici premi]]></no_spin_popup_text>
+		<no_spin_popup_buy_text><![CDATA[COMPRA ORA]]></no_spin_popup_buy_text>
+		<still><![CDATA[RESTANTE]]></still>
+		<extra_spin><![CDATA[UN GIRO EXTRA]]></extra_spin>
+		<extra_spins><![CDATA[GIRI EXTRA]]></extra_spins>
+		<fuel_freeze><![CDATA[BLOCCA CARBURANTE]]></fuel_freeze>
+		<you_win><![CDATA[HAI VINTO]]></you_win>
+		<win><![CDATA[VINCI]]></win>
+		<garage><![CDATA[GARAGE]]></garage>
+		<special_btn><![CDATA[SPECIALI]]></special_btn>
+		<buy_for><![CDATA[COMPRA PER]]></buy_for>
+		<or_buy_for><![CDATA[O COMPRA PER]]></or_buy_for>
+		<duration><![CDATA[DURATA]]></duration>
+		<best><![CDATA[MIGLIORE]]></best>
+		<car ><![CDATA[AUTO]]></car >
+		<diamond><![CDATA[DIAMANTE]]></diamond>
+		<coin><![CDATA[MONETA]]></coin>
+		<coins><![CDATA[MONETE]]></coins>
+		<levelShort><![CDATA[LIV]]></levelShort>
+		<level><![CDATA[LIVELLO]]></level>
+		<europeanCarsTitle><![CDATA[HIGHWAY CHASE]]></europeanCarsTitle>
+		<americanCarsTitle><![CDATA[MEN AT WORK]]></americanCarsTitle>
+		<orientalCarsTitle><![CDATA[EXOTIC NIGHT]]></orientalCarsTitle>
+		<muscleCarsTitle><![CDATA[DESERT RIDE]]></muscleCarsTitle>
+		<euCarName1><![CDATA[BELINA]]></euCarName1>
+		<euCarName2><![CDATA[GEMINI]]></euCarName2>
+		<euCarName3><![CDATA[GORGON]]></euCarName3>
+		<euCarName4><![CDATA[COLOSSUS]]></euCarName4>
+		<euCarName5><![CDATA[MEDUSA]]></euCarName5>
+		<asiaCarName1><![CDATA[SUMO]]></asiaCarName1>
+		<asiaCarName2><![CDATA[WASABI]]></asiaCarName2>
+		<asiaCarName3><![CDATA[KATANA]]></asiaCarName3>
+		<asiaCarName4><![CDATA[ONI]]></asiaCarName4>
+		<asiaCarName5><![CDATA[SAMURAI]]></asiaCarName5>
+		<nyCarName1><![CDATA[TOMAHAWK]]></nyCarName1>
+		<nyCarName2><![CDATA[BLADE]]></nyCarName2>
+		<nyCarName3><![CDATA[BULLET]]></nyCarName3>
+		<nyCarName4><![CDATA[KINGBOLT]]></nyCarName4>
+		<nyCarName5><![CDATA[HAMMER]]></nyCarName5>
+		<usaCarName1><![CDATA[GUERRILLA]]></usaCarName1>
+		<usaCarName2><![CDATA[CHILI]]></usaCarName2>
+		<usaCarName3><![CDATA[FUERTE]]></usaCarName3>
+		<usaCarName4><![CDATA[EL FUGITIVO]]></usaCarName4>
+		<usaCarName5><![CDATA[TORO LOCO]]></usaCarName5>
+		<bigfoot><![CDATA[BIGFOOT]]></bigfoot>
+		<plane><![CDATA[AEREO]]></plane>
+		<tank><![CDATA[CARRO ARMATO]]></tank>
+		<ufo><![CDATA[UFO]]></ufo>
+		<firetruck><![CDATA[CAMION DEI POMPIERI]]></firetruck>
+		<freeze><![CDATA[BLOCCATO]]></freeze>
+		<currency_buy_freeze_prefix><![CDATA[Blocca il carburante per]]></currency_buy_freeze_prefix>
+		<currency_buy_freeze_postfix><![CDATA[ore]]></currency_buy_freeze_postfix>
+		<currency_bought_freeze><![CDATA[Blocco carburante attivo
+Termina tra:]]></currency_bought_freeze>
+		<login><![CDATA[ACCEDI]]></login>
+		<best_meters><![CDATA[IL TUO MIGLIORE]]></best_meters>
+		<your_meters><![CDATA[DISTANZA RAGGIUNTA]]></your_meters>
+		<special_vehicles><![CDATA[VEICOLO SPECIALE]]></special_vehicles>
+		<special_bottom_descr><![CDATA[Comprali per vederli sulla strada.]]></special_bottom_descr>
+		<special_bigfoot_long_descr><![CDATA[Il Bigfoot è invulnerabile e distrugge ogni cosa sul suo tragitto! Ogni macchina che distruggi rilascia alcune monete.]]></special_bigfoot_long_descr>
+		<special_bigfoot_short_descr><![CDATA[Distruggi ogni cosa sul tuo tragitto!]]></special_bigfoot_short_descr>
+		<special_tank_long_descr><![CDATA[Il Carro armato procede sulla corsia centrale, distruggendo ogni ostacolo sulla strada. Spara alle altre auto toccando destra o sinistra. Ogni auto distrutta rilascia alcune monete.]]></special_tank_long_descr>
+		<special_tank_short_descr><![CDATA[Pronti, mirare, FUOCO!]]></special_tank_short_descr>
+		<special_firetruck_long_descr><![CDATA[Il Camion dei pompieri spara acqua quando tappi a destra o sinistra, spingendo le auto ai lati. Spazza via le auto dalla strada per ottenere monete.]]></special_firetruck_long_descr>
+		<special_firetruck_short_descr><![CDATA[Spazza via le auto dalla strada!]]></special_firetruck_short_descr>
+		<special_ufo_long_descr><![CDATA[L'UFO vola al di sopra del traffico e rapisce ogni cosa sotto di esso per esperimenti! Ogni auto rapita frutta alcune monete.]]></special_ufo_long_descr>
+		<special_ufo_short_descr><![CDATA[Il rapimento è la nuova distruzione!]]></special_ufo_short_descr>
+		<special_plane_long_descr><![CDATA[L'aero vola sopra al traffico e spara a vista ad ogni cosa. Distruggi le auto per ottenere qualche moneta.]]></special_plane_long_descr>
+		<special_plane_short_descr><![CDATA[Pioggia di fuoco!]]></special_plane_short_descr>
+		<cancel><![CDATA[ANNULLA]]></cancel>
+		<buy_fuel><![CDATA[COMPRA CARBURANTE]]></buy_fuel>
+		<not_enough_fuel><![CDATA[NON HAI ABBASTANZA CARBURANTE]]></not_enough_fuel>
+		<buy_diamonds><![CDATA[COMPRA DIAMANTI]]></buy_diamonds>
+		<not_enough_diamonds><![CDATA[NON HAI ABBASTANZA DIAMANTI]]></not_enough_diamonds>
+		<buy_coins><![CDATA[COMPRA MONETE]]></buy_coins>
+		<not_enough_coins><![CDATA[NON HAI ABBASTANZA MONETE]]></not_enough_coins>
+		<inapp_descr><![CDATA[Tocca "?" per ottenere informazioni]]></inapp_descr>
+		<go><![CDATA[VIA!]]></go>
+		<checkpoint><![CDATA[CHECKPOINT]]></checkpoint>
+		<reached><![CDATA[RAGGIUNTO!]]></reached>
+		<time_extended><![CDATA[TEMPO AGGIUNTIVO:]]></time_extended>
+		<timeout><![CDATA[TEMPO TERMINATO]]></timeout>
+		<collect><![CDATA[COLLEZIONA]]></collect>
+		<no_level><![CDATA[n.d.]]></no_level>
+		<version><![CDATA[VER]]></version>
+		<mission_completed><![CDATA[OBIETTIVO DELLA CORSA COMPLETATO]]></mission_completed>
+		<mission_failed><![CDATA[OBIETTIVO DELLA CORSA FALLITO]]></mission_failed>
+		<one_more><![CDATA[ANCORA UNO]]></one_more>
+		<two_more><![CDATA[ANCORA DUE]]></two_more>
+		<time_saved><![CDATA[TEMPO RISPARMIATO]]></time_saved>
+		<police_destroyed><![CDATA[POLIZIA DISTRUTTA]]></police_destroyed>
+		<combo><![CDATA[COMBO]]></combo>
+		<item_ready><![CDATA[PRONTI]]></item_ready>
+		<fuel_saver_expires_in><![CDATA[IL BLOCCO CARBURANTE FINISCE TRA]]></fuel_saver_expires_in>
+		<buy_parking_lot><![CDATA[COMPRA SCENARIO]]></buy_parking_lot>
+		<buy_car><![CDATA[COMPRA AUTO]]></buy_car>
+		<turbo_speed><![CDATA[VELOCITA' TURBO]]></turbo_speed>
+		<resistance><![CDATA[RESISTENZA]]></resistance>
+		<max_speed><![CDATA[VELOCITA' MASSIMA]]></max_speed>
+		<acceleration><![CDATA[ACCELERAZIONE]]></acceleration>
+		<parkinglot_unlocked><![CDATA[scenario sbloccato]]></parkinglot_unlocked>
+		<day><![CDATA[Giorno]]></day>
+		<daily_bonus_title><![CDATA[BONUS GIORNALIERO!]]></daily_bonus_title>
+		<daily_bonus_descr><![CDATA[Ottieni un bonus migliore ogni giorno consecutivo che giochi!]]></daily_bonus_descr>
+		<you_bought><![CDATA[HAI COMPRATO]]></you_bought>
+		<fuel><![CDATA[CARBURANTE]]></fuel>
+		<no_internet_connection><![CDATA[Nessuna connessione a internet trovata!]]></no_internet_connection>
+		<ok><![CDATA[OK]]></ok>
+		<rate_descr><![CDATA[Ti piace On The Run?]]></rate_descr>
+		<rate_invite><![CDATA[Votalo su]]></rate_invite>
+		<later><![CDATA[PIU' TARDI]]></later>
+		<rate><![CDATA[VOTA]]></rate>
+		<app_store_name><![CDATA[App Store]]></app_store_name>
+		<google_store_name><![CDATA[Play Store]]></google_store_name>
+		<amazon_store_name><![CDATA[Amazon Store]]></amazon_store_name>
+		<windowsphone_store_name><![CDATA[Windows Phone Store]]></windowsphone_store_name>
+		<store_name><![CDATA[Store]]></store_name>
+		<on_the_run><![CDATA[On The Run]]></on_the_run>
+		<purchase_aborted><![CDATA[ACQUISTO ANNULLATO]]></purchase_aborted>
+		<purchase_failed><![CDATA[ACQUISTO FALLITO]]></purchase_failed>
+		<purchase_successful><![CDATA[ACQUISTO RIUSCITO]]></purchase_successful>
+		<purchase_processing><![CDATA[ELABORAZIONE]]></purchase_processing>
+		<quit_confirm><![CDATA[Uscire dal gioco?]]></quit_confirm>
+		<yes><![CDATA[SI]]></yes>
+		<no><![CDATA[NO]]></no>
+		<meters><![CDATA[metri]]></meters>
+		<meters_short><![CDATA[m]]></meters_short>
+		<challenge_completed><![CDATA[Sfida completata]]></challenge_completed>
+		<mission_reach_combo_prefix><![CDATA[Raggiungi combo]]></mission_reach_combo_prefix>
+		<mission_reach_combo_postfix><![CDATA[]]></mission_reach_combo_postfix>
+		<times><![CDATA[volte]]></times>
+		<mission_destroy><![CDATA[Distruggi]]></mission_destroy>
+		<mission_abduct_ufo_long><![CDATA[Rapisci]]></mission_abduct_ufo_long>
+		<mission_police_cars_plural><![CDATA[auto della polizia]]></mission_police_cars_plural>
+		<mission_police_car_single><![CDATA[auto della polizia]]></mission_police_car_single>
+		<seconds><![CDATA[secondi]]></seconds>
+		<seconds_short><![CDATA[s]]></seconds_short>
+		<mission_stay_on_air><![CDATA[Resta ON AIR]]></mission_stay_on_air>
+		<mission_drive_for><![CDATA[Guida]]></mission_drive_for>
+		<mission_right_lane><![CDATA[metri nelle due corsie più a destra]]></mission_right_lane>
+		<mission_left_lane><![CDATA[metri nelle due corsie più a sinistra]]></mission_left_lane>
+		<mission_central_lane><![CDATA[metri nella corsia centrale]]></mission_central_lane>
+		<mission_right_lane_short><![CDATA[nelle due corsie più a destra]]></mission_right_lane_short>
+		<mission_left_lane_short><![CDATA[nelle due corsie più a sinistra]]></mission_left_lane_short>
+		<mission_central_lane_short><![CDATA[nella corsia centrale]]></mission_central_lane_short>
+		<mission_collect><![CDATA[Raccogli]]></mission_collect>
+		<mission_coins><![CDATA[monete]]></mission_coins>
+		<mission_bonus_big_coins><![CDATA[monete grandi]]></mission_bonus_big_coins>
+		<mission_traffic><![CDATA[veicoli]]></mission_traffic>
+		<mission_jump><![CDATA[Salta]]></mission_jump>
+		<mission_drive_through><![CDATA[Supera checkpoint]]></mission_drive_through>
+		<mission_pass><![CDATA[Supera]]></mission_pass>
+		<mission_checkpoint><![CDATA[checkpoint]]></mission_checkpoint>
+		<plane_active><![CDATA[AEREO ATTIVO]]></plane_active>
+		<ufo_active><![CDATA[UFO ATTIVO]]></ufo_active>
+		<tap_to_shoot><![CDATA[TOCCA SINISTRA/DESTRA PER SPARARE]]></tap_to_shoot>
+		<destroy_them_all><![CDATA[DISTRUGGILI TUTTI]]></destroy_them_all>
+		<tap_to_cannon><![CDATA[TOCCA SINISTRA/DESTRA PER USARE IL CANNONE]]></tap_to_cannon>
+		<you_already_have><![CDATA[HAI GIA']]></you_already_have>
+		<boost><![CDATA[POTENZIAMENTO!]]></boost>
+		<item_purchased><![CDATA[OGGETTO ACQUISTATO!]]></item_purchased>
+		<booster_turbo_name><![CDATA[Turbo]]></booster_turbo_name>
+		<booster_turbo_descr><![CDATA[Inizia la corsa a velocità turbo.]]></booster_turbo_descr>
+		<booster_shield_name><![CDATA[Scudo]]></booster_shield_name>
+		<booster_shield_descr><![CDATA[Lo scudo ti protegge da una collisione con un altro veicolo]]></booster_shield_descr>
+		<booster_specialcar_name><![CDATA[Veicolo Speciale]]></booster_specialcar_name>
+		<booster_specialcar_descr><![CDATA[Inizia la corsa con un veicolo speciale casuale.]]></booster_specialcar_descr>
+		<booster_doublecoins_name><![CDATA[Monete Doppie]]></booster_doublecoins_name>
+		<booster_doublecoins_descr><![CDATA[Raddoppia il valore delle monete raccolte in questa corsa]]></booster_doublecoins_descr>
+		<booster_doubleexp_name><![CDATA[Doppia Esp]]></booster_doubleexp_name>
+		<booster_doubleexp_descr><![CDATA[Raddoppia l'esperienza ottenuta alla fine della corsa.]]></booster_doubleexp_descr>
+		<booster_moreckp_name><![CDATA[Tempo al Checkpoint]]></booster_moreckp_name>
+		<booster_moreckp_descr><![CDATA[Ogni checkpoint passato aggiunge 1 secondo extra al timer.]]></booster_moreckp_descr>
+		<tips_tip1><![CDATA[Quando affianchi un altro veicolo, puoi spintonarlo sterzandogli contro.]]></tips_tip1>
+		<tips_tip2><![CDATA[Quando arriva l'elicottero del notiziario, resta nel suo fascio di luce per ottenere monete.]]></tips_tip2>
+		<tips_tip3><![CDATA[Colleziona i fulmini blu per attivare il turbo, poi scontra le auto per ottenere monete. Perchè no? E' divertente!]]></tips_tip3>
+		<tips_tip4><![CDATA[Gioca ogni giorno per collezionare migliori bonus giornalieri! Ci sono auto esclusive da ottenere!]]></tips_tip4>
+		<tips_tip5><![CDATA[Correre necessita carburante. Questo si ricarica nel tempo, o si può acquistare nel negozio.]]></tips_tip5>
+		<tips_tip6><![CDATA[Salire su un camion da trasporto speciale ti trasformerà in un veicolo speciale!]]></tips_tip6>
+		<tips_tip7><![CDATA[Attenzione alle auto della polizia! Se ti trovano, prova ad affiancarli e spingerli via.]]></tips_tip7>
+		<tips_tip8><![CDATA[Raccogliere il bonus scudo ti proteggerà da una collisione. Usalo in modo saggio!]]></tips_tip8>
+		<tips_tip9><![CDATA[Il bonus magnete raccoglie automaticamente le monete vicine al posto tuo.]]></tips_tip9>
+		<tips_tip10><![CDATA[Sfrutta la scia del traffico per guadagnare in velocità. Costruisci una combo per andare anche più veloce.]]></tips_tip10>
+		<tips_tip11><![CDATA[Ogni checkpoint che oltrepassi ti garantisce tempo addizionale.]]></tips_tip11>
+		<tips_tip12><![CDATA[All'inizio di una corsa, attiva i potenziamenti per aiutarti ad ottenere punteggi migliori.]]></tips_tip12>
+		<notifications_generic_text1><![CDATA[Inizia la tua fuga! Salta in macchina e vai!]]></notifications_generic_text1>
+		<notifications_generic_text2><![CDATA[Ricordati di girare la ruota oggi, ti attendono fantastici bonus giornalieri!]]></notifications_generic_text2>
+		<notifications_generic_text3><![CDATA[Non rimanere indietro nella classifica! Gioca per risalire più che puoi!]]></notifications_generic_text3>
+		<notifications_timedevents_text1><![CDATA[Hey! Il blocco carburante sta per finire, sfruttalo al massimo!]]></notifications_timedevents_text1>
+		<notifications_timedevents_text2><![CDATA[Hey! Il tuo serbatorio è pieno adesso, quindi fila a correre!]]></notifications_timedevents_text2>
+		<notifications_daily_bonus1><![CDATA[Il tuo bonus giornaliero è pronto. Collezionalo ora!]]></notifications_daily_bonus1>
+		<notifications_daily_bonus2><![CDATA[Vieni ed afferra il tuo bonus giornaliero ora!]]></notifications_daily_bonus2>
+		<notifications_daily_bonus3><![CDATA[Hey, il tuo bonus giornaliero è pronto!]]></notifications_daily_bonus3>
+		<more_meters><![CDATA[metri in più]]></more_meters>
+		<beat_score><![CDATA[ per battere il punteggio dei tuoi amici]]></beat_score>
+		<keep_running><![CDATA[Continua la corsa!]]></keep_running>
+		<great_spin><![CDATA[OTTIMO GIRO!]]></great_spin>
+		<popup_amazing><![CDATA[FANTASTICO!]]></popup_amazing>
+		<popup_unlocked_car><![CDATA[Nuova auto sbloccata]]></popup_unlocked_car>
+		<popup_unlocked_tier><![CDATA[Nuovo scenario sbloccato]]></popup_unlocked_tier>
+		<popup_unlocked_special><![CDATA[Nuovo veicolo speciale sbloccato!]]></popup_unlocked_special>
+		<popup_tutorial_title><![CDATA[TUTORIAL]]></popup_tutorial_title>
+		<popup_tutorial_warning_title><![CDATA[TUTORIAL ATTIVO!]]></popup_tutorial_warning_title>
+		<popup_tutorial_warning><![CDATA[Ora stai guidando con la tua prima auto sulla Highway Chase.
+
+Sarai libero di cambiare scenario ed auto alla fine di questo tutoriale.]]></popup_tutorial_warning>
+		<popup_tutorial_subtitle1><![CDATA[EVITA IL TRAFFICO]]></popup_tutorial_subtitle1>
+		<popup_tutorial_subtitle2><![CDATA[SCIA]]></popup_tutorial_subtitle2>
+		<popup_tutorial_subtitle3><![CDATA[FULMINI]]></popup_tutorial_subtitle3>
+		<popup_tutorial_subtitle4><![CDATA[CAMION]]></popup_tutorial_subtitle4>
+		<popup_tutorial_subtitle5><![CDATA[BUONA FORTUNA!]]></popup_tutorial_subtitle5>
+		<popup_tutorial_tap><![CDATA[Tocca per continuare]]></popup_tutorial_tap>
+		<popup_tutorial_beginningright><![CDATA[Congratulazioni! Sembra tu sappia come muoverti! Ma sei capace di andare più veloce?]]></popup_tutorial_beginningright>
+		<popup_tutorial_beginningleft><![CDATA[Usa la scia delle altre auto ed accumula le tue combo!]]></popup_tutorial_beginningleft>
+		<popup_tutorial_bolts><![CDATA[Colleziona i fulmini sulla strada per raggiungere una velocità folle!]]></popup_tutorial_bolts>
+		<popup_tutorial_specialvehicles><![CDATA[Ci sono camion speciali per la strada... chissà a cosa serviranno?]]></popup_tutorial_specialvehicles>
+		<popup_tutorial_end><![CDATA[Tutorial completato. Ora, quanto riesci ad andare lontano?]]></popup_tutorial_end>
+		<maxed><![CDATA[MASSIMO]]></maxed>
+		<num_separator><![CDATA[,]]></num_separator>
+		<streak_bonus_title><![CDATA[DOVE SEI STATO?!?]]></streak_bonus_title>
+		<streak_bonus_description><![CDATA[Sei vicinissimo ad ottenere il super premio finale!]]></streak_bonus_description>
+		<streak_bonus_buy_text1><![CDATA[PUOI ANCORA MANTENERE LA SEQUENZA DEL BONUS GIORNALIERO!]]></streak_bonus_buy_text1>
+		<streak_bonus_buy_text2><![CDATA[Soltanto ]]></streak_bonus_buy_text2>
+		<streak_bonus_buy_text3><![CDATA[giorni rimanenti!]]></streak_bonus_buy_text3>
+		<skip><![CDATA[SALTA]]></skip>
+		<btVideo><![CDATA[POTENZIAMENTO GRATIS]]></btVideo>
+		<facebook_login_popup_description_1><![CDATA[OFFERTA A TEMPO LIMITATO!]]></facebook_login_popup_description_1>
+		<facebook_login_popup_description_2><![CDATA[AFFERRA LA TUA RICOMPENSA FINCHE' PUOI!]]></facebook_login_popup_description_2>
+		<facebook_login_popup_title><![CDATA[ACCEDI PER COMPETERE COI TUOI AMICI!]]></facebook_login_popup_title>
+		<facebook_login_popup_get><![CDATA[E OTTIENI ]]></facebook_login_popup_get>
+		<fuel_gift_title><![CDATA[SEMBRA CHE TU ABBIA FINITO IL CARBURANTE!]]></fuel_gift_title>
+		<fuel_gift_description><![CDATA[Puoi acquistartlo nel negozio, ma questo pieno lo offriamo noi!]]></fuel_gift_description>
+		<share><![CDATA[CONDIVIDI]]></share>
+		<facebook_feed_caption><![CDATA[Ho appena lasciato una scia di distruzione alle mie spalle in On The Run!]]></facebook_feed_caption>
+		<facebook_feed_share_rank><![CDATA[Un altro diamante per me! Ho appena raggiunto il livello ]]></facebook_feed_share_rank>
+		<facebook_feed_share_wheel><![CDATA[Ho appena vinto un favoloso premio in On The Run!]]></facebook_feed_share_wheel>
+		<facebook_feed_buy_car><![CDATA[La mia nuova auto è pronta per mettersi in marcia!]]></facebook_feed_buy_car>
+		<facebook_feed_buy_tier><![CDATA[Ho appena sbloccato un nuovo scenario: ]]></facebook_feed_buy_tier>
+		<facebook_feed_unlock_special><![CDATA[Ho un nuovo veicolo speciale disponibile! Un fantastico ]]></facebook_feed_unlock_special>
+		<facebook_feed_distance><![CDATA[Ho raggiunto una distanza di ]]></facebook_feed_distance>
+		<unlock_tier_prefix><![CDATA[RAGGIUNGI]]></unlock_tier_prefix>
+		<unlock_tier_postfix><![CDATA[PER SBLOCCARE LO SCENARIO]]></unlock_tier_postfix>
+		<xp><![CDATA[ESP]]></xp>
+		<web_help><![CDATA[AIUTO]]></web_help>
+		<web_btSubmit><![CDATA[INVIA PUNTEGGIO]]></web_btSubmit>
+		<web_not_enough_coins><![CDATA[NON HAI ABBASTANZA MONETE, CONTINUA A GIOCARE!]]></web_not_enough_coins>
+		<web_mobilepromo_tag><![CDATA[Scarica il gioco su mobile!]]></web_mobilepromo_tag>
+		<web_highscore><![CDATA[PUNTEGGI MIGLIORI]]></web_highscore>
+		<web_help_directions><![CDATA[Muoviti con]]></web_help_directions>
+		<web_help_collectbolts><![CDATA[Colleziona]]></web_help_collectbolts>
+		<web_help_bolttext><![CDATA[per attivare il turbo]]></web_help_bolttext>
+		<web_help_slipstream><![CDATA[Scia]]></web_help_slipstream>
+		<web_help_slipstreamtext><![CDATA[Mettiti dietro un altro veicolo per prendere la sua scia e ottenere un aumento di velocità. Se lo farai più volte di fila otterrai una combo scia e andrai ancora più veloce!]]></web_help_slipstreamtext>
+		<web_help_trucks><![CDATA[Camion]]></web_help_trucks>
+		<web_help_truckstext><![CDATA[Quando vedi i camion da trasporto, saltaci sopra: accadranno cose fantastiche!]]></web_help_truckstext>
+		<web_help_back><![CDATA[OK]]></web_help_back>
+		<web_pressspacetocontinue><![CDATA[PREMI BARRA SPAZIATRICE PER CONTINUARE]]></web_pressspacetocontinue>
+		<web_tap_to_shoot><![CDATA[PER SPARARE]]></web_tap_to_shoot>
+		<web_tap_to_cannon><![CDATA[PER USARE IL CANNONE]]></web_tap_to_cannon>
+		<web_special_tank_long_descr><![CDATA[Il Carro armato procede sulla corsia centrale, distruggendo ogni ostacolo sulla sua strada. Spara alle altre auto premendo i tasti freccia destra e sinistra ed ogni auto distrutta rilascerà qualche moneta.]]></web_special_tank_long_descr>
+		<web_special_firetruck_long_descr><![CDATA[Il Camion dei pompieri spara acqua quando premi i tasti freccia destra o sinistra, spingendo le auto ai lati. Spazza via le auto dalla strada per ottenere monete.]]></web_special_firetruck_long_descr>
+		<web_restart_game><![CDATA[Ricominciare il gioco?]]></web_restart_game>
+		<web_skip_saveme><![CDATA[PREMI BARRA SPAZIATRICE]]></web_skip_saveme>
+		<web_inapp_descr><![CDATA[Compra miglioramenti. Clicca "?" per maggiori informazioni]]></web_inapp_descr>
+		<web_back><![CDATA[INDIETRO]]></web_back>
+		<web_highscores_description><![CDATA[Seleziona scenario]]></web_highscores_description>
+		<web_highscores_title><![CDATA[MOSTRA IL TUO MIGLIOR PUNTEGGIO]]></web_highscores_title>
+		<mission_combo><![CDATA[Combo]]></mission_combo>
+		<you_know><![CDATA[Lo sapevi?]]></you_know>
+		<trucks_advise><![CDATA[Puoi comprare nuovi veicoli speciali e migliorarli!]]></trucks_advise>
+		<web_distance><![CDATA[Distanza]]></web_distance>
+		<web_best_distance><![CDATA[Distanza Migliore]]></web_best_distance>
+		<reach_lvl_tounlock><![CDATA[PER SBLOCCARE LO SCENARIO]]></reach_lvl_tounlock>
+		<beat_your_score><![CDATA[ per battere il tuo miglior punteggio]]></beat_your_score>
+		<beat_non_friend_score><![CDATA[ per battere questo punteggio]]></beat_non_friend_score>
+		<game_center><![CDATA[OBIETTIVI]]></game_center>
+		<invite_tab><![CDATA[INVITA]]></invite_tab>
+		<invite_title><![CDATA[OGNI NUOVO AMICO INVITATO TI DONA 1]]></invite_title>
+		<invite_button><![CDATA[INVITA]]></invite_button>
+		<friends_tab><![CDATA[AMICI]]></friends_tab>
+		<friends_title><![CDATA[DISPONIBILE DA REGALARE AI TUOI AMICI OGGI]]></friends_title>
+		<gift_button><![CDATA[REGALA]]></gift_button>
+		<notification_popup_title><![CDATA[HAI RICEVUTO UN REGALO!]]></notification_popup_title>
+		<notification_popup_text1><![CDATA[ti ha inviato 1 carburante]]></notification_popup_text1>
+		<notification_popup_text2><![CDATA[Accetta e mandane 1 indietro]]></notification_popup_text2>
+		<notification_popup_button><![CDATA[ACCETTA E DONA]]></notification_popup_button>
+		<notification_popup_button_accept><![CDATA[ACCETTA]]></notification_popup_button_accept>
+		<no_FB_friends><![CDATA[NESSUN AMICO RILEVATO]]></no_FB_friends>
+		<no_FB_friends_playing><![CDATA[NESSUNO DEI TUOI AMICI STA GIOCANDO. INVITALI!]]></no_FB_friends_playing>
+		<mission_new><![CDATA[NUOVO]]></mission_new>
+		<invite_reward_text><![CDATA[ECCO LA TUA RICOMPENSA]]></invite_reward_text>
+		<tap_continue_missions><![CDATA[Tocca per continuare]]></tap_continue_missions>
+		<not_logged_in_ingame><![CDATA[ACCEDI PER VEDERE I TUOI AMICI QUI]]></not_logged_in_ingame>
+		<no_friends_ingame><![CDATA[INVITA I TUOI AMICI PER BATTERE I LORO PUNTEGGI]]></no_friends_ingame>
+		<invite_5_thanks><![CDATA[GRAZIE PER AVER INVITATO 5 AMICI!]]></invite_5_thanks>
+		<invite_5_comeback><![CDATA[Torna domani e invita più amici per ottenere più diamanti!]]></invite_5_comeback>
+		<fake_username_1><![CDATA[Niubbo della fuga]]></fake_username_1>
+		<fake_username_2><![CDATA[Pro della fuga]]></fake_username_2>
+		<fake_username_3><![CDATA[Maestro delle fuga]]></fake_username_3>
+		<sorry><![CDATA[Spiacente!]]></sorry>
+		<no_video_available><![CDATA[Non ci sono video disponibili al momento]]></no_video_available>
+		<congratulations><![CDATA[Congratulazioni!]]></congratulations>
+		<coins_reward_prefix><![CDATA[Hai appena ottenuto]]></coins_reward_prefix>
+		<coins_reward_postfix><![CDATA[monete!]]></coins_reward_postfix>
+		<invite_friend_text><![CDATA[Gioca ad On The Run per placare la tua smania di velocità!]]></invite_friend_text>
+		<invite_friend_title><![CDATA[Ho bruciato le gomme in questo fantastico gioco!]]></invite_friend_title>
+		<login_facebook_ranking><![CDATA[ACCEDI CON FACEBOOK PER GIOCARE COI TUOI AMICI!]]></login_facebook_ranking>
+		<invite_facebook_ranking><![CDATA[SEMBRA CHE NESSUNO DEI TUOI AMICI STIA GIOCANDO CON TE...SPARGI LA VOCE!]]></invite_facebook_ranking>
+		<unlock_specials_prefix><![CDATA[RAGGIUNGI IL LIVELLO]]></unlock_specials_prefix>
+		<unlock_specials_postfix><![CDATA[PER SBLOCCARE O ACQUISTA PER]]></unlock_specials_postfix>
+		<login_facebook_notlogged_title><![CDATA[ACCEDI PER OTTENERE CONTENUTI ESCLUSIVI!]]></login_facebook_notlogged_title>
+		<login_facebook_notlogged_compete><![CDATA[COMPETI CON I TUOI AMICI DI FACEBOOK]]></login_facebook_notlogged_compete>
+		<login_facebook_notlogged_fuel><![CDATA[INVIA CARBURANTE AI TUOI AMICI]]></login_facebook_notlogged_fuel>
+		<login_facebook_notlogged_diamonds><![CDATA[5 DIAMANTI COME REGALO DI BENVENUTO!]]></login_facebook_notlogged_diamonds>
+		<diamonds><![CDATA[DIAMANTI]]></diamonds>
+		<new_record><![CDATA[NUOVO RECORD]]></new_record>
+		<day_ends_in><![CDATA[IL GIORNO FINISCE TRA]]></day_ends_in>
+		<tiers_btn><![CDATA[SCENARI]]></tiers_btn>
+		<get_boosters><![CDATA[OTTIENI POTENZIAMENTI]]></get_boosters>
+		<run_goal><![CDATA[OBIETTIVO DELLA CORSA]]></run_goal>
+		<xp_postfix><![CDATA[ESP]]></xp_postfix>
+		<rank_bar_player><![CDATA[TU]]></rank_bar_player>
+		<description_tier_1><![CDATA[La superstrada perfetta per iniziare: 5 corsie e 1 senso di marcia.]]></description_tier_1>
+		<description_tier_2><![CDATA[Goditi l'Estremo Oriente, ma fai attenzione: ci sono 2 corsie contrarie!]]></description_tier_2>
+		<description_tier_3><![CDATA[Ammira l'oceano...Ma occhio ai lavori in corso!]]></description_tier_3>
+		<description_tier_4><![CDATA[La sfida definitiva: un'autostrada sterrata nel deserto con 2 corsie contrarie.]]></description_tier_4>
+		<mission_avoid_barriers><![CDATA[senza scontrare le barriere]]></mission_avoid_barriers>
+		<mission_fast_lane><![CDATA[nella corsia veloce]]></mission_fast_lane>
+		<mission_destroy_in_turbo_ingame><![CDATA[con il turbo attivo]]></mission_destroy_in_turbo_ingame>
+		<mission_destroy_in_turbo_wrong_lane_ingame><![CDATA[con il turbo nella corsia sbagliata]]></mission_destroy_in_turbo_wrong_lane_ingame>
+		<mission_destroy_in_turbo_offgame><![CDATA[veicoli con il turbo attivo]]></mission_destroy_in_turbo_offgame>
+		<mission_destroy_in_turbo_wrong_lane_offgame><![CDATA[veicoli con il turbo attivo nella corsia sbagliata]]></mission_destroy_in_turbo_wrong_lane_offgame>
+		<mission_with><![CDATA[con]]></mission_with>
+		<mission_meters_with><![CDATA[metri con]]></mission_meters_with>
+		<mission_vehicles_with><![CDATA[veicoli con]]></mission_vehicles_with>
+		<mission_wrong_lane><![CDATA[veicoli nella corsia sbagliata con]]></mission_wrong_lane>
+		<coins_pack><![CDATA[PACCO MONETE]]></coins_pack>
+		<gems_pack><![CDATA[PACCO GEMME]]></gems_pack>
+		<free_spin_pack><![CDATA[PACCO GIRI GRATIS]]></free_spin_pack>
+		<fuel_pack><![CDATA[PACCO CARBURANTE]]></fuel_pack>
+		<car_unlocked><![CDATA[NUOVA AUTO]]></car_unlocked>
+		<tier_unlocked><![CDATA[NUOVO SCENARIO]]></tier_unlocked>
+		<mission_run><![CDATA[Corri]]></mission_run>
+		<mission_in_wrong_lane><![CDATA[nella corsia sbagliata]]></mission_in_wrong_lane>
+		<mission_smash_bigfoot_short><![CDATA[Fracassa veicoli]]></mission_smash_bigfoot_short>
+		<mission_abduct_ufo_short><![CDATA[Rapisci veicoli]]></mission_abduct_ufo_short>
+		<mission_pushaway_firetruck_short><![CDATA[Spingi via veicoli]]></mission_pushaway_firetruck_short>
+		<mission_smash_bigfoot_long><![CDATA[Fracassa]]></mission_smash_bigfoot_long>
+		<mission_pushaway_firetruck_long><![CDATA[Spingi via]]></mission_pushaway_firetruck_long>
+		<mission_coins_short><![CDATA[Colleziona monete]]></mission_coins_short>
+		<mission_collect_short><![CDATA[Colleziona monete grandi]]></mission_collect_short>
+		<skip_popup_title_step1><![CDATA[PROBLEMI CON QUESTO OBIETTIVO?]]></skip_popup_title_step1>
+		<skip_popup_text_step1><![CDATA[Potenzia un po' la tua auto prima di affrontare la corsa!]]></skip_popup_text_step1>
+		<skip_popup_title_step2><![CDATA[SALTA OBIETTIVO CORRENTE?]]></skip_popup_title_step2>
+		<skip_popup_text_step2><![CDATA[Ottieni un nuovo obiettivo per]]></skip_popup_text_step2>
+		<skip_popup_upgrade><![CDATA[MIGLIORA LA TUA AUTO!]]></skip_popup_upgrade>
+		<rank_bar_title><![CDATA[IL TUO PROGRESSO]]></rank_bar_title>
+		<mission_destroy_vehicles><![CDATA[Distruggi veicoli]]></mission_destroy_vehicles>
+		<today><![CDATA[OGGI]]></today>
+		<inapp_remove_ads><![CDATA[ACQUISTA UN PACCO GEMME PER RIMUOVERE LA PUBBLICITA'!]]></inapp_remove_ads>
+		<or><![CDATA[O]]></or>
+		<popup_free_coins_congrat><![CDATA[Congratulazioni! Hai vinto un premio!]]></popup_free_coins_congrat>
+		<popup_free_coins_sorry><![CDATA[Spiacente!]]></popup_free_coins_sorry>
+		<popup_free_coins_another_video><![CDATA[Vuoi guardare un altro video per ulteriori ricompense?]]></popup_free_coins_another_video>
+		<popup_free_coins_not_available><![CDATA[Non ci sono più video da guardare. Torna più tardi!]]></popup_free_coins_not_available>
+		<popup_free_coins_later><![CDATA[Più tardi]]></popup_free_coins_later>
+		<popup_free_coins_watch_now><![CDATA[Guarda ora!]]></popup_free_coins_watch_now>
+		<popup_free_coins_ok><![CDATA[Ok]]></popup_free_coins_ok>
+		<watch_video><![CDATA[GUARDA UN VIDEO]]></watch_video>
+		<get_free_fuel><![CDATA[E OTTIENI 1 CARBURANTE GRATIS]]></get_free_fuel>
+		<free_video><![CDATA[GRATIS]]></free_video>
+		<confirm_buy_car><![CDATA[Vuoi comprare quest'auto fantastica?]]></confirm_buy_car>
+		<buy_with_coins_postfix><![CDATA[PER COMPRARE CON MONETE]]></buy_with_coins_postfix>
+		<special_vehicle_plane><![CDATA[Aereo]]></special_vehicle_plane>
+		<special_vehicle_ufo><![CDATA[UFO]]></special_vehicle_ufo>
+		<special_vehicle_bigfoot><![CDATA[Bigfoot]]></special_vehicle_bigfoot>
+		<special_vehicle_firetruck><![CDATA[Camion dei pompieri]]></special_vehicle_firetruck>
+		<special_vehicle_tank><![CDATA[Carro armato]]></special_vehicle_tank>
+		<special_mission><![CDATA[SPECIALE]]></special_mission>
+		<new_mission><![CDATA[NUOVO OBIETTIVO!]]></new_mission>
+		<popular_tag><![CDATA[PIU' GETTONATO]]></popular_tag>
+		<bestvalue_tag><![CDATA[MIGLIOR PREZZO]]></bestvalue_tag>
+		<invitefriends_reminder_title><![CDATA[NON DIMENTICARE DI INVITARE I TUOI AMICI!]]></invitefriends_reminder_title>
+		<invitefriends_reminder_payoff><![CDATA[OTTIENI 1 DIAMANTE PER OGNI AMICO CHE ACCETTA IL TUO INVITO]]></invitefriends_reminder_payoff>
+		<invitefriends_maxremaining><![CDATA[AMICI RIMANENTI DA INVITARE OGGI: ]]></invitefriends_maxremaining>
+		<invitefriends_reinvite><![CDATA[RI-INVITA]]></invitefriends_reinvite>
+		<credits_production><![CDATA[PRODUZIONE]]></credits_production>
+		<credits_design><![CDATA[DESIGN]]></credits_design>
+		<credits_programming><![CDATA[PROGRAMMAZIONE]]></credits_programming>
+		<credits_3dart><![CDATA[ARTISTI 3D]]></credits_3dart>
+		<credits_2dart><![CDATA[ARTISTI 2D]]></credits_2dart>
+		<credits_sound><![CDATA[SONORO]]></credits_sound>
+		<credits_qa><![CDATA[QA]]></credits_qa>
+		<credits_thanks><![CDATA[RINGRAZIAMENTI]]></credits_thanks>
+		<credits_specialthanks><![CDATA[RINGRAZIAMENTI SPECIALI]]></credits_specialthanks>
+		<credits_allstaff><![CDATA[Tutto lo staff Miniclip]]></credits_allstaff>
+	</language>
+	<language id="es" type="">
+		<btPlay><![CDATA[JUGAR]]></btPlay>
+		<btContinue><![CDATA[CONTINUAR]]></btContinue>
+		<btFreeCoins><![CDATA[MONEDAS GRATIS]]></btFreeCoins>
+		<news><![CDATA[NOTICIAS]]></news>
+		<options><![CDATA[OPCIONES]]></options>
+		<ranking><![CDATA[PUESTO]]></ranking>
+		<spin><![CDATA[TIRAR]]></spin>
+		<moregames><![CDATA[MÁS JUEGOS]]></moregames>
+		<copyright><![CDATA[COPYRIGHT 2015
+WWW.MINICLIP.COM]]></copyright>
+		<developed_by><![CDATA[DESARROLLADO POR]]></developed_by>
+		<loading><![CDATA[CARGANDO]]></loading>
+		<tutorial><![CDATA[TUTORIAL]]></tutorial>
+		<friends><![CDATA[AMIGOS]]></friends>
+		<country><![CDATA[PAÍS]]></country>
+		<global><![CDATA[GLOBAL]]></global>
+		<all_time><![CDATA[GENERAL]]></all_time>
+		<monthly><![CDATA[MENSUAL]]></monthly>
+		<weekly><![CDATA[SEMANAL]]></weekly>
+		<spin_and_win><![CDATA[¡TIRA y GANA!]]></spin_and_win>
+		<no_spin_popup_title><![CDATA[¡¡¡PRUEBA SUERTE!!!]]></no_spin_popup_title>
+		<no_spin_popup_text><![CDATA[¡Gana increíbles premios!]]></no_spin_popup_text>
+		<no_spin_popup_buy_text><![CDATA[COMPRAR AHORA]]></no_spin_popup_buy_text>
+		<still><![CDATA[DISPONIBLE]]></still>
+		<extra_spin><![CDATA[TIRADA EXTRA]]></extra_spin>
+		<extra_spins><![CDATA[¡TIRADAS EXTRA!]]></extra_spins>
+		<fuel_freeze><![CDATA[CONGELADOR]]></fuel_freeze>
+		<you_win><![CDATA[HAS GANADO]]></you_win>
+		<win><![CDATA[GANA]]></win>
+		<garage><![CDATA[GARAJE]]></garage>
+		<special_btn><![CDATA[ESPECIALES]]></special_btn>
+		<buy_for><![CDATA[COMPRAR POR]]></buy_for>
+		<or_buy_for><![CDATA[O COMPRAR POR]]></or_buy_for>
+		<duration><![CDATA[DURACIÓN]]></duration>
+		<best><![CDATA[MEJOR]]></best>
+		<car ><![CDATA[COCHE]]></car >
+		<diamond><![CDATA[DIAMANTE]]></diamond>
+		<coin><![CDATA[MONEDA]]></coin>
+		<coins><![CDATA[MONEDAS]]></coins>
+		<levelShort><![CDATA[NVL]]></levelShort>
+		<level><![CDATA[NIVEL]]></level>
+		<europeanCarsTitle><![CDATA[HIGHWAY CHASE]]></europeanCarsTitle>
+		<americanCarsTitle><![CDATA[MEN AT WORK]]></americanCarsTitle>
+		<orientalCarsTitle><![CDATA[EXOTIC NIGHT]]></orientalCarsTitle>
+		<muscleCarsTitle><![CDATA[DESERT RIDE]]></muscleCarsTitle>
+		<euCarName1><![CDATA[BELINA]]></euCarName1>
+		<euCarName2><![CDATA[GEMINI]]></euCarName2>
+		<euCarName3><![CDATA[GORGON]]></euCarName3>
+		<euCarName4><![CDATA[COLOSSUS]]></euCarName4>
+		<euCarName5><![CDATA[MEDUSA]]></euCarName5>
+		<asiaCarName1><![CDATA[SUMO]]></asiaCarName1>
+		<asiaCarName2><![CDATA[WASABI]]></asiaCarName2>
+		<asiaCarName3><![CDATA[KATANA]]></asiaCarName3>
+		<asiaCarName4><![CDATA[ONI]]></asiaCarName4>
+		<asiaCarName5><![CDATA[SAMURAI]]></asiaCarName5>
+		<nyCarName1><![CDATA[TOMAHAWK]]></nyCarName1>
+		<nyCarName2><![CDATA[BLADE]]></nyCarName2>
+		<nyCarName3><![CDATA[BULLET]]></nyCarName3>
+		<nyCarName4><![CDATA[KINGBOLT]]></nyCarName4>
+		<nyCarName5><![CDATA[HAMMER]]></nyCarName5>
+		<usaCarName1><![CDATA[GUERRILLA]]></usaCarName1>
+		<usaCarName2><![CDATA[CHILI]]></usaCarName2>
+		<usaCarName3><![CDATA[FUERTE]]></usaCarName3>
+		<usaCarName4><![CDATA[EL FUGITIVO]]></usaCarName4>
+		<usaCarName5><![CDATA[TORO LOCO]]></usaCarName5>
+		<bigfoot><![CDATA[BIGFOOT]]></bigfoot>
+		<plane><![CDATA[AVIÓN]]></plane>
+		<tank><![CDATA[TANQUE]]></tank>
+		<ufo><![CDATA[OVNI]]></ufo>
+		<firetruck><![CDATA[CAMIÓN DE BOMBEROS]]></firetruck>
+		<freeze><![CDATA[CONGELADOR]]></freeze>
+		<currency_buy_freeze_prefix><![CDATA[Congela tu combustible durante]]></currency_buy_freeze_prefix>
+		<currency_buy_freeze_postfix><![CDATA[horas]]></currency_buy_freeze_postfix>
+		<currency_bought_freeze><![CDATA[Congelador de combustible activo
+Caduca en:]]></currency_bought_freeze>
+		<login><![CDATA[ENTRAR]]></login>
+		<best_meters><![CDATA[TU RÉCORD]]></best_meters>
+		<your_meters><![CDATA[DISTANCIA ALCANZADA]]></your_meters>
+		<special_vehicles><![CDATA[VEHÍCULO ESPECIAL]]></special_vehicles>
+		<special_bottom_descr><![CDATA[Consigue estos vehículos para verlos sobre el asfalto.]]></special_bottom_descr>
+		<special_bigfoot_long_descr><![CDATA[¡El Bigfoot es invulnerable y aplasta todo lo que encuentra a su paso! Con cada coche que aplastes conseguirás monedas.]]></special_bigfoot_long_descr>
+		<special_bigfoot_short_descr><![CDATA[¡Aplasta todo lo que encuentres a tu paso!]]></special_bigfoot_short_descr>
+		<special_tank_long_descr><![CDATA[El tanque circula por el carril central aplastando todos los obstáculos que encuentra. Dispara a otros coches tocando izquierda o derecha. Con cada coche que destruyas conseguirás monedas.]]></special_tank_long_descr>
+		<special_tank_short_descr><![CDATA[¡Carguen, apunten, FUEGO!]]></special_tank_short_descr>
+		<special_firetruck_long_descr><![CDATA[El camión de bomberos dispara agua si tocas izquierda o derecha y empuja a los otros coches. Con cada coche que empujes conseguirás monedas.]]></special_firetruck_long_descr>
+		<special_firetruck_short_descr><![CDATA[¡Lava los coches que encuentres a tu paso!]]></special_firetruck_short_descr>
+		<special_ufo_long_descr><![CDATA[¡El ovni vuela sobre el tráfico y abduce todo lo que encuentra debajo para realizar experimentos! Con los coches abducidos conseguirás monedas.]]></special_ufo_long_descr>
+		<special_ufo_short_descr><![CDATA[¡La abducción es la nueva destrucción!]]></special_ufo_short_descr>
+		<special_plane_long_descr><![CDATA[El avión vuela sobre el tráfico y dispara a todo lo que tenga a su alcance. Al disparar a los coches los destruirás y conseguirás monedas.]]></special_plane_long_descr>
+		<special_plane_short_descr><![CDATA[¡Crea una lluvia de fuego desde las alturas!]]></special_plane_short_descr>
+		<cancel><![CDATA[CANCELAR]]></cancel>
+		<buy_fuel><![CDATA[COMPRAR GAS.]]></buy_fuel>
+		<not_enough_fuel><![CDATA[COMBUSTIBLE INSUFICIENTE]]></not_enough_fuel>
+		<buy_diamonds><![CDATA[COMPRAR DIAMANTES]]></buy_diamonds>
+		<not_enough_diamonds><![CDATA[DIAMANTES INSUFICIENTES]]></not_enough_diamonds>
+		<buy_coins><![CDATA[COMPRAR MONEDAS]]></buy_coins>
+		<not_enough_coins><![CDATA[MONEDAS INSUFICIENTES]]></not_enough_coins>
+		<inapp_descr><![CDATA[Toca "?" para ver la descripción]]></inapp_descr>
+		<go><![CDATA[¡YA!]]></go>
+		<checkpoint><![CDATA[CONTROL]]></checkpoint>
+		<reached><![CDATA[ALCANZADO]]></reached>
+		<time_extended><![CDATA[MÁS TIEMPO:]]></time_extended>
+		<timeout><![CDATA[TIEMPO AGOTADO]]></timeout>
+		<collect><![CDATA[RECOGER]]></collect>
+		<no_level><![CDATA[N/D]]></no_level>
+		<version><![CDATA[VER]]></version>
+		<mission_completed><![CDATA[¡OBJETIVO DE CARRERA COMPLETADO!]]></mission_completed>
+		<mission_failed><![CDATA[OBJETIVO DE CARRERA NO SUPERADO]]></mission_failed>
+		<one_more><![CDATA[UNO MÁS]]></one_more>
+		<two_more><![CDATA[DOS MÁS]]></two_more>
+		<time_saved><![CDATA[TIEMPO GUARDADO]]></time_saved>
+		<police_destroyed><![CDATA[POLICÍA DESTRUIDO]]></police_destroyed>
+		<combo><![CDATA[COMBO]]></combo>
+		<item_ready><![CDATA[PREPARADO]]></item_ready>
+		<fuel_saver_expires_in><![CDATA[CONGELADOR DE COMBUSTIBLE CADUCA EN]]></fuel_saver_expires_in>
+		<buy_parking_lot><![CDATA[COMPRAR FASE]]></buy_parking_lot>
+		<buy_car><![CDATA[COMPRAR COCHE]]></buy_car>
+		<turbo_speed><![CDATA[TURBO]]></turbo_speed>
+		<resistance><![CDATA[RESISTENCIA]]></resistance>
+		<max_speed><![CDATA[VELOCIDAD MÁX.]]></max_speed>
+		<acceleration><![CDATA[ACELERACIÓN]]></acceleration>
+		<parkinglot_unlocked><![CDATA[fase desbloqueada]]></parkinglot_unlocked>
+		<day><![CDATA[Día]]></day>
+		<daily_bonus_title><![CDATA[¡BONIFICACIÓN DIARIA!]]></daily_bonus_title>
+		<daily_bonus_descr><![CDATA[¡Consigue una bonificación mejor cada día consecutivo que juegues!]]></daily_bonus_descr>
+		<you_bought><![CDATA[HAS COMPRADO]]></you_bought>
+		<fuel><![CDATA[COMBUSTIBLE]]></fuel>
+		<no_internet_connection><![CDATA[¡No se ha detectado conexión a Internet!]]></no_internet_connection>
+		<ok><![CDATA[OK]]></ok>
+		<rate_descr><![CDATA[¿Te gusta On The Run?]]></rate_descr>
+		<rate_invite><![CDATA[Puntúalo en]]></rate_invite>
+		<later><![CDATA[MÁS TARDE]]></later>
+		<rate><![CDATA[Puntuar]]></rate>
+		<app_store_name><![CDATA[App Store]]></app_store_name>
+		<google_store_name><![CDATA[Play Store]]></google_store_name>
+		<amazon_store_name><![CDATA[Amazon Store]]></amazon_store_name>
+		<windowsphone_store_name><![CDATA[Windows Phone Store]]></windowsphone_store_name>
+		<store_name><![CDATA[Tienda]]></store_name>
+		<on_the_run><![CDATA[On The Run]]></on_the_run>
+		<purchase_aborted><![CDATA[COMPRA CANCELADA]]></purchase_aborted>
+		<purchase_failed><![CDATA[COMPRA NO COMPLETADA]]></purchase_failed>
+		<purchase_successful><![CDATA[COMPRA COMPLETADA]]></purchase_successful>
+		<purchase_processing><![CDATA[PROCESANDO]]></purchase_processing>
+		<quit_confirm><![CDATA[¿Salir del juego?]]></quit_confirm>
+		<yes><![CDATA[SÍ]]></yes>
+		<no><![CDATA[NO]]></no>
+		<meters><![CDATA[metros]]></meters>
+		<meters_short><![CDATA[m]]></meters_short>
+		<challenge_completed><![CDATA[Desafío completado]]></challenge_completed>
+		<mission_reach_combo_prefix><![CDATA[Alcanza el combo]]></mission_reach_combo_prefix>
+		<mission_reach_combo_postfix><![CDATA[]]></mission_reach_combo_postfix>
+		<times><![CDATA[veces]]></times>
+		<mission_destroy><![CDATA[Destruye]]></mission_destroy>
+		<mission_abduct_ufo_long><![CDATA[Abduce]]></mission_abduct_ufo_long>
+		<mission_police_cars_plural><![CDATA[coches de policía]]></mission_police_cars_plural>
+		<mission_police_car_single><![CDATA[coche de policía]]></mission_police_car_single>
+		<seconds><![CDATA[segundos]]></seconds>
+		<seconds_short><![CDATA[s]]></seconds_short>
+		<mission_stay_on_air><![CDATA[Permanece ON AIR]]></mission_stay_on_air>
+		<mission_drive_for><![CDATA[Conduce]]></mission_drive_for>
+		<mission_right_lane><![CDATA[m en los 2 carriles de la derecha]]></mission_right_lane>
+		<mission_left_lane><![CDATA[m en los 2 carriles de la izquierda]]></mission_left_lane>
+		<mission_central_lane><![CDATA[m en el carril central]]></mission_central_lane>
+		<mission_right_lane_short><![CDATA[en los 2 carriles de la derecha]]></mission_right_lane_short>
+		<mission_left_lane_short><![CDATA[en los 2 carriles de la izquierda]]></mission_left_lane_short>
+		<mission_central_lane_short><![CDATA[en el carril central]]></mission_central_lane_short>
+		<mission_collect><![CDATA[Recoge]]></mission_collect>
+		<mission_coins><![CDATA[monedas]]></mission_coins>
+		<mission_bonus_big_coins><![CDATA[monedas grandes]]></mission_bonus_big_coins>
+		<mission_traffic><![CDATA[vehículos]]></mission_traffic>
+		<mission_jump><![CDATA[Salta]]></mission_jump>
+		<mission_drive_through><![CDATA[Cruza controles]]></mission_drive_through>
+		<mission_pass><![CDATA[Cruza]]></mission_pass>
+		<mission_checkpoint><![CDATA[controles]]></mission_checkpoint>
+		<plane_active><![CDATA[AVIÓN ACTIVO]]></plane_active>
+		<ufo_active><![CDATA[OVNI ACTIVO]]></ufo_active>
+		<tap_to_shoot><![CDATA[TOCA IZDA./DCHA. PARA DISPARAR]]></tap_to_shoot>
+		<destroy_them_all><![CDATA[DESTRÚYELOS TODOS]]></destroy_them_all>
+		<tap_to_cannon><![CDATA[TOCA IZDA./DCHA. PARA USAR EL CAÑÓN]]></tap_to_cannon>
+		<you_already_have><![CDATA[YA TIENES]]></you_already_have>
+		<boost><![CDATA[POTENCIAD.]]></boost>
+		<item_purchased><![CDATA[¡OBJETO COMPRADO!]]></item_purchased>
+		<booster_turbo_name><![CDATA[Turbo]]></booster_turbo_name>
+		<booster_turbo_descr><![CDATA[Comienzas la carrera con un potenciador de velocidad activado.]]></booster_turbo_descr>
+		<booster_shield_name><![CDATA[Escudo]]></booster_shield_name>
+		<booster_shield_descr><![CDATA[El escudo te protege de una colisión con otro vehículo.]]></booster_shield_descr>
+		<booster_specialcar_name><![CDATA[Vehículo especial]]></booster_specialcar_name>
+		<booster_specialcar_descr><![CDATA[Comienza la carrera con un vehículo especial al azar.]]></booster_specialcar_descr>
+		<booster_doublecoins_name><![CDATA[Monedas dobles]]></booster_doublecoins_name>
+		<booster_doublecoins_descr><![CDATA[Duplica el valor de las monedas conseguidas en esta carrera.]]></booster_doublecoins_descr>
+		<booster_doubleexp_name><![CDATA[EXP doble]]></booster_doubleexp_name>
+		<booster_doubleexp_descr><![CDATA[Duplica la cantidad de experiencia conseguida al final de la carrera.]]></booster_doubleexp_descr>
+		<booster_moreckp_name><![CDATA[Tiempo de control]]></booster_moreckp_name>
+		<booster_moreckp_descr><![CDATA[Cada control pasado añade 1 segundo extra al cronómetro.]]></booster_moreckp_descr>
+		<tips_tip1><![CDATA[Cuando estés flanqueando a otro vehículo, puedes embestirlo girando hacia él.]]></tips_tip1>
+		<tips_tip2><![CDATA[Cuando aparezca el helicóptero de los informativos, colócate debajo del foco para conseguir monedas.]]></tips_tip2>
+		<tips_tip3><![CDATA[Recoge rayos azules para activar el turbo y luego chócate contra los otros coches para ganar monedas. ¿Por qué no? ¡Es divertido!]]></tips_tip3>
+		<tips_tip4><![CDATA[¡Juega cada día para conseguir bonificaciones diarias más grandes y mejores! ¡Puedes conseguir coches exclusivos!]]></tips_tip4>
+		<tips_tip5><![CDATA[Para correr necesitas combustible. Se recargará con el tiempo o lo puedes comprar en la tienda.]]></tips_tip5>
+		<tips_tip6><![CDATA[¡Si conduces hasta los camiones de transporte especiales te transformarás en un vehículo especial!]]></tips_tip6>
+		<tips_tip7><![CDATA[¡Ten cuidado con los coches de policía! Si te encuentran, trata de flanquearlos y golpearlos para quitártelos de encima.]]></tips_tip7>
+		<tips_tip8><![CDATA[La bonificación de escudo te protegerá de una colisión. ¡Úsalo con astucia!]]></tips_tip8>
+		<tips_tip9><![CDATA[La bonificación de imán recogerá automáticamente las monedas cercanas.]]></tips_tip9>
+		<tips_tip10><![CDATA[Aprovecha el rebufo del tráfico para conseguir velocidad y haz un combo para ir aún más deprisa.]]></tips_tip10>
+		<tips_tip11><![CDATA[Cada control que pases te dará tiempo extra.]]></tips_tip11>
+		<tips_tip12><![CDATA[Al principio de la carera, activa potenciadores para conseguir una mejor puntuación.]]></tips_tip12>
+		<notifications_generic_text1><![CDATA[¡Hora de huir! ¡Abróchate bien y sal corriendo!]]></notifications_generic_text1>
+		<notifications_generic_text2><![CDATA[¡No te olvides de sacar hoy el coche a dar una vuelta! ¡Puedes conseguir unas bonificaciones diarias increíbles!]]></notifications_generic_text2>
+		<notifications_generic_text3><![CDATA[¡No te quedes rezagado en la clasificación! ¡Juega y sube hasta lo más alto!]]></notifications_generic_text3>
+		<notifications_timedevents_text1><![CDATA[¡Cuidado! ¡La bonificación de congelador de combustible caducará pronto, así que sácale el mayor provecho!]]></notifications_timedevents_text1>
+		<notifications_timedevents_text2><![CDATA[¡Oye! Tienes el depósito de combustible lleno, ¡así que ponte a correr!]]></notifications_timedevents_text2>
+		<notifications_daily_bonus1><![CDATA[Tu bonificación diaria gratis está lista. ¡Recógela ya!]]></notifications_daily_bonus1>
+		<notifications_daily_bonus2><![CDATA[¡Ven ya a por tu bonificación diaria gratis!]]></notifications_daily_bonus2>
+		<notifications_daily_bonus3><![CDATA[¡Eh, tu bonificación diaria gratis está lista!]]></notifications_daily_bonus3>
+		<more_meters><![CDATA[más metros]]></more_meters>
+		<beat_score><![CDATA[ para superar la puntuación de tu amigo]]></beat_score>
+		<keep_running><![CDATA[¡No te pares!]]></keep_running>
+		<great_spin><![CDATA[¡GRAN TIRADA!]]></great_spin>
+		<popup_amazing><![CDATA[¡INCREÍBLE!]]></popup_amazing>
+		<popup_unlocked_car><![CDATA[Nuevo coche desbloqueado]]></popup_unlocked_car>
+		<popup_unlocked_tier><![CDATA[Nueva fase desbloqueada]]></popup_unlocked_tier>
+		<popup_unlocked_special><![CDATA[Nuevo vehículo especial desbloqueado]]></popup_unlocked_special>
+		<popup_tutorial_title><![CDATA[TUTORIAL]]></popup_tutorial_title>
+		<popup_tutorial_warning_title><![CDATA[¡EL TUTORIAL ESTÁ ACTIVO!]]></popup_tutorial_warning_title>
+		<popup_tutorial_warning><![CDATA[Estás conduciendo tu primer coche en la autopista.
+
+Podrás cambiar el escenario predeterminado y el coche al final de este tutorial.]]></popup_tutorial_warning>
+		<popup_tutorial_subtitle1><![CDATA[EVITA EL TRÁFICO]]></popup_tutorial_subtitle1>
+		<popup_tutorial_subtitle2><![CDATA[REBUFO]]></popup_tutorial_subtitle2>
+		<popup_tutorial_subtitle3><![CDATA[RAYOS]]></popup_tutorial_subtitle3>
+		<popup_tutorial_subtitle4><![CDATA[CAMIONES]]></popup_tutorial_subtitle4>
+		<popup_tutorial_subtitle5><![CDATA[¡BUENA SUERTE!]]></popup_tutorial_subtitle5>
+		<popup_tutorial_tap><![CDATA[Toca para continuar]]></popup_tutorial_tap>
+		<popup_tutorial_beginningright><![CDATA[¡Enhorabuena! Parece que sabes cómo moverte. ¿Sabes cómo ir aún más deprisa?]]></popup_tutorial_beginningright>
+		<popup_tutorial_beginningleft><![CDATA[¡Usa el rebufo de los demás coches y acumula tus combos!]]></popup_tutorial_beginningleft>
+		<popup_tutorial_bolts><![CDATA[¡Recoge los rayos de la carretera para conseguir un gran potenciador de velocidad!]]></popup_tutorial_bolts>
+		<popup_tutorial_specialvehicles><![CDATA[Hay camiones especiales en la pista, ¿para qué servirán?]]></popup_tutorial_specialvehicles>
+		<popup_tutorial_end><![CDATA[Tutorial completado. Ahora, ¿a qué velocidad puedes ir?]]></popup_tutorial_end>
+		<maxed><![CDATA[AL MÁXIMO]]></maxed>
+		<num_separator><![CDATA[,]]></num_separator>
+		<streak_bonus_title><![CDATA[¿¡¿DÓNDE HAS ESTADO?!?]]></streak_bonus_title>
+		<streak_bonus_description><![CDATA[¡Has estado muy cerca de conseguir el superpremio final!]]></streak_bonus_description>
+		<streak_bonus_buy_text1><![CDATA[¡AÚN PUEDES SALVAR LA RACHA DE LA BONIFICACIÓN DIARIA!]]></streak_bonus_buy_text1>
+		<streak_bonus_buy_text2><![CDATA[¡Solo ]]></streak_bonus_buy_text2>
+		<streak_bonus_buy_text3><![CDATA[días más!]]></streak_bonus_buy_text3>
+		<skip><![CDATA[OMITIR]]></skip>
+		<btVideo><![CDATA[POTENCIADOR GRATIS]]></btVideo>
+		<facebook_login_popup_description_1><![CDATA[¡OFERTA POR TIEMPO LIMITADO!]]></facebook_login_popup_description_1>
+		<facebook_login_popup_description_2><![CDATA[¡COGE TU RECOMPENSA MIENTRAS PUEDAS!]]></facebook_login_popup_description_2>
+		<facebook_login_popup_title><![CDATA[¡INICIA SESIÓN PARA COMPETIR CON TUS AMIGOS!]]></facebook_login_popup_title>
+		<facebook_login_popup_get><![CDATA[Y CONSIGUE ]]></facebook_login_popup_get>
+		<fuel_gift_title><![CDATA[¡PARECE QUE TE HAS QUEDADO SIN COMBUSTIBLE!]]></fuel_gift_title>
+		<fuel_gift_description><![CDATA[¡Puedes comprarlo en la tienda, pero la primera vez te invitamos!]]></fuel_gift_description>
+		<share><![CDATA[COMPARTIR]]></share>
+		<facebook_feed_caption><![CDATA[¡Acabo de sembrar un camino de destrucción en On The Run!]]></facebook_feed_caption>
+		<facebook_feed_share_rank><![CDATA[¡Otro diamante para mí! He alcanzado el nivel ]]></facebook_feed_share_rank>
+		<facebook_feed_share_wheel><![CDATA[¡Acabo de ganar un premio increíble en On The Run!]]></facebook_feed_share_wheel>
+		<facebook_feed_buy_car><![CDATA[¡Mi coche nuevo está preparado para pisar el asfalto!]]></facebook_feed_buy_car>
+		<facebook_feed_buy_tier><![CDATA[Acabo de desbloquear una fase nueva: ]]></facebook_feed_buy_tier>
+		<facebook_feed_unlock_special><![CDATA[¡Tengo un vehículo especial disponible! Un nuevo ]]></facebook_feed_unlock_special>
+		<facebook_feed_distance><![CDATA[Acabo de recorrer una distancia de ]]></facebook_feed_distance>
+		<unlock_tier_prefix><![CDATA[RECORRE]]></unlock_tier_prefix>
+		<unlock_tier_postfix><![CDATA[PARA DESBLOQUEAR LA FASE]]></unlock_tier_postfix>
+		<xp><![CDATA[EXP]]></xp>
+		<web_help><![CDATA[AYUDA]]></web_help>
+		<web_btSubmit><![CDATA[ENVIAR PUNTUACIÓN]]></web_btSubmit>
+		<web_not_enough_coins><![CDATA[¡MONEDAS INSUFICIENTES, SIGUE JUGANDO!]]></web_not_enough_coins>
+		<web_mobilepromo_tag><![CDATA[¡Prueba el juego en el móvil!]]></web_mobilepromo_tag>
+		<web_highscore><![CDATA[RÉCORDS]]></web_highscore>
+		<web_help_directions><![CDATA[Muévete con]]></web_help_directions>
+		<web_help_collectbolts><![CDATA[Recoge]]></web_help_collectbolts>
+		<web_help_bolttext><![CDATA[para activar el turbo]]></web_help_bolttext>
+		<web_help_slipstream><![CDATA[Rebufo]]></web_help_slipstream>
+		<web_help_slipstreamtext><![CDATA[Colócate detrás de otro vehículo para aprovechar su rebufo y conseguir una pequeña aceleración extra. ¡Hazlo varias veces seguidas para conseguir un combo e ir todavía más deprisa!]]></web_help_slipstreamtext>
+		<web_help_trucks><![CDATA[Camiones]]></web_help_trucks>
+		<web_help_truckstext><![CDATA[Cuando veas camiones de transporte, conduce dentro de ellos: ¡ocurrirán cosas increíbles!]]></web_help_truckstext>
+		<web_help_back><![CDATA[VALE]]></web_help_back>
+		<web_pressspacetocontinue><![CDATA[PULSA ESPACIO PARA CONTINUAR]]></web_pressspacetocontinue>
+		<web_tap_to_shoot><![CDATA[PARA DISPARAR]]></web_tap_to_shoot>
+		<web_tap_to_cannon><![CDATA[PARA USAR EL CAÑÓN]]></web_tap_to_cannon>
+		<web_special_tank_long_descr><![CDATA[El tanque circula por el carril central aplastando todos los obstáculos que encuentra a su paso. También puedes disparar a otros coches pulsando las flechas izquierda o derecha, y conseguirás monedas por cada coche que destruyas.]]></web_special_tank_long_descr>
+		<web_special_firetruck_long_descr><![CDATA[El camión de bomberos dispara agua si pulsas las flechas izquierda o derecha, y empuja a los otros coches. Al empujar coches al arcén los destruirás y conseguirás monedas.]]></web_special_firetruck_long_descr>
+		<web_restart_game><![CDATA[¿Reiniciar partida?]]></web_restart_game>
+		<web_skip_saveme><![CDATA[PULSA ESPACIO]]></web_skip_saveme>
+		<web_inapp_descr><![CDATA[Compra mejoras. Pulsa "?" para más información.]]></web_inapp_descr>
+		<web_back><![CDATA[ATRÁS]]></web_back>
+		<web_highscores_description><![CDATA[Elige fase]]></web_highscores_description>
+		<web_highscores_title><![CDATA[VER TUS RÉCORDS]]></web_highscores_title>
+		<mission_combo><![CDATA[Combo]]></mission_combo>
+		<you_know><![CDATA[¿Sabías que...?]]></you_know>
+		<trucks_advise><![CDATA[¡Puedes comprar nuevos vehículos especiales y también mejorarlos!]]></trucks_advise>
+		<web_distance><![CDATA[Distancia]]></web_distance>
+		<web_best_distance><![CDATA[Mejor distancia]]></web_best_distance>
+		<reach_lvl_tounlock><![CDATA[PARA DESBLOQUEAR LA FASE]]></reach_lvl_tounlock>
+		<beat_your_score><![CDATA[ para superar tu récord]]></beat_your_score>
+		<beat_non_friend_score><![CDATA[ para superar esta puntuación]]></beat_non_friend_score>
+		<game_center><![CDATA[LOGROS]]></game_center>
+		<invite_tab><![CDATA[INVITAR]]></invite_tab>
+		<invite_title><![CDATA[LOS NUEVOS AMIGOS INVITADOS TE DEBEN 1]]></invite_title>
+		<invite_button><![CDATA[INVITAR]]></invite_button>
+		<friends_tab><![CDATA[AMIGOS]]></friends_tab>
+		<friends_title><![CDATA[DISPONIBLE PARA REGALAR A TUS AMIGOS HOY]]></friends_title>
+		<gift_button><![CDATA[REGALO]]></gift_button>
+		<notification_popup_title><![CDATA[¡HAS RECIBIDO UN REGALO!]]></notification_popup_title>
+		<notification_popup_text1><![CDATA[envía 1 de combustible]]></notification_popup_text1>
+		<notification_popup_text2><![CDATA[Acepta y envíale 1 también]]></notification_popup_text2>
+		<notification_popup_button><![CDATA[ACEPTAR Y REGALAR TAMBIÉN]]></notification_popup_button>
+		<notification_popup_button_accept><![CDATA[ACEPTAR]]></notification_popup_button_accept>
+		<no_FB_friends><![CDATA[NO SE HAN DETECTADO AMIGOS]]></no_FB_friends>
+		<no_FB_friends_playing><![CDATA[NINGÚN AMIGO TUYO ESTÁ JUGANDO. ¡INVÍTALOS!]]></no_FB_friends_playing>
+		<mission_new><![CDATA[NUEVO]]></mission_new>
+		<invite_reward_text><![CDATA[AQUÍ TIENES TU RECOMPENSA]]></invite_reward_text>
+		<tap_continue_missions><![CDATA[Toca para continuar]]></tap_continue_missions>
+		<not_logged_in_ingame><![CDATA[INICIA SESIÓN PARA VER A TUS AMIGOS AQUÍ]]></not_logged_in_ingame>
+		<no_friends_ingame><![CDATA[INVITA A TUS AMIGOS PARA SUPERAR SUS PUNTUACIONES]]></no_friends_ingame>
+		<invite_5_thanks><![CDATA[¡GRACIAS POR INVITAR A 5 AMIGOS!]]></invite_5_thanks>
+		<invite_5_comeback><![CDATA[¡Vuelve mañana e invita a más amigos para conseguir más diamantes!]]></invite_5_comeback>
+		<fake_username_1><![CDATA[Fugitivo novato]]></fake_username_1>
+		<fake_username_2><![CDATA[Fugitivo pro]]></fake_username_2>
+		<fake_username_3><![CDATA[Fugitivo maestro]]></fake_username_3>
+		<sorry><![CDATA[¡Oh, no!]]></sorry>
+		<no_video_available><![CDATA[No hay anuncios de vídeo disponibles]]></no_video_available>
+		<congratulations><![CDATA[¡Enhorabuena!]]></congratulations>
+		<coins_reward_prefix><![CDATA[¡Acabas de recibir]]></coins_reward_prefix>
+		<coins_reward_postfix><![CDATA[monedas!]]></coins_reward_postfix>
+		<invite_friend_text><![CDATA[¡Juega a On The Run si te gusta la velocidad!]]></invite_friend_text>
+		<invite_friend_title><![CDATA[¡He estado calentando ruedas en este juego!]]></invite_friend_title>
+		<login_facebook_ranking><![CDATA[¡CONÉCTATE CON FACEBOOK PARA JUGAR CON TUS AMIGOS!]]></login_facebook_ranking>
+		<invite_facebook_ranking><![CDATA[PARECE QUE NINGUNO DE TUS AMIGOS ESTÁ JUGANDO... ¡CORRE LA VOZ!]]></invite_facebook_ranking>
+		<unlock_specials_prefix><![CDATA[ALCANZA EL NIVEL]]></unlock_specials_prefix>
+		<unlock_specials_postfix><![CDATA[PARA DESBLOQUEAR O COMPRAR POR]]></unlock_specials_postfix>
+		<login_facebook_notlogged_title><![CDATA[¡INICIA SESIÓN Y ACCEDE A FUNCIONES EXCLUSIVAS!]]></login_facebook_notlogged_title>
+		<login_facebook_notlogged_compete><![CDATA[COMPITE CON TUS AMIGOS DE FACEBOOK]]></login_facebook_notlogged_compete>
+		<login_facebook_notlogged_fuel><![CDATA[ENVÍA COMBUSTIBLE A TUS AMIGOS]]></login_facebook_notlogged_fuel>
+		<login_facebook_notlogged_diamonds><![CDATA[REGALO DE BIENVENIDA DE 5 DIAMANTES]]></login_facebook_notlogged_diamonds>
+		<diamonds><![CDATA[DIAMANTES]]></diamonds>
+		<new_record><![CDATA[NUEVO RÉCORD]]></new_record>
+		<day_ends_in><![CDATA[EL DÍA ACABA EN]]></day_ends_in>
+		<tiers_btn><![CDATA[FASES]]></tiers_btn>
+		<get_boosters><![CDATA[CONSIGUE POTENCIADORES]]></get_boosters>
+		<run_goal><![CDATA[OBJETIVO]]></run_goal>
+		<xp_postfix><![CDATA[EXP]]></xp_postfix>
+		<rank_bar_player><![CDATA[TÚ]]></rank_bar_player>
+		<description_tier_1><![CDATA[La autopista perfecta para principiantes: 5 carriles y una dirección.]]></description_tier_1>
+		<description_tier_2><![CDATA[Disfruta del Lejano Oriente, pero ten cuidado: ¡hay 2 carriles en sentido contrario!]]></description_tier_2>
+		<description_tier_3><![CDATA[Disfruta del evocador 
+océano... ¡y ten cuidado con las obras!]]></description_tier_3>
+		<description_tier_4><![CDATA[El desafío definitivo:
+una autopista en el desierto llena de baches con 2 carriles en sentido contrario.]]></description_tier_4>
+		<mission_avoid_barriers><![CDATA[sin golpear barreras]]></mission_avoid_barriers>
+		<mission_fast_lane><![CDATA[en el carril rápido]]></mission_fast_lane>
+		<mission_destroy_in_turbo_ingame><![CDATA[con rayo activo]]></mission_destroy_in_turbo_ingame>
+		<mission_destroy_in_turbo_wrong_lane_ingame><![CDATA[con rayo activo en el carril erróneo]]></mission_destroy_in_turbo_wrong_lane_ingame>
+		<mission_destroy_in_turbo_offgame><![CDATA[vehículos con rayo activo]]></mission_destroy_in_turbo_offgame>
+		<mission_destroy_in_turbo_wrong_lane_offgame><![CDATA[vehículos con rayo activo en el carril equivocado]]></mission_destroy_in_turbo_wrong_lane_offgame>
+		<mission_with><![CDATA[con]]></mission_with>
+		<mission_meters_with><![CDATA[metros con]]></mission_meters_with>
+		<mission_vehicles_with><![CDATA[vehículos con]]></mission_vehicles_with>
+		<mission_wrong_lane><![CDATA[vehículos en el carril equivocado con]]></mission_wrong_lane>
+		<coins_pack><![CDATA[PAQUETES DE MONEDAS]]></coins_pack>
+		<gems_pack><![CDATA[PAQUETE DE GEMAS]]></gems_pack>
+		<free_spin_pack><![CDATA[PAQUETE DE TIRADAS GRATIS]]></free_spin_pack>
+		<fuel_pack><![CDATA[PAQUETE DE COMBUSTIBLE]]></fuel_pack>
+		<car_unlocked><![CDATA[COCHE NUEVO]]></car_unlocked>
+		<tier_unlocked><![CDATA[FASE NUEVA]]></tier_unlocked>
+		<mission_run><![CDATA[Corre]]></mission_run>
+		<mission_in_wrong_lane><![CDATA[en el carril equivocado]]></mission_in_wrong_lane>
+		<mission_smash_bigfoot_short><![CDATA[Aplasta vehículos]]></mission_smash_bigfoot_short>
+		<mission_abduct_ufo_short><![CDATA[Abduce vehículos]]></mission_abduct_ufo_short>
+		<mission_pushaway_firetruck_short><![CDATA[Empuja vehículos]]></mission_pushaway_firetruck_short>
+		<mission_smash_bigfoot_long><![CDATA[Aplasta]]></mission_smash_bigfoot_long>
+		<mission_pushaway_firetruck_long><![CDATA[Empuja]]></mission_pushaway_firetruck_long>
+		<mission_coins_short><![CDATA[Coge monedas]]></mission_coins_short>
+		<mission_collect_short><![CDATA[Coge monedas grandes]]></mission_collect_short>
+		<skip_popup_title_step1><![CDATA[¿TIENES PROBLEMAS CON ESTE OBJETIVO?]]></skip_popup_title_step1>
+		<skip_popup_text_step1><![CDATA[¡Consigue mejoras para tu coche antes de disputar la carrera!]]></skip_popup_text_step1>
+		<skip_popup_title_step2><![CDATA[¿SALTARTE EL OBJETIVO ACTUAL?]]></skip_popup_title_step2>
+		<skip_popup_text_step2><![CDATA[Obtén un nuevo objetivo por]]></skip_popup_text_step2>
+		<skip_popup_upgrade><![CDATA[¡MEJORA TU COCHE!]]></skip_popup_upgrade>
+		<rank_bar_title><![CDATA[TU PROGRESO DE POSICIÓN]]></rank_bar_title>
+		<mission_destroy_vehicles><![CDATA[Destruye vehículos]]></mission_destroy_vehicles>
+		<today><![CDATA[HOY]]></today>
+		<inapp_remove_ads><![CDATA[¡COMPRA PAQUETES DE DIAMANTES PARA QUITAR LOS ANUNCIOS!]]></inapp_remove_ads>
+		<or><![CDATA[O]]></or>
+		<popup_free_coins_congrat><![CDATA[¡Enhorabuena, acabas de ganar un premio!]]></popup_free_coins_congrat>
+		<popup_free_coins_sorry><![CDATA[¡Oh, no!]]></popup_free_coins_sorry>
+		<popup_free_coins_another_video><![CDATA[¿Quieres ver otro vídeo para conseguir más premios?]]></popup_free_coins_another_video>
+		<popup_free_coins_not_available><![CDATA[No hay más vídeos para ver. ¡Vuelve más tarde!]]></popup_free_coins_not_available>
+		<popup_free_coins_later><![CDATA[Luego]]></popup_free_coins_later>
+		<popup_free_coins_watch_now><![CDATA[Ver ahora]]></popup_free_coins_watch_now>
+		<popup_free_coins_ok><![CDATA[OK]]></popup_free_coins_ok>
+		<watch_video><![CDATA[VE UN VÍDEO]]></watch_video>
+		<get_free_fuel><![CDATA[Y OBTÉN 1 COMBUSTIBLE GRATIS]]></get_free_fuel>
+		<free_video><![CDATA[GRATIS]]></free_video>
+		<confirm_buy_car><![CDATA[¿Quieres comprar este coche increíble?]]></confirm_buy_car>
+		<buy_with_coins_postfix><![CDATA[PARA COMPRAR CON MONEDAS]]></buy_with_coins_postfix>
+		<special_vehicle_plane><![CDATA[Avión]]></special_vehicle_plane>
+		<special_vehicle_ufo><![CDATA[Ovni]]></special_vehicle_ufo>
+		<special_vehicle_bigfoot><![CDATA[Bigfoot]]></special_vehicle_bigfoot>
+		<special_vehicle_firetruck><![CDATA[Camión de bomberos]]></special_vehicle_firetruck>
+		<special_vehicle_tank><![CDATA[Tanque]]></special_vehicle_tank>
+		<special_mission><![CDATA[ESPECIAL]]></special_mission>
+		<new_mission><![CDATA[¡NUEVO OBJETIVO!]]></new_mission>
+		<popular_tag><![CDATA[MÁS POPULAR]]></popular_tag>
+		<bestvalue_tag><![CDATA[MEJOR OFERTA]]></bestvalue_tag>
+		<invitefriends_reminder_title><![CDATA[¡NO TE OLVIDES DE INVITAR A TUS AMIGOS!]]></invitefriends_reminder_title>
+		<invitefriends_reminder_payoff><![CDATA[CONSIGUE 1 DIAMANTE POR NUEVOS AMIGOS INVITADOS]]></invitefriends_reminder_payoff>
+		<invitefriends_maxremaining><![CDATA[NUEVOS AMIGOS A LOS QUE INVITAR HOY: ]]></invitefriends_maxremaining>
+		<invitefriends_reinvite><![CDATA[REINVITAR]]></invitefriends_reinvite>
+		<credits_production><![CDATA[PRODUCCIÓN]]></credits_production>
+		<credits_design><![CDATA[DISEÑO]]></credits_design>
+		<credits_programming><![CDATA[PROGRAMACIÓN]]></credits_programming>
+		<credits_3dart><![CDATA[ARTE 3D]]></credits_3dart>
+		<credits_2dart><![CDATA[ARTE 2D]]></credits_2dart>
+		<credits_sound><![CDATA[SONIDO]]></credits_sound>
+		<credits_qa><![CDATA[CONTROL DE CALIDAD]]></credits_qa>
+		<credits_thanks><![CDATA[AGRADECIMIENTOS]]></credits_thanks>
+		<credits_specialthanks><![CDATA[GRACIAS ESPECIALES A]]></credits_specialthanks>
+		<credits_allstaff><![CDATA[Todo el personal Miniclip]]></credits_allstaff>
+	</language>
+	<language id="fr" type="">
+		<btPlay><![CDATA[JOUER]]></btPlay>
+		<btContinue><![CDATA[CONTINUER]]></btContinue>
+		<btFreeCoins><![CDATA[PIÈCES OFFERTES]]></btFreeCoins>
+		<news><![CDATA[NOUVELLES]]></news>
+		<options><![CDATA[OPTIONS]]></options>
+		<ranking><![CDATA[CLASSEMENT]]></ranking>
+		<spin><![CDATA[LANCER]]></spin>
+		<moregames><![CDATA[PLUS DE JEUX]]></moregames>
+		<copyright><![CDATA[COPYRIGHT 2015
+WWW.MINICLIP.COM]]></copyright>
+		<developed_by><![CDATA[DÉVELOPPÉ PAR]]></developed_by>
+		<loading><![CDATA[CHARGEMENT]]></loading>
+		<tutorial><![CDATA[DIDACTICIEL]]></tutorial>
+		<friends><![CDATA[AMIS]]></friends>
+		<country><![CDATA[PAYS]]></country>
+		<global><![CDATA[MONDIAL]]></global>
+		<all_time><![CDATA[HISTORIQUE]]></all_time>
+		<monthly><![CDATA[MENSUEL]]></monthly>
+		<weekly><![CDATA[HEBDOMADAIRE]]></weekly>
+		<spin_and_win><![CDATA[LANCER et GAGNER]]></spin_and_win>
+		<no_spin_popup_title><![CDATA[TENTE TA CHANCE !!!]]></no_spin_popup_title>
+		<no_spin_popup_text><![CDATA[Remporte de super récompenses !]]></no_spin_popup_text>
+		<no_spin_popup_buy_text><![CDATA[ACHETER]]></no_spin_popup_buy_text>
+		<still><![CDATA[RESTANTS]]></still>
+		<extra_spin><![CDATA[LANCER BONUS]]></extra_spin>
+		<extra_spins><![CDATA[LANCERS BONUS]]></extra_spins>
+		<fuel_freeze><![CDATA[GEL DE CARBURANT]]></fuel_freeze>
+		<you_win><![CDATA[GAGNÉ]]></you_win>
+		<win><![CDATA[GAGNER]]></win>
+		<garage><![CDATA[GARAGE]]></garage>
+		<special_btn><![CDATA[SPÉCIAUX]]></special_btn>
+		<buy_for><![CDATA[ACHETER POUR]]></buy_for>
+		<or_buy_for><![CDATA[OU ACHETER POUR]]></or_buy_for>
+		<duration><![CDATA[DURÉE]]></duration>
+		<best><![CDATA[MEILLEUR]]></best>
+		<car ><![CDATA[VOITURE]]></car >
+		<diamond><![CDATA[DIAMANT]]></diamond>
+		<coin><![CDATA[PIÈCE]]></coin>
+		<coins><![CDATA[PIÈCES]]></coins>
+		<levelShort><![CDATA[NIV]]></levelShort>
+		<level><![CDATA[NIVEAU]]></level>
+		<europeanCarsTitle><![CDATA[HIGHWAY CHASE]]></europeanCarsTitle>
+		<americanCarsTitle><![CDATA[MEN AT WORK]]></americanCarsTitle>
+		<orientalCarsTitle><![CDATA[EXOTIC NIGHT]]></orientalCarsTitle>
+		<muscleCarsTitle><![CDATA[DESERT RIDE]]></muscleCarsTitle>
+		<euCarName1><![CDATA[BELINA]]></euCarName1>
+		<euCarName2><![CDATA[GEMINI]]></euCarName2>
+		<euCarName3><![CDATA[GORGON]]></euCarName3>
+		<euCarName4><![CDATA[COLOSSUS]]></euCarName4>
+		<euCarName5><![CDATA[MEDUSA]]></euCarName5>
+		<asiaCarName1><![CDATA[SUMO]]></asiaCarName1>
+		<asiaCarName2><![CDATA[WASABI]]></asiaCarName2>
+		<asiaCarName3><![CDATA[KATANA]]></asiaCarName3>
+		<asiaCarName4><![CDATA[ONI]]></asiaCarName4>
+		<asiaCarName5><![CDATA[SAMURAI]]></asiaCarName5>
+		<nyCarName1><![CDATA[TOMAHAWK]]></nyCarName1>
+		<nyCarName2><![CDATA[BLADE]]></nyCarName2>
+		<nyCarName3><![CDATA[BULLET]]></nyCarName3>
+		<nyCarName4><![CDATA[KINGBOLT]]></nyCarName4>
+		<nyCarName5><![CDATA[HAMMER]]></nyCarName5>
+		<usaCarName1><![CDATA[GUERRILLA]]></usaCarName1>
+		<usaCarName2><![CDATA[CHILI]]></usaCarName2>
+		<usaCarName3><![CDATA[FUERTE]]></usaCarName3>
+		<usaCarName4><![CDATA[EL FUGITIVO]]></usaCarName4>
+		<usaCarName5><![CDATA[TORO LOCO]]></usaCarName5>
+		<bigfoot><![CDATA[BIGFOOT]]></bigfoot>
+		<plane><![CDATA[AVION]]></plane>
+		<tank><![CDATA[CHAR]]></tank>
+		<ufo><![CDATA[OVNI]]></ufo>
+		<firetruck><![CDATA[CAMION DE POMPIER]]></firetruck>
+		<freeze><![CDATA[GEL]]></freeze>
+		<currency_buy_freeze_prefix><![CDATA[Gèle ton carburant pour]]></currency_buy_freeze_prefix>
+		<currency_buy_freeze_postfix><![CDATA[heures]]></currency_buy_freeze_postfix>
+		<currency_bought_freeze><![CDATA[Gel de carburant actif
+Expire dans :]]></currency_bought_freeze>
+		<login><![CDATA[IDENTIFIANT]]></login>
+		<best_meters><![CDATA[TON MEILLEUR]]></best_meters>
+		<your_meters><![CDATA[DISTANCE ATTEINTE]]></your_meters>
+		<special_vehicles><![CDATA[VÉHICULE SPÉCIAL]]></special_vehicles>
+		<special_bottom_descr><![CDATA[Achète-les pour les voir sur la route.]]></special_bottom_descr>
+		<special_bigfoot_long_descr><![CDATA[Le Bigfoot est invulnérable et écrase tout sur sa route ! Chaque voiture écrasée rapporte des pièces.]]></special_bigfoot_long_descr>
+		<special_bigfoot_short_descr><![CDATA[Écrase tout sur ta route !]]></special_bigfoot_short_descr>
+		<special_tank_long_descr><![CDATA[Le char roule sur la voie centrale et écrase tout sur sa route. Tire sur les autres voitures en touchant à gauche ou à droite. Chaque voiture détruite rapporte des pièces.]]></special_tank_long_descr>
+		<special_tank_short_descr><![CDATA[Prêt, vise, FEU !]]></special_tank_short_descr>
+		<special_firetruck_long_descr><![CDATA[Le camion de pompier projette de l'eau en touchant à gauche ou à droite pour projeter les autres voitures. Pousse les voitures hors de la route pour obtenir des pièces.]]></special_firetruck_long_descr>
+		<special_firetruck_short_descr><![CDATA[Asperge ces voitures et fais-les sortir de la route !]]></special_firetruck_short_descr>
+		<special_ufo_long_descr><![CDATA[L'OVNI survole la circulation et téléporte tout ce qui se trouve en-dessous de lui pour se livrer à des expériences ! Téléporter des voitures rapporte des pièces.]]></special_ufo_long_descr>
+		<special_ufo_short_descr><![CDATA[Téléporter, c'est comme détruire mais en mieux !]]></special_ufo_short_descr>
+		<special_plane_long_descr><![CDATA[L'avion vole au-dessus de la circulation et tire sur tout ce qui est à sa portée. Tirer sur des voitures et les détruire rapporte des pièces.]]></special_plane_long_descr>
+		<special_plane_short_descr><![CDATA[Fais pleuvoir le feu !]]></special_plane_short_descr>
+		<cancel><![CDATA[ANNULER]]></cancel>
+		<buy_fuel><![CDATA[ACHETER ESSENCE]]></buy_fuel>
+		<not_enough_fuel><![CDATA[PAS ASSEZ D'ESSENCE]]></not_enough_fuel>
+		<buy_diamonds><![CDATA[ACHETER DIAMANTS]]></buy_diamonds>
+		<not_enough_diamonds><![CDATA[PAS ASSEZ DE DIAMANTS]]></not_enough_diamonds>
+		<buy_coins><![CDATA[ACHETER PIÈCES]]></buy_coins>
+		<not_enough_coins><![CDATA[PAS ASSEZ DE PIÈCES]]></not_enough_coins>
+		<inapp_descr><![CDATA[Touche "?" pour voir la description]]></inapp_descr>
+		<go><![CDATA[ALLER !]]></go>
+		<checkpoint><![CDATA[RELAI]]></checkpoint>
+		<reached><![CDATA[ATTEINT !]]></reached>
+		<time_extended><![CDATA[TEMPS ÉTENDU :]]></time_extended>
+		<timeout><![CDATA[TEMPE ÉCOULÉ]]></timeout>
+		<collect><![CDATA[RAMASSER]]></collect>
+		<no_level><![CDATA[n.d.]]></no_level>
+		<version><![CDATA[VER]]></version>
+		<mission_completed><![CDATA[OBJECTIF DE COURSE TERMINÉ !]]></mission_completed>
+		<mission_failed><![CDATA[OBJECTIF DE COURSE ÉCHOUÉ]]></mission_failed>
+		<one_more><![CDATA[PLUS QU'UN]]></one_more>
+		<two_more><![CDATA[ENCORE DEUX]]></two_more>
+		<time_saved><![CDATA[TEMPS ÉCONOMISÉ]]></time_saved>
+		<police_destroyed><![CDATA[POLICE DÉTRUITE]]></police_destroyed>
+		<combo><![CDATA[COMBO]]></combo>
+		<item_ready><![CDATA[PRÊT]]></item_ready>
+		<fuel_saver_expires_in><![CDATA[LE GEL DE CARBURANT EXPIRE DANS]]></fuel_saver_expires_in>
+		<buy_parking_lot><![CDATA[ACHETER NIVEAU]]></buy_parking_lot>
+		<buy_car><![CDATA[ACHETER VOITURE]]></buy_car>
+		<turbo_speed><![CDATA[VITESSE TURBO]]></turbo_speed>
+		<resistance><![CDATA[RÉSISTANCE]]></resistance>
+		<max_speed><![CDATA[VITESSE MAXIMUM]]></max_speed>
+		<acceleration><![CDATA[ACCÉLÉRATION]]></acceleration>
+		<parkinglot_unlocked><![CDATA[niveau débloqué]]></parkinglot_unlocked>
+		<day><![CDATA[Jour]]></day>
+		<daily_bonus_title><![CDATA[BONUS QUOTIDIEN !]]></daily_bonus_title>
+		<daily_bonus_descr><![CDATA[Obtiens un bonus plus grand à chaque jour de jeu consécutif !]]></daily_bonus_descr>
+		<you_bought><![CDATA[TU AS ACHETÉ]]></you_bought>
+		<fuel><![CDATA[ESSENCE]]></fuel>
+		<no_internet_connection><![CDATA[Aucune connexion Internet détectée !]]></no_internet_connection>
+		<ok><![CDATA[OK]]></ok>
+		<rate_descr><![CDATA[Tu aimes On The Run ?]]></rate_descr>
+		<rate_invite><![CDATA[Évalue-le sur le]]></rate_invite>
+		<later><![CDATA[PLUS TARD]]></later>
+		<rate><![CDATA[Évaluer]]></rate>
+		<app_store_name><![CDATA[App Store]]></app_store_name>
+		<google_store_name><![CDATA[Play Store]]></google_store_name>
+		<amazon_store_name><![CDATA[App-Shop Amazon]]></amazon_store_name>
+		<windowsphone_store_name><![CDATA[Windows Phone Store]]></windowsphone_store_name>
+		<store_name><![CDATA[Boutique]]></store_name>
+		<on_the_run><![CDATA[On The Run]]></on_the_run>
+		<purchase_aborted><![CDATA[ACHAT ANNULÉ]]></purchase_aborted>
+		<purchase_failed><![CDATA[ACHAT ÉCHOUÉ]]></purchase_failed>
+		<purchase_successful><![CDATA[ACHAT RÉUSSI]]></purchase_successful>
+		<purchase_processing><![CDATA[EN COURS...]]></purchase_processing>
+		<quit_confirm><![CDATA[Quitter la partie ?]]></quit_confirm>
+		<yes><![CDATA[OUI]]></yes>
+		<no><![CDATA[NON]]></no>
+		<meters><![CDATA[mètres]]></meters>
+		<meters_short><![CDATA[m]]></meters_short>
+		<challenge_completed><![CDATA[Défi terminé]]></challenge_completed>
+		<mission_reach_combo_prefix><![CDATA[Atteindre le combo]]></mission_reach_combo_prefix>
+		<mission_reach_combo_postfix><![CDATA[]]></mission_reach_combo_postfix>
+		<times><![CDATA[fois]]></times>
+		<mission_destroy><![CDATA[Détruire]]></mission_destroy>
+		<mission_abduct_ufo_long><![CDATA[Téléporter]]></mission_abduct_ufo_long>
+		<mission_police_cars_plural><![CDATA[voitures de police]]></mission_police_cars_plural>
+		<mission_police_car_single><![CDATA[voiture de police]]></mission_police_car_single>
+		<seconds><![CDATA[secondes]]></seconds>
+		<seconds_short><![CDATA[s]]></seconds_short>
+		<mission_stay_on_air><![CDATA[Reste ON AIR]]></mission_stay_on_air>
+		<mission_drive_for><![CDATA[Conduis]]></mission_drive_for>
+		<mission_right_lane><![CDATA[mètres dans les deux voies (droite)]]></mission_right_lane>
+		<mission_left_lane><![CDATA[mètres dans les deux voies (gauche)]]></mission_left_lane>
+		<mission_central_lane><![CDATA[mètres dans la voie centrale]]></mission_central_lane>
+		<mission_right_lane_short><![CDATA[dans les deux voies (droite)]]></mission_right_lane_short>
+		<mission_left_lane_short><![CDATA[dans les deux voies (gauche)]]></mission_left_lane_short>
+		<mission_central_lane_short><![CDATA[dans la voie centrale]]></mission_central_lane_short>
+		<mission_collect><![CDATA[Ramasse]]></mission_collect>
+		<mission_coins><![CDATA[pièces]]></mission_coins>
+		<mission_bonus_big_coins><![CDATA[grandes pièces]]></mission_bonus_big_coins>
+		<mission_traffic><![CDATA[véhicules]]></mission_traffic>
+		<mission_jump><![CDATA[Saut]]></mission_jump>
+		<mission_drive_through><![CDATA[Passe les relais]]></mission_drive_through>
+		<mission_pass><![CDATA[Passe]]></mission_pass>
+		<mission_checkpoint><![CDATA[les relais]]></mission_checkpoint>
+		<plane_active><![CDATA[AVION ACTIF]]></plane_active>
+		<ufo_active><![CDATA[OVNI ACTIF]]></ufo_active>
+		<tap_to_shoot><![CDATA[TOUCHE GAUCHE/DROITE POUR TIRER]]></tap_to_shoot>
+		<destroy_them_all><![CDATA[DÉTRUIS-LES TOUS]]></destroy_them_all>
+		<tap_to_cannon><![CDATA[TOUCHE GAUCHE/DROITE POUR LE CANON]]></tap_to_cannon>
+		<you_already_have><![CDATA[TU AS DÉJÀ]]></you_already_have>
+		<boost><![CDATA[BONUS !]]></boost>
+		<item_purchased><![CDATA[OBJET ACHETÉ !]]></item_purchased>
+		<booster_turbo_name><![CDATA[Turbo]]></booster_turbo_name>
+		<booster_turbo_descr><![CDATA[Commence ta course avec un bonus de vitesse actif.]]></booster_turbo_descr>
+		<booster_shield_name><![CDATA[Bouclier]]></booster_shield_name>
+		<booster_shield_descr><![CDATA[Le bouclier te protège d'une collision avec un autre véhicule.]]></booster_shield_descr>
+		<booster_specialcar_name><![CDATA[Véhicule spécial]]></booster_specialcar_name>
+		<booster_specialcar_descr><![CDATA[Démarre la course avec un véhicule spécial aléatoire.]]></booster_specialcar_descr>
+		<booster_doublecoins_name><![CDATA[Double pièces]]></booster_doublecoins_name>
+		<booster_doublecoins_descr><![CDATA[Double la valeur des pièces ramassées pendant cette course.]]></booster_doublecoins_descr>
+		<booster_doubleexp_name><![CDATA[Double expérience]]></booster_doubleexp_name>
+		<booster_doubleexp_descr><![CDATA[Double la quantité d'expérience reçue à la fin de chaque course.]]></booster_doubleexp_descr>
+		<booster_moreckp_name><![CDATA[Temps de relai]]></booster_moreckp_name>
+		<booster_moreckp_descr><![CDATA[Chaque relai atteint ajoute 1 seconde supplémentaire à l'horloge.]]></booster_moreckp_descr>
+		<tips_tip1><![CDATA[Lorsque tu es collé au flanc d'un autre véhicule, tu peux le tamponner en tournant vers lui.]]></tips_tip1>
+		<tips_tip2><![CDATA[Lorsque l'hélicoptère de la presse apparaît, reste dans la lumière pour obtenir des pièces.]]></tips_tip2>
+		<tips_tip3><![CDATA[Ramasse des éclairs bleus pour activer le turbo, puis tamponne d'autres voitures pour obtenir des pièces. Pourquoi pas ? C'est marrant !]]></tips_tip3>
+		<tips_tip4><![CDATA[Joue chaque jour pour obtenir de meilleurs bonus journaliers ! Il y a des voitures exclusives à obtenir !]]></tips_tip4>
+		<tips_tip5><![CDATA[La course consomme de l'essence. Elle se remplit avec le temps ou tu peux acheter de l'essence à la boutique.]]></tips_tip5>
+		<tips_tip6><![CDATA[Conduire les camions de marchandises spéciaux te transforme en véhicule spécial !]]></tips_tip6>
+		<tips_tip7><![CDATA[Attention aux voitures de police ! S'ils te trouvent, essaie de les tamponner après t'être collé à leur flanc.]]></tips_tip7>
+		<tips_tip8><![CDATA[Le bonus bouclier te protègera d'une collision. Utilise-le avec sagesse !]]></tips_tip8>
+		<tips_tip9><![CDATA[Le bonus Aimant ramasse automatiquement les pièces à proximité.]]></tips_tip9>
+		<tips_tip10><![CDATA[Utilise l'aspiration du trafic pour gagner de la vitesse. Un combo te permettra d'aller encore plus vite.]]></tips_tip10>
+		<tips_tip11><![CDATA[Chaque relai passé te donnera du temps supplémentaire.]]></tips_tip11>
+		<tips_tip12><![CDATA[Au début de la course, active les bonus pour t'aider à obtenir un meilleur score.]]></tips_tip12>
+		<notifications_generic_text1><![CDATA[Il est temps de t'enfuir ! Monte dans ta voiture et fonce !]]></notifications_generic_text1>
+		<notifications_generic_text2><![CDATA[N'oublie pas de faire un tour avec ta voiture aujourd'hui, de super bonus quotidiens t'attendent !]]></notifications_generic_text2>
+		<notifications_generic_text3><![CDATA[Ne reste pas à la traîne au classement ! Joue et grimpe au classement !]]></notifications_generic_text3>
+		<notifications_timedevents_text1><![CDATA[Attention ! Le bonus Gel de carburant expirera bientôt, alors fais le maximum !]]></notifications_timedevents_text1>
+		<notifications_timedevents_text2><![CDATA[Hé ! Ton réservoir est plein, faisons la course !]]></notifications_timedevents_text2>
+		<notifications_daily_bonus1><![CDATA[Ton bonus quotidien gratuit est disponible. Obtiens-le maintenant !]]></notifications_daily_bonus1>
+		<notifications_daily_bonus2><![CDATA[Viens obtenir ton bonus quotidien gratuit maintenant !]]></notifications_daily_bonus2>
+		<notifications_daily_bonus3><![CDATA[Hé, ton bonus quotidien gratuit est disponible !]]></notifications_daily_bonus3>
+		<more_meters><![CDATA[plus de mètres]]></more_meters>
+		<beat_score><![CDATA[ pour battre le score de tes amis]]></beat_score>
+		<keep_running><![CDATA[Continue !]]></keep_running>
+		<great_spin><![CDATA[SUPER LANCER !]]></great_spin>
+		<popup_amazing><![CDATA[EXCELLENT !]]></popup_amazing>
+		<popup_unlocked_car><![CDATA[Nouvelle voiture débloquée]]></popup_unlocked_car>
+		<popup_unlocked_tier><![CDATA[Nouveau niveau débloqué]]></popup_unlocked_tier>
+		<popup_unlocked_special><![CDATA[Nouveau véhicule spécial débloqué]]></popup_unlocked_special>
+		<popup_tutorial_title><![CDATA[DIDACTICIEL]]></popup_tutorial_title>
+		<popup_tutorial_warning_title><![CDATA[LE DIDACTICIEL EST ACTIVÉ !]]></popup_tutorial_warning_title>
+		<popup_tutorial_warning><![CDATA[Tu conduis avec ta première voiture dans Chasse sur l'autoroute.
+
+Tu pourras changer gratuitement le décor et la voiture à la fin de ce didacticiel.]]></popup_tutorial_warning>
+		<popup_tutorial_subtitle1><![CDATA[ÉVITE LE TRAFIC]]></popup_tutorial_subtitle1>
+		<popup_tutorial_subtitle2><![CDATA[ASPIRATION]]></popup_tutorial_subtitle2>
+		<popup_tutorial_subtitle3><![CDATA[ÉCLAIRS]]></popup_tutorial_subtitle3>
+		<popup_tutorial_subtitle4><![CDATA[CAMIONS]]></popup_tutorial_subtitle4>
+		<popup_tutorial_subtitle5><![CDATA[BONNE CHANCE !]]></popup_tutorial_subtitle5>
+		<popup_tutorial_tap><![CDATA[Touche pour continuer]]></popup_tutorial_tap>
+		<popup_tutorial_beginningright><![CDATA[Félicitations ! On dirait que tu sais comment te déplacer. Mais sais-tu comment aller encore plus vite ?]]></popup_tutorial_beginningright>
+		<popup_tutorial_beginningleft><![CDATA[Utilise l'aspiration des autres voitures et cumule les combos !]]></popup_tutorial_beginningleft>
+		<popup_tutorial_bolts><![CDATA[Ramasse les éclairs sur la route pour un puissant bonus de vitesse !]]></popup_tutorial_bolts>
+		<popup_tutorial_specialvehicles><![CDATA[Il y a des camions spéciaux sur la route, à quoi peuvent-ils servir ?]]></popup_tutorial_specialvehicles>
+		<popup_tutorial_end><![CDATA[Didacticiel terminé. Et maintenant, à quelle distance peux-tu aller ?]]></popup_tutorial_end>
+		<maxed><![CDATA[MAXIMUM]]></maxed>
+		<num_separator><![CDATA[,]]></num_separator>
+		<streak_bonus_title><![CDATA[OÙ ÉTAIS-TU ?!?]]></streak_bonus_title>
+		<streak_bonus_description><![CDATA[Tu étais si proche d'obtenir le super prix final !]]></streak_bonus_description>
+		<streak_bonus_buy_text1><![CDATA[TU PEUX ENCORE OBTENIR LE BONUS QUOTIDIEN !]]></streak_bonus_buy_text1>
+		<streak_bonus_buy_text2><![CDATA[Juste ]]></streak_bonus_buy_text2>
+		<streak_bonus_buy_text3><![CDATA[jours restants !]]></streak_bonus_buy_text3>
+		<skip><![CDATA[SAUTER]]></skip>
+		<btVideo><![CDATA[BONUS GRATUIT]]></btVideo>
+		<facebook_login_popup_description_1><![CDATA[OFFRE TEMPS LIMITÉ !]]></facebook_login_popup_description_1>
+		<facebook_login_popup_description_2><![CDATA[ATTRAPE TES RÉCOMPENSES TANT QUE TU PEUX !]]></facebook_login_popup_description_2>
+		<facebook_login_popup_title><![CDATA[CONNECTE-TOI POUR AFFRONTER TES AMIS !]]></facebook_login_popup_title>
+		<facebook_login_popup_get><![CDATA[ET OBTENIR]]></facebook_login_popup_get>
+		<fuel_gift_title><![CDATA[ON DIRAIT QUE TU N'AS PLUS D'ESSENCE !]]></fuel_gift_title>
+		<fuel_gift_description><![CDATA[Achètes-en à la boutique, mais la première recharge est pour nous !]]></fuel_gift_description>
+		<share><![CDATA[PARTAGER]]></share>
+		<facebook_feed_caption><![CDATA[Je viens de laisser un sillage de destruction dans On The Run !]]></facebook_feed_caption>
+		<facebook_feed_share_rank><![CDATA[Un autre diamant pour moi ! Je viens d'atteindre le niveau ]]></facebook_feed_share_rank>
+		<facebook_feed_share_wheel><![CDATA[Je viens de gagner un prix excellent dans On the Run !]]></facebook_feed_share_wheel>
+		<facebook_feed_buy_car><![CDATA[Ma nouvelle voiture est prête à prendre la route !]]></facebook_feed_buy_car>
+		<facebook_feed_buy_tier><![CDATA[Je viens de débloquer un nouveau niveau : ]]></facebook_feed_buy_tier>
+		<facebook_feed_unlock_special><![CDATA[J'ai un nouveau véhicule spécial disponible ! Un tout nouveau ]]></facebook_feed_unlock_special>
+		<facebook_feed_distance><![CDATA[Je viens d'atteindre la distance de ]]></facebook_feed_distance>
+		<unlock_tier_prefix><![CDATA[ATTEINDRE]]></unlock_tier_prefix>
+		<unlock_tier_postfix><![CDATA[POUR DÉBLOQUER LE NIVEAU]]></unlock_tier_postfix>
+		<xp><![CDATA[EXP]]></xp>
+		<web_help><![CDATA[AIDE]]></web_help>
+		<web_btSubmit><![CDATA[ENVOYER SCORE]]></web_btSubmit>
+		<web_not_enough_coins><![CDATA[PAS ASSEZ DE PIÈCES, CONTINUE À JOUER !]]></web_not_enough_coins>
+		<web_mobilepromo_tag><![CDATA[Essaie le jeu sur mobile !]]></web_mobilepromo_tag>
+		<web_highscore><![CDATA[MEILLEURS SCORES]]></web_highscore>
+		<web_help_directions><![CDATA[Bouge avec]]></web_help_directions>
+		<web_help_collectbolts><![CDATA[Ramasse]]></web_help_collectbolts>
+		<web_help_bolttext><![CDATA[pour activer le turbo]]></web_help_bolttext>
+		<web_help_slipstream><![CDATA[Aspiration]]></web_help_slipstream>
+		<web_help_slipstreamtext><![CDATA[Place-toi derrière un autre véhicule et profite de l'aspiration pour un petit bonus de vitesse. Fais-le plusieurs fois d'affilée pour obtenir un combo d'aspiration et aller encore plus vite !]]></web_help_slipstreamtext>
+		<web_help_trucks><![CDATA[Camions]]></web_help_trucks>
+		<web_help_truckstext><![CDATA[Quand tu vois des camions de marchandise, fonce-leur dessus : de super trucs arriveront !]]></web_help_truckstext>
+		<web_help_back><![CDATA[BIEN REÇU]]></web_help_back>
+		<web_pressspacetocontinue><![CDATA[APPUIE SUR ESPACE POUR CONTINUER]]></web_pressspacetocontinue>
+		<web_tap_to_shoot><![CDATA[POUR TIRER]]></web_tap_to_shoot>
+		<web_tap_to_cannon><![CDATA[POUR LE CANON]]></web_tap_to_cannon>
+		<web_special_tank_long_descr><![CDATA[Le char roule sur la voie centrale et écrase tout sur sa route. Tu peux tirer sur les autres voitures en appuyant sur les touches gauche ou droite. Chaque voiture détruite rapporte des pièces.]]></web_special_tank_long_descr>
+		<web_special_firetruck_long_descr><![CDATA[Le camion de pompier projette de l'eau en appuyant sur gauche ou droite pour projeter les autres voitures. Pousser les voitures hors de la route les détruit et te donne des pièces.]]></web_special_firetruck_long_descr>
+		<web_restart_game><![CDATA[Recommencer ?]]></web_restart_game>
+		<web_skip_saveme><![CDATA[APPUIE SUR ESPACE]]></web_skip_saveme>
+		<web_inapp_descr><![CDATA[Achat de mises à jour. "?" pour plus d'infos.]]></web_inapp_descr>
+		<web_back><![CDATA[RETOUR]]></web_back>
+		<web_highscores_description><![CDATA[Choix du niveau]]></web_highscores_description>
+		<web_highscores_title><![CDATA[VOIR TES MEILLEURS SCORES]]></web_highscores_title>
+		<mission_combo><![CDATA[COMBO]]></mission_combo>
+		<you_know><![CDATA[Le sais-tu ?]]></you_know>
+		<trucks_advise><![CDATA[Tu peux acheter de nouveaux véhicules spéciaux et aussi les améliorer !]]></trucks_advise>
+		<web_distance><![CDATA[Distance]]></web_distance>
+		<web_best_distance><![CDATA[Meilleure distance]]></web_best_distance>
+		<reach_lvl_tounlock><![CDATA[POUR DÉBLOQUER LE NIVEAU]]></reach_lvl_tounlock>
+		<beat_your_score><![CDATA[ pour battre ton meilleur score]]></beat_your_score>
+		<beat_non_friend_score><![CDATA[ pour battre ce score]]></beat_non_friend_score>
+		<game_center><![CDATA[SUCCÈS]]></game_center>
+		<invite_tab><![CDATA[INVITER]]></invite_tab>
+		<invite_title><![CDATA[LES NOUVEAUX AMIS INVITÉS RAPPORTENT 1]]></invite_title>
+		<invite_button><![CDATA[INVITER]]></invite_button>
+		<friends_tab><![CDATA[AMIS]]></friends_tab>
+		<friends_title><![CDATA[DISPONIBLE POUR ÊTRE DONNÉ À TES AMIS AUJOURD'HUI]]></friends_title>
+		<gift_button><![CDATA[CADEAU]]></gift_button>
+		<notification_popup_title><![CDATA[TU AS REÇU UN CADEAU !]]></notification_popup_title>
+		<notification_popup_text1><![CDATA[t'a envoyé 1 Essence]]></notification_popup_text1>
+		<notification_popup_text2><![CDATA[Accepter et en renvoyer 1]]></notification_popup_text2>
+		<notification_popup_button><![CDATA[ACCEPTER ET RENVOYER]]></notification_popup_button>
+		<notification_popup_button_accept><![CDATA[ACCEPTER]]></notification_popup_button_accept>
+		<no_FB_friends><![CDATA[AUCUN AMI DÉTECTÉ]]></no_FB_friends>
+		<no_FB_friends_playing><![CDATA[AUCUN DE TES AMIS NE JOUE. INVITE-LES !]]></no_FB_friends_playing>
+		<mission_new><![CDATA[NOUVEAU]]></mission_new>
+		<invite_reward_text><![CDATA[VOICI TA RÉCOMPENSE]]></invite_reward_text>
+		<tap_continue_missions><![CDATA[Touche pour continuer]]></tap_continue_missions>
+		<not_logged_in_ingame><![CDATA[CONNECTE-TOI POUR VOIR TES AMIS ICI]]></not_logged_in_ingame>
+		<no_friends_ingame><![CDATA[INVITE TES AMIS POUR BATTRE LEUR SCORE]]></no_friends_ingame>
+		<invite_5_thanks><![CDATA[MERCI D'AVOIR INVITÉ 5 AMIS !]]></invite_5_thanks>
+		<invite_5_comeback><![CDATA[Reviens demain et invite plus d'amis pour obtenir des diamants supplémentaires !]]></invite_5_comeback>
+		<fake_username_1><![CDATA[Novice de la fuite]]></fake_username_1>
+		<fake_username_2><![CDATA[Pro de la fuite]]></fake_username_2>
+		<fake_username_3><![CDATA[Maître de la fuite]]></fake_username_3>
+		<sorry><![CDATA[Désolé !]]></sorry>
+		<no_video_available><![CDATA[Il n'y a actuellement aucune vidéo disponible]]></no_video_available>
+		<congratulations><![CDATA[Félicitations !]]></congratulations>
+		<coins_reward_prefix><![CDATA[Tu viens d'obtenir]]></coins_reward_prefix>
+		<coins_reward_postfix><![CDATA[pièces !]]></coins_reward_postfix>
+		<invite_friend_text><![CDATA[Joue à On The Run si tu as besoin de vitesse !]]></invite_friend_text>
+		<invite_friend_title><![CDATA[Je viens de cramer des pneus dans ce jeu !]]></invite_friend_title>
+		<login_facebook_ranking><![CDATA[CONNECTE-TOI AVEC FACEBOOK POUR JOUER AVEC TES AMIS !]]></login_facebook_ranking>
+		<invite_facebook_ranking><![CDATA[ON DIRAIT QU'AUCUN DE TES AMIS NE JOUE AVEC TOI... PARLES-EN AUTOUR DE TOI !]]></invite_facebook_ranking>
+		<unlock_specials_prefix><![CDATA[ATTEINDRE NIVEAU]]></unlock_specials_prefix>
+		<unlock_specials_postfix><![CDATA[POUR DÉBLOQUER OU ACHETER POUR]]></unlock_specials_postfix>
+		<login_facebook_notlogged_title><![CDATA[CONNECTE-TOI POUR DES FONCTIONNALITÉS EXCLUSIVES !]]></login_facebook_notlogged_title>
+		<login_facebook_notlogged_compete><![CDATA[AFFRONTE TES AMIS SUR FACEBOOK]]></login_facebook_notlogged_compete>
+		<login_facebook_notlogged_fuel><![CDATA[ENVOIE DE L'ESSENCE À TES AMIS]]></login_facebook_notlogged_fuel>
+		<login_facebook_notlogged_diamonds><![CDATA[CADEAU DE BIENVENUE DE 5 DIAMANTS !]]></login_facebook_notlogged_diamonds>
+		<diamonds><![CDATA[DIAMANTS]]></diamonds>
+		<new_record><![CDATA[NOUVEAU RECORD]]></new_record>
+		<day_ends_in><![CDATA[FIN DU JOUR DANS]]></day_ends_in>
+		<tiers_btn><![CDATA[NIVEAUX]]></tiers_btn>
+		<get_boosters><![CDATA[OBTENIR DES BONUS]]></get_boosters>
+		<run_goal><![CDATA[OBJECTIF]]></run_goal>
+		<xp_postfix><![CDATA[EXP]]></xp_postfix>
+		<rank_bar_player><![CDATA[TOI]]></rank_bar_player>
+		<description_tier_1><![CDATA[L'autoroute parfaite pour débutant : 5 voies et 1 direction]]></description_tier_1>
+		<description_tier_2><![CDATA[Profite de des contrées orientales, mais sois prudent : il y a 2 voies en sens opposé !]]></description_tier_2>
+		<description_tier_3><![CDATA[Regarde le bel océan... et attention aux travaux !]]></description_tier_3>
+		<description_tier_4><![CDATA[Le défi ultime : un désert semé de bosses avec 2 voies en sens opposé.]]></description_tier_4>
+		<mission_avoid_barriers><![CDATA[Sans frapper les barrières]]></mission_avoid_barriers>
+		<mission_fast_lane><![CDATA[dans la voie rapide]]></mission_fast_lane>
+		<mission_destroy_in_turbo_ingame><![CDATA[avec un éclair actif]]></mission_destroy_in_turbo_ingame>
+		<mission_destroy_in_turbo_wrong_lane_ingame><![CDATA[avec éclair actif en sens inverse]]></mission_destroy_in_turbo_wrong_lane_ingame>
+		<mission_destroy_in_turbo_offgame><![CDATA[véhicules avec éclair actif]]></mission_destroy_in_turbo_offgame>
+		<mission_destroy_in_turbo_wrong_lane_offgame><![CDATA[véhicules avec éclair actif en sens inverse]]></mission_destroy_in_turbo_wrong_lane_offgame>
+		<mission_with><![CDATA[avec]]></mission_with>
+		<mission_meters_with><![CDATA[mètres avec]]></mission_meters_with>
+		<mission_vehicles_with><![CDATA[véhicules avec]]></mission_vehicles_with>
+		<mission_wrong_lane><![CDATA[véhicules en sens inverse avec]]></mission_wrong_lane>
+		<coins_pack><![CDATA[PACK DE PIÈCES]]></coins_pack>
+		<gems_pack><![CDATA[PACK DE GEMMES]]></gems_pack>
+		<free_spin_pack><![CDATA[PACK LANCERS GRATUITS]]></free_spin_pack>
+		<fuel_pack><![CDATA[PACK ESSENCE]]></fuel_pack>
+		<car_unlocked><![CDATA[NOUVELLE VOITURE]]></car_unlocked>
+		<tier_unlocked><![CDATA[NOUVEAU NIVEAU]]></tier_unlocked>
+		<mission_run><![CDATA[File]]></mission_run>
+		<mission_in_wrong_lane><![CDATA[en sens inverse]]></mission_in_wrong_lane>
+		<mission_smash_bigfoot_short><![CDATA[Éclate des véhicules]]></mission_smash_bigfoot_short>
+		<mission_abduct_ufo_short><![CDATA[Téléporte des véhicules]]></mission_abduct_ufo_short>
+		<mission_pushaway_firetruck_short><![CDATA[Pousse des véhicules]]></mission_pushaway_firetruck_short>
+		<mission_smash_bigfoot_long><![CDATA[Éclate]]></mission_smash_bigfoot_long>
+		<mission_pushaway_firetruck_long><![CDATA[Pousse]]></mission_pushaway_firetruck_long>
+		<mission_coins_short><![CDATA[Obtiens pièces]]></mission_coins_short>
+		<mission_collect_short><![CDATA[Obtiens maxi pièces]]></mission_collect_short>
+		<skip_popup_title_step1><![CDATA[DES SOUCIS AVEC CET OBJECTIF ?]]></skip_popup_title_step1>
+		<skip_popup_text_step1><![CDATA[Obtiens des améliorations pour ta voiture avant de te lancer dans la course !]]></skip_popup_text_step1>
+		<skip_popup_title_step2><![CDATA[SAUTER L'OBJECTIF ACTUEL ?]]></skip_popup_title_step2>
+		<skip_popup_text_step2><![CDATA[Obtenir nouvel objectif pour]]></skip_popup_text_step2>
+		<skip_popup_upgrade><![CDATA[AMÉLIORE TA VOITURE !]]></skip_popup_upgrade>
+		<rank_bar_title><![CDATA[TA PROGRESSION DE RANG]]></rank_bar_title>
+		<mission_destroy_vehicles><![CDATA[Détruis les véhicules]]></mission_destroy_vehicles>
+		<today><![CDATA[AUJOURD'HUI]]></today>
+		<inapp_remove_ads><![CDATA[ACHÈTE DES PACKS DE DIAMANTS POUR RETIRER LES PUBLICITÉS !]]></inapp_remove_ads>
+		<or><![CDATA[OU]]></or>
+		<popup_free_coins_congrat><![CDATA[Félicitations ! Tu viens de gagner un prix !]]></popup_free_coins_congrat>
+		<popup_free_coins_sorry><![CDATA[Désolé !]]></popup_free_coins_sorry>
+		<popup_free_coins_another_video><![CDATA[Veux-tu regarder une autre vidéo pour plus de prix ?]]></popup_free_coins_another_video>
+		<popup_free_coins_not_available><![CDATA[Il n'y a plus de vidéos à regarder. Reviens plus tard !]]></popup_free_coins_not_available>
+		<popup_free_coins_later><![CDATA[Après]]></popup_free_coins_later>
+		<popup_free_coins_watch_now><![CDATA[Regarde !]]></popup_free_coins_watch_now>
+		<popup_free_coins_ok><![CDATA[OK]]></popup_free_coins_ok>
+		<watch_video><![CDATA[REGARDE UNE VIDÉO]]></watch_video>
+		<get_free_fuel><![CDATA[ET OBTIENS 1 ESSENCE GRATUIT]]></get_free_fuel>
+		<free_video><![CDATA[GRATUIT]]></free_video>
+		<confirm_buy_car><![CDATA[Tu veux acheter cette super voiture ?]]></confirm_buy_car>
+		<buy_with_coins_postfix><![CDATA[ACHETER AVEC DES PIÈCES]]></buy_with_coins_postfix>
+		<special_vehicle_plane><![CDATA[Avion]]></special_vehicle_plane>
+		<special_vehicle_ufo><![CDATA[Ovni]]></special_vehicle_ufo>
+		<special_vehicle_bigfoot><![CDATA[Bigfoot]]></special_vehicle_bigfoot>
+		<special_vehicle_firetruck><![CDATA[Camion De Pompier]]></special_vehicle_firetruck>
+		<special_vehicle_tank><![CDATA[Char]]></special_vehicle_tank>
+		<special_mission><![CDATA[SPÉCIAL]]></special_mission>
+		<new_mission><![CDATA[NOUVEL OBJECTIF !]]></new_mission>
+		<popular_tag><![CDATA[TOP POPULARITÉ]]></popular_tag>
+		<bestvalue_tag><![CDATA[TOP AFFAIRE]]></bestvalue_tag>
+		<invitefriends_reminder_title><![CDATA[N'OUBLIE PAS D'INVITER TES AMIS !]]></invitefriends_reminder_title>
+		<invitefriends_reminder_payoff><![CDATA[OBTIENS 1 DIAMANT POUR LES NOUVEAUX AMIS INVITÉS]]></invitefriends_reminder_payoff>
+		<invitefriends_maxremaining><![CDATA[NOUVEAUX AMIS À INVITER AUJOURD'HUI : ]]></invitefriends_maxremaining>
+		<invitefriends_reinvite><![CDATA[RÉ-INVITER]]></invitefriends_reinvite>
+		<credits_production><![CDATA[PRODUCTION]]></credits_production>
+		<credits_design><![CDATA[CONCEPTION]]></credits_design>
+		<credits_programming><![CDATA[PROGRAMMATION]]></credits_programming>
+		<credits_3dart><![CDATA[ART 3D]]></credits_3dart>
+		<credits_2dart><![CDATA[ART 2D]]></credits_2dart>
+		<credits_sound><![CDATA[SON]]></credits_sound>
+		<credits_qa><![CDATA[AQ]]></credits_qa>
+		<credits_thanks><![CDATA[MERCI]]></credits_thanks>
+		<credits_specialthanks><![CDATA[MERCI SPÉCIAUX]]></credits_specialthanks>
+		<credits_allstaff><![CDATA[Tout le personnel Miniclip]]></credits_allstaff>
+	</language>
+	<language id="de" type="">
+		<btPlay><![CDATA[SPIELEN]]></btPlay>
+		<btContinue><![CDATA[FORTFAHREN]]></btContinue>
+		<btFreeCoins><![CDATA[GRATISMÜNZEN]]></btFreeCoins>
+		<news><![CDATA[NEUIGKEITEN]]></news>
+		<options><![CDATA[OPTIONEN]]></options>
+		<ranking><![CDATA[RANGLISTE]]></ranking>
+		<spin><![CDATA[DREHUNG]]></spin>
+		<moregames><![CDATA[MEHR SPIELE]]></moregames>
+		<copyright><![CDATA[COPYRIGHT 2015
+WWW.MINICLIP.COM]]></copyright>
+		<developed_by><![CDATA[ENTWICKELT VON]]></developed_by>
+		<loading><![CDATA[LÄDT]]></loading>
+		<tutorial><![CDATA[TUTORIAL]]></tutorial>
+		<friends><![CDATA[FREUNDE]]></friends>
+		<country><![CDATA[LAND]]></country>
+		<global><![CDATA[GLOBAL]]></global>
+		<all_time><![CDATA[IMMER]]></all_time>
+		<monthly><![CDATA[MONATLICH]]></monthly>
+		<weekly><![CDATA[WÖCHENTLICH]]></weekly>
+		<spin_and_win><![CDATA[DREHEN und GEWINNEN!]]></spin_and_win>
+		<no_spin_popup_title><![CDATA[VERSUCH DEIN GLÜCK!!!]]></no_spin_popup_title>
+		<no_spin_popup_text><![CDATA[Gewinne fantastische Preise!]]></no_spin_popup_text>
+		<no_spin_popup_buy_text><![CDATA[JETZT KAUFEN]]></no_spin_popup_buy_text>
+		<still><![CDATA[ÜBRIG]]></still>
+		<extra_spin><![CDATA[EXTRADREHUNG]]></extra_spin>
+		<extra_spins><![CDATA[EXTRADREHUNGEN!]]></extra_spins>
+		<fuel_freeze><![CDATA[SPRITFROST]]></fuel_freeze>
+		<you_win><![CDATA[DU SIEGST]]></you_win>
+		<win><![CDATA[SIEGEN]]></win>
+		<garage><![CDATA[GARAGE]]></garage>
+		<special_btn><![CDATA[SPEZIAL]]></special_btn>
+		<buy_for><![CDATA[KAUFEN FÜR]]></buy_for>
+		<or_buy_for><![CDATA[ODER KAUFEN FÜR]]></or_buy_for>
+		<duration><![CDATA[DAUER]]></duration>
+		<best><![CDATA[BESTES]]></best>
+		<car ><![CDATA[AUTO]]></car >
+		<diamond><![CDATA[DIAMANT]]></diamond>
+		<coin><![CDATA[MÜNZE]]></coin>
+		<coins><![CDATA[MÜNZEN]]></coins>
+		<levelShort><![CDATA[LVL]]></levelShort>
+		<level><![CDATA[LEVEL]]></level>
+		<europeanCarsTitle><![CDATA[HIGHWAY CHASE]]></europeanCarsTitle>
+		<americanCarsTitle><![CDATA[MEN AT WORK]]></americanCarsTitle>
+		<orientalCarsTitle><![CDATA[EXOTIC NIGHT]]></orientalCarsTitle>
+		<muscleCarsTitle><![CDATA[DESERT RIDE]]></muscleCarsTitle>
+		<euCarName1><![CDATA[BELINA]]></euCarName1>
+		<euCarName2><![CDATA[GEMINI]]></euCarName2>
+		<euCarName3><![CDATA[GORGON]]></euCarName3>
+		<euCarName4><![CDATA[COLOSSUS]]></euCarName4>
+		<euCarName5><![CDATA[MEDUSA]]></euCarName5>
+		<asiaCarName1><![CDATA[SUMO]]></asiaCarName1>
+		<asiaCarName2><![CDATA[WASABI]]></asiaCarName2>
+		<asiaCarName3><![CDATA[KATANA]]></asiaCarName3>
+		<asiaCarName4><![CDATA[ONI]]></asiaCarName4>
+		<asiaCarName5><![CDATA[SAMURAI]]></asiaCarName5>
+		<nyCarName1><![CDATA[TOMAHAWK]]></nyCarName1>
+		<nyCarName2><![CDATA[BLADE]]></nyCarName2>
+		<nyCarName3><![CDATA[BULLET]]></nyCarName3>
+		<nyCarName4><![CDATA[KINGBOLT]]></nyCarName4>
+		<nyCarName5><![CDATA[HAMMER]]></nyCarName5>
+		<usaCarName1><![CDATA[GUERRILLA]]></usaCarName1>
+		<usaCarName2><![CDATA[CHILI]]></usaCarName2>
+		<usaCarName3><![CDATA[FUERTE]]></usaCarName3>
+		<usaCarName4><![CDATA[EL FUGITIVO]]></usaCarName4>
+		<usaCarName5><![CDATA[TORO LOCO]]></usaCarName5>
+		<bigfoot><![CDATA[BIGFOOT]]></bigfoot>
+		<plane><![CDATA[FLUGZEUG]]></plane>
+		<tank><![CDATA[PANZER]]></tank>
+		<ufo><![CDATA[UFO]]></ufo>
+		<firetruck><![CDATA[FEUERWEHRAUTO]]></firetruck>
+		<freeze><![CDATA[FROST]]></freeze>
+		<currency_buy_freeze_prefix><![CDATA[Gefriere deinen Sprit für]]></currency_buy_freeze_prefix>
+		<currency_buy_freeze_postfix><![CDATA[Stunden]]></currency_buy_freeze_postfix>
+		<currency_bought_freeze><![CDATA[Spritfrost aktiv
+Endet in:]]></currency_bought_freeze>
+		<login><![CDATA[ANMELDEN]]></login>
+		<best_meters><![CDATA[DEINE BESTE]]></best_meters>
+		<your_meters><![CDATA[DISTANZ]]></your_meters>
+		<special_vehicles><![CDATA[SPEZIALFAHRZEUG]]></special_vehicles>
+		<special_bottom_descr><![CDATA[Kaufe sie, um sie auf der Straße zu sehen.]]></special_bottom_descr>
+		<special_bigfoot_long_descr><![CDATA[Der Bigfoot ist unverwundbar und zerstört alles auf seinem Weg! Jedes zerstörte Fahrzeug gewährt dir Münzen.]]></special_bigfoot_long_descr>
+		<special_bigfoot_short_descr><![CDATA[Zerstöre alles auf deinem Weg!]]></special_bigfoot_short_descr>
+		<special_tank_long_descr><![CDATA[Der Panzer fährt auf der mittleren Fahrspur und zerstört alle Hindernisse in seinem Weg. Schieße auf andere Autos, indem du links oder rechts tippst. Jedes zerstörte Auto gewährt dir ein paar Münzen.]]></special_tank_long_descr>
+		<special_tank_short_descr><![CDATA[Zielen und FEUERN!]]></special_tank_short_descr>
+		<special_firetruck_long_descr><![CDATA[Das Feuerwehrauto spritzt mit Wasser, wenn du links oder rechts tippst. Dabei schiebt es die anderen Autos umher. Schiebe Autos von der Straße, um Münzen zu erhalten.]]></special_firetruck_long_descr>
+		<special_firetruck_short_descr><![CDATA[Wasche diese Autos von der Straße!]]></special_firetruck_short_descr>
+		<special_ufo_long_descr><![CDATA[Das UFO fliegt über dem Verkehr und entführt alles unter sich für Experimente! Für die Entführung von Fahrzeugen erhältst du Münzen.]]></special_ufo_long_descr>
+		<special_ufo_short_descr><![CDATA[Entführung ist die neue Zerstörung!]]></special_ufo_short_descr>
+		<special_plane_long_descr><![CDATA[Das Flugzeug fliegt über dem Verkehr und schießt auf alles in Sichtweite. Für die Zerstörung von Fahrzeugen erhältst du Münzen.]]></special_plane_long_descr>
+		<special_plane_short_descr><![CDATA[Feuerregen aus der Luft!]]></special_plane_short_descr>
+		<cancel><![CDATA[ABBRECHEN]]></cancel>
+		<buy_fuel><![CDATA[SPRIT KAUFEN]]></buy_fuel>
+		<not_enough_fuel><![CDATA[NICHT GENUG SPRIT]]></not_enough_fuel>
+		<buy_diamonds><![CDATA[DIAMANTEN KAUFEN]]></buy_diamonds>
+		<not_enough_diamonds><![CDATA[NICHT GENUG DIAMANTEN]]></not_enough_diamonds>
+		<buy_coins><![CDATA[MÜNZEN KAUFEN]]></buy_coins>
+		<not_enough_coins><![CDATA[NICHT GENUG MÜNZEN]]></not_enough_coins>
+		<inapp_descr><![CDATA[Tippe für die Beschreibung auf "?"]]></inapp_descr>
+		<go><![CDATA[LOS!]]></go>
+		<checkpoint><![CDATA[KONTROLLPUNKT]]></checkpoint>
+		<reached><![CDATA[ERREICHT!]]></reached>
+		<time_extended><![CDATA[ZEIT ERWEITERT:]]></time_extended>
+		<timeout><![CDATA[AUSZEIT]]></timeout>
+		<collect><![CDATA[SAMMELN]]></collect>
+		<no_level><![CDATA[n.v.]]></no_level>
+		<version><![CDATA[VER]]></version>
+		<mission_completed><![CDATA[RUN-ZIEL ERREICHT!]]></mission_completed>
+		<mission_failed><![CDATA[RUN-ZIEL VERFEHLT]]></mission_failed>
+		<one_more><![CDATA[NOCH EINS]]></one_more>
+		<two_more><![CDATA[NOCH ZWEI]]></two_more>
+		<time_saved><![CDATA[GESPARTE ZEIT]]></time_saved>
+		<police_destroyed><![CDATA[POLIZEI ZERSTÖRT]]></police_destroyed>
+		<combo><![CDATA[KOMBO]]></combo>
+		<item_ready><![CDATA[BEREIT]]></item_ready>
+		<fuel_saver_expires_in><![CDATA[SPRITFROST ENDET IN]]></fuel_saver_expires_in>
+		<buy_parking_lot><![CDATA[STUFE KAUFEN]]></buy_parking_lot>
+		<buy_car><![CDATA[AUTO KAUFEN]]></buy_car>
+		<turbo_speed><![CDATA[TURBOTEMPO]]></turbo_speed>
+		<resistance><![CDATA[WIDERSTAND]]></resistance>
+		<max_speed><![CDATA[MAX. TEMPO]]></max_speed>
+		<acceleration><![CDATA[BESCHLEUNIGUNG]]></acceleration>
+		<parkinglot_unlocked><![CDATA[Stufe freigeschaltet]]></parkinglot_unlocked>
+		<day><![CDATA[Tag]]></day>
+		<daily_bonus_title><![CDATA[TÄGLICHER BONUS!]]></daily_bonus_title>
+		<daily_bonus_descr><![CDATA[Erhalte jeden fortlaufenden Tag einen besseren Bonus!]]></daily_bonus_descr>
+		<you_bought><![CDATA[GEKAUFT:]]></you_bought>
+		<fuel><![CDATA[SPRIT]]></fuel>
+		<no_internet_connection><![CDATA[Keine Internetverbindung erkannt!]]></no_internet_connection>
+		<ok><![CDATA[OK]]></ok>
+		<rate_descr><![CDATA[Magst du On The Run?]]></rate_descr>
+		<rate_invite><![CDATA[Bitte bewerte es auf]]></rate_invite>
+		<later><![CDATA[SPÄTER]]></later>
+		<rate><![CDATA[Bewerten]]></rate>
+		<app_store_name><![CDATA[App Store]]></app_store_name>
+		<google_store_name><![CDATA[Google Play]]></google_store_name>
+		<amazon_store_name><![CDATA[Amazon App-Shop]]></amazon_store_name>
+		<windowsphone_store_name><![CDATA[Windows Phone Store]]></windowsphone_store_name>
+		<store_name><![CDATA[Shop]]></store_name>
+		<on_the_run><![CDATA[On The Run]]></on_the_run>
+		<purchase_aborted><![CDATA[KAUF ABGEBROCHEN]]></purchase_aborted>
+		<purchase_failed><![CDATA[KAUF FEHLGESCHLAGEN]]></purchase_failed>
+		<purchase_successful><![CDATA[KAUF ERFOLGREICH]]></purchase_successful>
+		<purchase_processing><![CDATA[VERARBEITUNG]]></purchase_processing>
+		<quit_confirm><![CDATA[Spiel verlassen?]]></quit_confirm>
+		<yes><![CDATA[JA]]></yes>
+		<no><![CDATA[NEIN]]></no>
+		<meters><![CDATA[Meter]]></meters>
+		<meters_short><![CDATA[m]]></meters_short>
+		<challenge_completed><![CDATA[Herausforderung abgeschlossen]]></challenge_completed>
+		<mission_reach_combo_prefix><![CDATA[Kombo]]></mission_reach_combo_prefix>
+		<mission_reach_combo_postfix><![CDATA[erreichen]]></mission_reach_combo_postfix>
+		<times><![CDATA[Mal]]></times>
+		<mission_destroy><![CDATA[Zerstören]]></mission_destroy>
+		<mission_abduct_ufo_long><![CDATA[Entführen]]></mission_abduct_ufo_long>
+		<mission_police_cars_plural><![CDATA[Polizeiautos]]></mission_police_cars_plural>
+		<mission_police_car_single><![CDATA[Polizeiauto]]></mission_police_car_single>
+		<seconds><![CDATA[Sekunden]]></seconds>
+		<seconds_short><![CDATA[s]]></seconds_short>
+		<mission_stay_on_air><![CDATA[Bleib ON AIR]]></mission_stay_on_air>
+		<mission_drive_for><![CDATA[Fahre]]></mission_drive_for>
+		<mission_right_lane><![CDATA[Meter in den beiden rechten Spuren]]></mission_right_lane>
+		<mission_left_lane><![CDATA[Meter in den beiden linken Spuren]]></mission_left_lane>
+		<mission_central_lane><![CDATA[Meter in der mittleren Spur]]></mission_central_lane>
+		<mission_right_lane_short><![CDATA[in den beiden rechten Spuren]]></mission_right_lane_short>
+		<mission_left_lane_short><![CDATA[in den beiden linken Spuren]]></mission_left_lane_short>
+		<mission_central_lane_short><![CDATA[in der mittleren Spur]]></mission_central_lane_short>
+		<mission_collect><![CDATA[Sammle]]></mission_collect>
+		<mission_coins><![CDATA[Münzen]]></mission_coins>
+		<mission_bonus_big_coins><![CDATA[viele Münzen]]></mission_bonus_big_coins>
+		<mission_traffic><![CDATA[Fahrzeuge]]></mission_traffic>
+		<mission_jump><![CDATA[Springe]]></mission_jump>
+		<mission_drive_through><![CDATA[Passiere Kontrollpunkte]]></mission_drive_through>
+		<mission_pass><![CDATA[Passiere]]></mission_pass>
+		<mission_checkpoint><![CDATA[Kontrollpunkte]]></mission_checkpoint>
+		<plane_active><![CDATA[FLUGZEUG AKTIV]]></plane_active>
+		<ufo_active><![CDATA[UFO AKTIV]]></ufo_active>
+		<tap_to_shoot><![CDATA[ZUM SCHIESSEN LINKS/RECHTS TIPPEN]]></tap_to_shoot>
+		<destroy_them_all><![CDATA[ALLE ZERSTÖREN]]></destroy_them_all>
+		<tap_to_cannon><![CDATA[FÜR KANONE LINKS/RECHTS TIPPEN]]></tap_to_cannon>
+		<you_already_have><![CDATA[DU HAST SCHON]]></you_already_have>
+		<boost><![CDATA[SCHUB!]]></boost>
+		<item_purchased><![CDATA[GEGENSTAND GEKAUFT!]]></item_purchased>
+		<booster_turbo_name><![CDATA[Turbo]]></booster_turbo_name>
+		<booster_turbo_descr><![CDATA[Beginne den Lauf mit aktivem Temposchub.]]></booster_turbo_descr>
+		<booster_shield_name><![CDATA[Schild]]></booster_shield_name>
+		<booster_shield_descr><![CDATA[Der Schild schützt dich vor einer Kollision mit einem anderen Fahrzeug.]]></booster_shield_descr>
+		<booster_specialcar_name><![CDATA[Spezialfahrzeug]]></booster_specialcar_name>
+		<booster_specialcar_descr><![CDATA[Beginnt den Lauf mit einem zufälligen Spezialfahrzeug.]]></booster_specialcar_descr>
+		<booster_doublecoins_name><![CDATA[Doppelte Münzen]]></booster_doublecoins_name>
+		<booster_doublecoins_descr><![CDATA[Verdoppelt den Wert der eingesammelten Münzen bei diesem Lauf.]]></booster_doublecoins_descr>
+		<booster_doubleexp_name><![CDATA[Doppelte EP]]></booster_doubleexp_name>
+		<booster_doubleexp_descr><![CDATA[Verdoppelt nach Ende des Lauf die Anzahl der erhaltenen Erfahrung.]]></booster_doubleexp_descr>
+		<booster_moreckp_name><![CDATA[Kontrollzeit]]></booster_moreckp_name>
+		<booster_moreckp_descr><![CDATA[Jeder passierte Kontrollpunkt fügt der Uhr 1 zusätzliche Sekunde hinzu.]]></booster_moreckp_descr>
+		<tips_tip1><![CDATA[Du kannst ein anderes Fahrzeug rammen, indem neben ihm fährst und dann hineinsteuerst.]]></tips_tip1>
+		<tips_tip2><![CDATA[Bleibe im Spotlight des Nachrichtenhelikopters, um Münzen zu erhalten.]]></tips_tip2>
+		<tips_tip3><![CDATA[Sammle blaue Blitze, um den Turbo zu aktivieren. Kollidiere dann mit anderen Autos, um Münzen zu erhalten. Warum nicht, es macht Spaß!]]></tips_tip3>
+		<tips_tip4><![CDATA[Spiele jeden Tag, um größere und bessere tägliche Boni zu erhalten! Dadurch kannst du exklusive Autos verdienen!]]></tips_tip4>
+		<tips_tip5><![CDATA[Das Fahren verbraucht Sprit. Im Laufe der Zeit wird er nachgefüllt oder du erwirbst ihn im Shop.]]></tips_tip5>
+		<tips_tip6><![CDATA[Das Fahren auf besonderen Transporttrucks lässt dein Fahrzeug zum Spezialfahrzeug werden!]]></tips_tip6>
+		<tips_tip7><![CDATA[Achte auf Polizeiautos! Versuche sie zu flankieren und zu rammen, wenn sie dich finden.]]></tips_tip7>
+		<tips_tip8><![CDATA[Der Schildbonus schützt dich vor einer Kollision. Setze ihn weise ein!]]></tips_tip8>
+		<tips_tip9><![CDATA[Der Magnetbonus sammelt automatisch Münzen in der Nähe für dich ein.]]></tips_tip9>
+		<tips_tip10><![CDATA[Nutze den Windschatten, um an Tempo zu gewinnen. Baue eine Kombo auf, um noch schneller zu fahren.]]></tips_tip10>
+		<tips_tip11><![CDATA[Jeder passierte Kontrollpunkt gewährt dir zusätzliche Zeit.]]></tips_tip11>
+		<tips_tip12><![CDATA[Aktiviere die Booster zu Beginn eines Rennens, um eine bessere Punktzahl zu erreichen.]]></tips_tip12>
+		<notifications_generic_text1><![CDATA[Zeit für eine Flucht! Schnapp dir deinen Wagen und fahr los!]]></notifications_generic_text1>
+		<notifications_generic_text2><![CDATA[Vergiss nicht, mit deinem Wagen heute eine Ausfahrt zu machen. Fantastische tägliche Boni warten auf dich!]]></notifications_generic_text2>
+		<notifications_generic_text3><![CDATA[Verpasse den Anschluss auf den Bestenlisten nicht! Spiele und bahne dir den Weg nach oben!]]></notifications_generic_text3>
+		<notifications_timedevents_text1><![CDATA[Achtung! Der Spritfrostbonus läuft bald ab. Hole das Beste aus ihm heraus!]]></notifications_timedevents_text1>
+		<notifications_timedevents_text2><![CDATA[Hey! Dein Tank ist jetzt voll. Lass uns Rennen fahren!]]></notifications_timedevents_text2>
+		<notifications_daily_bonus1><![CDATA[Dein täglicher Bonus steht bereit. Hol ihn dir jetzt!]]></notifications_daily_bonus1>
+		<notifications_daily_bonus2><![CDATA[Hol dir jetzt deinen täglichen Bonus!]]></notifications_daily_bonus2>
+		<notifications_daily_bonus3><![CDATA[Hey, dein täglicher Bonus steht bereit!]]></notifications_daily_bonus3>
+		<more_meters><![CDATA[weitere Meter]]></more_meters>
+		<beat_score><![CDATA[ um die Punktzahl deines Freundes zu knacken]]></beat_score>
+		<keep_running><![CDATA[Weiter so!]]></keep_running>
+		<great_spin><![CDATA[TOLLE DREHUNG!]]></great_spin>
+		<popup_amazing><![CDATA[WUNDERBAR!]]></popup_amazing>
+		<popup_unlocked_car><![CDATA[Neues Auto freigeschaltet]]></popup_unlocked_car>
+		<popup_unlocked_tier><![CDATA[Neue Stufe freigeschaltet]]></popup_unlocked_tier>
+		<popup_unlocked_special><![CDATA[Neues Spezialfahrzeug freigeschaltet]]></popup_unlocked_special>
+		<popup_tutorial_title><![CDATA[TUTORIAL]]></popup_tutorial_title>
+		<popup_tutorial_warning_title><![CDATA[TUTORIAL IST JETZT AKTIVIERT!]]></popup_tutorial_warning_title>
+		<popup_tutorial_warning><![CDATA[Du fährst jetzt dein erstes Auto in Highway Chase.
+
+Du kannst Standard-Landschaft und -Auto am Ende dieses Tutorials ändern.]]></popup_tutorial_warning>
+		<popup_tutorial_subtitle1><![CDATA[MEIDE DEN VERKEHR]]></popup_tutorial_subtitle1>
+		<popup_tutorial_subtitle2><![CDATA[WINDSCHATTEN]]></popup_tutorial_subtitle2>
+		<popup_tutorial_subtitle3><![CDATA[BLITZE]]></popup_tutorial_subtitle3>
+		<popup_tutorial_subtitle4><![CDATA[TRUCKS]]></popup_tutorial_subtitle4>
+		<popup_tutorial_subtitle5><![CDATA[VIEL GLÜCK!]]></popup_tutorial_subtitle5>
+		<popup_tutorial_tap><![CDATA[Zum Fortfahren tippen]]></popup_tutorial_tap>
+		<popup_tutorial_beginningright><![CDATA[Glückwunsch! Du weißt, wie man sich bewegt. Aber weißt du auch, wie man schneller fährt?]]></popup_tutorial_beginningright>
+		<popup_tutorial_beginningleft><![CDATA[Nutze die Windschatten anderer Autos und staple deine Kombos!]]></popup_tutorial_beginningleft>
+		<popup_tutorial_bolts><![CDATA[Sammle die Blitze auf der Straße für einen kraftvollen Temposchub ein!]]></popup_tutorial_bolts>
+		<popup_tutorial_specialvehicles><![CDATA[Auf der Straße gibt es besondere Trucks. Wofür könnten sie sein?]]></popup_tutorial_specialvehicles>
+		<popup_tutorial_end><![CDATA[Tutorial abgeschlossen. Wie weit wirst du es bringen?]]></popup_tutorial_end>
+		<maxed><![CDATA[MAXIMIERT]]></maxed>
+		<num_separator><![CDATA[,]]></num_separator>
+		<streak_bonus_title><![CDATA[WO WARST DU?!?]]></streak_bonus_title>
+		<streak_bonus_description><![CDATA[Du warst so  kurz davor, den finalen Superpreis zu erhalten!]]></streak_bonus_description>
+		<streak_bonus_buy_text1><![CDATA[DU KANNST DIE TÄGLICHE-BONUS-STRÄHNE NOCH RETTEN!]]></streak_bonus_buy_text1>
+		<streak_bonus_buy_text2><![CDATA[Nur noch]]></streak_bonus_buy_text2>
+		<streak_bonus_buy_text3><![CDATA[Tage!]]></streak_bonus_buy_text3>
+		<skip><![CDATA[ÜBERSPR.]]></skip>
+		<btVideo><![CDATA[GRATIS-BOOSTER]]></btVideo>
+		<facebook_login_popup_description_1><![CDATA[NUR FÜR BEGRENZTE ZEIT!]]></facebook_login_popup_description_1>
+		<facebook_login_popup_description_2><![CDATA[HOL DIR DIE BELOHNUNG, BEVOR ES ZU SPÄT IST!]]></facebook_login_popup_description_2>
+		<facebook_login_popup_title><![CDATA[MELDE DICH AN + TRETE GEGEN DEINE FREUNDE AN!]]></facebook_login_popup_title>
+		<facebook_login_popup_get><![CDATA[UND ERHALTE]]></facebook_login_popup_get>
+		<fuel_gift_title><![CDATA[ANSCHEINEND HAST DU KEINEN SPRIT MEHR!]]></fuel_gift_title>
+		<fuel_gift_description><![CDATA[Du kannst ihn im Shop kaufen, aber die erste Füllung geht auf uns!]]></fuel_gift_description>
+		<share><![CDATA[TEILEN]]></share>
+		<facebook_feed_caption><![CDATA[Ich habe in On The Run gerade einen Pfad der Zerstörung hinterlassen!]]></facebook_feed_caption>
+		<facebook_feed_share_rank><![CDATA[Noch ein Diamant für mich! Ich habe folgendes Level erreicht: ]]></facebook_feed_share_rank>
+		<facebook_feed_share_wheel><![CDATA[Ich habe in On The Run gerade einen fantastischen Preis erhalten!]]></facebook_feed_share_wheel>
+		<facebook_feed_buy_car><![CDATA[Mein neues Auto ist bereit für die Straße!]]></facebook_feed_buy_car>
+		<facebook_feed_buy_tier><![CDATA[Ich habe gerade eine neue Stufe freigeschaltet: ]]></facebook_feed_buy_tier>
+		<facebook_feed_unlock_special><![CDATA[Ich habe ein neues Spezialfahrzeug erhalten! Brandneu: ]]></facebook_feed_unlock_special>
+		<facebook_feed_distance><![CDATA[Ich habe gerade folgende Distanz erreicht: ]]></facebook_feed_distance>
+		<unlock_tier_prefix><![CDATA[ERREICHE]]></unlock_tier_prefix>
+		<unlock_tier_postfix><![CDATA[UM STUFE FREIZUSCHALTEN]]></unlock_tier_postfix>
+		<xp><![CDATA[EP]]></xp>
+		<web_help><![CDATA[HILFE]]></web_help>
+		<web_btSubmit><![CDATA[PUNKTZAHL SENDEN]]></web_btSubmit>
+		<web_not_enough_coins><![CDATA[NICHT GENUG MÜNZEN, SPIELE WEITER!]]></web_not_enough_coins>
+		<web_mobilepromo_tag><![CDATA[Probiere das Spiel auf Mobile aus!]]></web_mobilepromo_tag>
+		<web_highscore><![CDATA[HIGHSCORES]]></web_highscore>
+		<web_help_directions><![CDATA[Gehe mit]]></web_help_directions>
+		<web_help_collectbolts><![CDATA[Sammeln]]></web_help_collectbolts>
+		<web_help_bolttext><![CDATA[um Turbo zu aktivieren]]></web_help_bolttext>
+		<web_help_slipstream><![CDATA[WINDSCHATTEN]]></web_help_slipstream>
+		<web_help_slipstreamtext><![CDATA[Bleibe im Windschatten eines anderen Fahrzeugs, um einen kleinen Temposchub zu erhalten. Wenn du dies mehrmals tust, baust du eine Windschattenkombo auf und fährst noch schneller!]]></web_help_slipstreamtext>
+		<web_help_trucks><![CDATA[Trucks]]></web_help_trucks>
+		<web_help_truckstext><![CDATA[Wenn du einen Transportertruck siehst, fahre darauf: Fantastische Dinge werden geschehen!]]></web_help_truckstext>
+		<web_help_back><![CDATA[ERHALTEN]]></web_help_back>
+		<web_pressspacetocontinue><![CDATA[DRÜCKE ZUM FORTFAHREN DIE LEERTASTE]]></web_pressspacetocontinue>
+		<web_tap_to_shoot><![CDATA[Z. SCHIESSEN]]></web_tap_to_shoot>
+		<web_tap_to_cannon><![CDATA[FÜR DIE KANONE]]></web_tap_to_cannon>
+		<web_special_tank_long_descr><![CDATA[Der Panzer fährt auf der mittleren Fahrspur und zerstört alle Hindernisse in seinem Weg. Du kannst auch auf Autos schießen, indem du die linke oder rechte Pfeiltaste drückst. Jedes zerstörte Auto gewährt dir ein paar Münzen.]]></web_special_tank_long_descr>
+		<web_special_firetruck_long_descr><![CDATA[Das Feuerwehrauto spritzt mit Wasser, wenn du die linke oder rechte Pfeiltaste drückst. Dabei schiebt es die anderen Autos umher. Schiebe Autos von der Straße, um Münzen zu erhalten.]]></web_special_firetruck_long_descr>
+		<web_restart_game><![CDATA[Spiel neu starten?]]></web_restart_game>
+		<web_skip_saveme><![CDATA[LEERTASTE DRÜCKEN]]></web_skip_saveme>
+		<web_inapp_descr><![CDATA[Kaufe Upgrades. Klicke für mehr Infos auf "?"]]></web_inapp_descr>
+		<web_back><![CDATA[ZURÜCK]]></web_back>
+		<web_highscores_description><![CDATA[Stufe auswählen]]></web_highscores_description>
+		<web_highscores_title><![CDATA[SIEH DIR DEINE PUNKTZAHLEN AN]]></web_highscores_title>
+		<mission_combo><![CDATA[KOMBO]]></mission_combo>
+		<you_know><![CDATA[Wusstest du schon?]]></you_know>
+		<trucks_advise><![CDATA[Du kannst neue Spezialfahrzeuge kaufen und sie auch verbessern!]]></trucks_advise>
+		<web_distance><![CDATA[Distanz]]></web_distance>
+		<web_best_distance><![CDATA[Beste Distanz]]></web_best_distance>
+		<reach_lvl_tounlock><![CDATA[UM DIE STUFE FREIZUSCHALTEN]]></reach_lvl_tounlock>
+		<beat_your_score><![CDATA[ um deine Punktzahl zu schlagen]]></beat_your_score>
+		<beat_non_friend_score><![CDATA[ um diese Punktzahl zu schlagen]]></beat_non_friend_score>
+		<game_center><![CDATA[ERFOLGE]]></game_center>
+		<invite_tab><![CDATA[EINLADEN]]></invite_tab>
+		<invite_title><![CDATA[FÜR NEU EINGELADENE FREUNDE ERHÄLTST DU 1]]></invite_title>
+		<invite_button><![CDATA[EINLADEN]]></invite_button>
+		<friends_tab><![CDATA[FREUNDE]]></friends_tab>
+		<friends_title><![CDATA[HEUTE ALS GESCHENK FÜR DEINE FREUNDE VERFÜGBAR]]></friends_title>
+		<gift_button><![CDATA[GESCH.]]></gift_button>
+		<notification_popup_title><![CDATA[DU HAST EIN GESCHENK ERHALTEN!]]></notification_popup_title>
+		<notification_popup_text1><![CDATA[sendete dir 1 Sprit]]></notification_popup_text1>
+		<notification_popup_text2><![CDATA[Annehmen und 1 zurückschicken]]></notification_popup_text2>
+		<notification_popup_button><![CDATA[ANNEHMEN UND ZURÜCKSCHICKEN]]></notification_popup_button>
+		<notification_popup_button_accept><![CDATA[ANNEHMEN]]></notification_popup_button_accept>
+		<no_FB_friends><![CDATA[KEINE FREUNDE GEFUNDEN]]></no_FB_friends>
+		<no_FB_friends_playing><![CDATA[KEINER DEINER FREUNDE SPIELT. LADE SIE EIN!]]></no_FB_friends_playing>
+		<mission_new><![CDATA[NEU]]></mission_new>
+		<invite_reward_text><![CDATA[HIER IST DEINE BELOHNUNG]]></invite_reward_text>
+		<tap_continue_missions><![CDATA[Zum Fortfahren tippen]]></tap_continue_missions>
+		<not_logged_in_ingame><![CDATA[MELDE DICH AN, UM DEINE FREUNDE HIER ZU SEHEN]]></not_logged_in_ingame>
+		<no_friends_ingame><![CDATA[LADE FREUNDE EIN, UM IHRE ERGEBNIS ZU SCHLAGEN]]></no_friends_ingame>
+		<invite_5_thanks><![CDATA[DANKE, DASS DU 5 FREUNDE EINGELADEN HAST!]]></invite_5_thanks>
+		<invite_5_comeback><![CDATA[Komm Morgen zurück, um mehr Freunde einzuladen und mehr Diamanten zu erhalten!]]></invite_5_comeback>
+		<fake_username_1><![CDATA[Fluchtneuling]]></fake_username_1>
+		<fake_username_2><![CDATA[Fluchtprofi]]></fake_username_2>
+		<fake_username_3><![CDATA[Fluchtmeister]]></fake_username_3>
+		<sorry><![CDATA[Sorry!]]></sorry>
+		<no_video_available><![CDATA[Zurzeit sind keine Videoanzeigen verfügbar]]></no_video_available>
+		<congratulations><![CDATA[Glückwunsch!]]></congratulations>
+		<coins_reward_prefix><![CDATA[Du hast gerade Folgendes erhalten:]]></coins_reward_prefix>
+		<coins_reward_postfix><![CDATA[Münzen!]]></coins_reward_postfix>
+		<invite_friend_text><![CDATA[Spiele On The Run, wenn du hohes Tempo liebst!]]></invite_friend_text>
+		<invite_friend_title><![CDATA[Ich habe in diesem Spiel gerade Vollgas gegeben!]]></invite_friend_title>
+		<login_facebook_ranking><![CDATA[MELDE DICH MIT FACEBOOK AN, UM MIT DEINEN FREUNDEN ZU SPIELEN!]]></login_facebook_ranking>
+		<invite_facebook_ranking><![CDATA[ANSCHEINEND SPIELT KEINER DEINER FREUNDE MIT DIR ... SAG IHNEN BESCHEID!]]></invite_facebook_ranking>
+		<unlock_specials_prefix><![CDATA[ERREICHE LEVEL]]></unlock_specials_prefix>
+		<unlock_specials_postfix><![CDATA[FÜR KAUF ODER FREISCHALTUNG:]]></unlock_specials_postfix>
+		<login_facebook_notlogged_title><![CDATA[MELDE DICH AN UND GREIFE AUF EXKLUSIVE FUNKTIONEN ZU!]]></login_facebook_notlogged_title>
+		<login_facebook_notlogged_compete><![CDATA[TRITT GEGEN DEINE FACEBOOK-FREUNDE AN]]></login_facebook_notlogged_compete>
+		<login_facebook_notlogged_fuel><![CDATA[SENDE DEINEN FREUNDEN SPRIT]]></login_facebook_notlogged_fuel>
+		<login_facebook_notlogged_diamonds><![CDATA[WILLKOMMENSGESCHENK: 5 DIAMANTEN!]]></login_facebook_notlogged_diamonds>
+		<diamonds><![CDATA[DIAMANTEN]]></diamonds>
+		<new_record><![CDATA[NEUER REKORD]]></new_record>
+		<day_ends_in><![CDATA[TAG ENDET IN]]></day_ends_in>
+		<tiers_btn><![CDATA[STUFEN]]></tiers_btn>
+		<get_boosters><![CDATA[HOL DIR BOOSTER]]></get_boosters>
+		<run_goal><![CDATA[RUN-ZIEL]]></run_goal>
+		<xp_postfix><![CDATA[EP]]></xp_postfix>
+		<rank_bar_player><![CDATA[DU]]></rank_bar_player>
+		<description_tier_1><![CDATA[Der perfekte Highway für Anfänger: 5 Spuren und 1 Richtung.]]></description_tier_1>
+		<description_tier_2><![CDATA[Genieße den fernen Osten, aber sei vorsichtig: hier gibt es zwei gegenüberliegenden Fahrspuren!]]></description_tier_2>
+		<description_tier_3><![CDATA[Blicke auf den weiten Ozean ... und achte auf die Baustellen!]]></description_tier_3>
+		<description_tier_4><![CDATA[Die ultimative Herausforderung: ein holpriger Wüsten-Highway und 2 gegenüberliegenden Spuren.]]></description_tier_4>
+		<mission_avoid_barriers><![CDATA[ohne Hindernisse zu treffen]]></mission_avoid_barriers>
+		<mission_fast_lane><![CDATA[in der Schnellspur]]></mission_fast_lane>
+		<mission_destroy_in_turbo_ingame><![CDATA[mit aktivem Blitz]]></mission_destroy_in_turbo_ingame>
+		<mission_destroy_in_turbo_wrong_lane_ingame><![CDATA[mit aktivem Blitz in falscher Spur]]></mission_destroy_in_turbo_wrong_lane_ingame>
+		<mission_destroy_in_turbo_offgame><![CDATA[Fahrzeuge mit aktivem Blitz]]></mission_destroy_in_turbo_offgame>
+		<mission_destroy_in_turbo_wrong_lane_offgame><![CDATA[Fahrzeuge mit aktivem Blitz in falscher Spur]]></mission_destroy_in_turbo_wrong_lane_offgame>
+		<mission_with><![CDATA[mit]]></mission_with>
+		<mission_meters_with><![CDATA[Meter mit]]></mission_meters_with>
+		<mission_vehicles_with><![CDATA[Fahrzeuge mit]]></mission_vehicles_with>
+		<mission_wrong_lane><![CDATA[Fahrzeuge in falscher Spur mit]]></mission_wrong_lane>
+		<coins_pack><![CDATA[MÜNZPAKET]]></coins_pack>
+		<gems_pack><![CDATA[EDELSTEINPAKET]]></gems_pack>
+		<free_spin_pack><![CDATA[GRATISDREHUNG-PAKET]]></free_spin_pack>
+		<fuel_pack><![CDATA[SPRITPAKET]]></fuel_pack>
+		<car_unlocked><![CDATA[NEUES AUTO]]></car_unlocked>
+		<tier_unlocked><![CDATA[NEUE STUFE]]></tier_unlocked>
+		<mission_run><![CDATA[Laufe]]></mission_run>
+		<mission_in_wrong_lane><![CDATA[in falscher Spur]]></mission_in_wrong_lane>
+		<mission_smash_bigfoot_short><![CDATA[Ramme Fahrzeuge]]></mission_smash_bigfoot_short>
+		<mission_abduct_ufo_short><![CDATA[Entführe Fahrzeuge]]></mission_abduct_ufo_short>
+		<mission_pushaway_firetruck_short><![CDATA[Verschiebe Fahrzeuge]]></mission_pushaway_firetruck_short>
+		<mission_smash_bigfoot_long><![CDATA[Ramme]]></mission_smash_bigfoot_long>
+		<mission_pushaway_firetruck_long><![CDATA[Verschiebe]]></mission_pushaway_firetruck_long>
+		<mission_coins_short><![CDATA[Sammle Münzen]]></mission_coins_short>
+		<mission_collect_short><![CDATA[Sammle viele Münzen]]></mission_collect_short>
+		<skip_popup_title_step1><![CDATA[Hast du Probleme mit diesem RUN-ZIEL?]]></skip_popup_title_step1>
+		<skip_popup_text_step1><![CDATA[Hold dir ein paar Upgrades für dein Auto, bevor du diesen Lauf absolvierst!]]></skip_popup_text_step1>
+		<skip_popup_title_step2><![CDATA[AKTUELLES ZIEL ÜBERSPRINGEN?]]></skip_popup_title_step2>
+		<skip_popup_text_step2><![CDATA[Hol dir ein neues Ziel für]]></skip_popup_text_step2>
+		<skip_popup_upgrade><![CDATA[VERBESSERE DEIN AUTO!]]></skip_popup_upgrade>
+		<rank_bar_title><![CDATA[DEIN RANGFORTSCHRITT]]></rank_bar_title>
+		<mission_destroy_vehicles><![CDATA[Zerstöre Fahrzeuge]]></mission_destroy_vehicles>
+		<today><![CDATA[HEUTE]]></today>
+		<inapp_remove_ads><![CDATA[KAUFE EIN BELIEBIGES DIAMANTPAKET, UM WERBUNG ZU ENTFERNEN!]]></inapp_remove_ads>
+		<or><![CDATA[OD.]]></or>
+		<popup_free_coins_congrat><![CDATA[Glückwunsch! Du hast gerade einen Preis gewonnen!]]></popup_free_coins_congrat>
+		<popup_free_coins_sorry><![CDATA[Sorry!]]></popup_free_coins_sorry>
+		<popup_free_coins_another_video><![CDATA[Möchtest du ein weiteres Video für noch mehr Preise ansehen?]]></popup_free_coins_another_video>
+		<popup_free_coins_not_available><![CDATA[Du kannst dir keine weiteren Videos ansehen. Komm später zurück!]]></popup_free_coins_not_available>
+		<popup_free_coins_later><![CDATA[Später]]></popup_free_coins_later>
+		<popup_free_coins_watch_now><![CDATA[Jetzt ansehen!]]></popup_free_coins_watch_now>
+		<popup_free_coins_ok><![CDATA[OK]]></popup_free_coins_ok>
+		<watch_video><![CDATA[VIDEO ANSEHEN]]></watch_video>
+		<get_free_fuel><![CDATA[UND ERHALTE 1 GRATISSPRIT]]></get_free_fuel>
+		<free_video><![CDATA[GRATIS]]></free_video>
+		<confirm_buy_car><![CDATA[Möchtest du dieses tolle Auto kaufen?]]></confirm_buy_car>
+		<buy_with_coins_postfix><![CDATA[UM MIT MÜNZEN ZU KAUFEN]]></buy_with_coins_postfix>
+		<special_vehicle_plane><![CDATA[Flugzeug]]></special_vehicle_plane>
+		<special_vehicle_ufo><![CDATA[UFO]]></special_vehicle_ufo>
+		<special_vehicle_bigfoot><![CDATA[Bigfoot]]></special_vehicle_bigfoot>
+		<special_vehicle_firetruck><![CDATA[Feuerwehrauto]]></special_vehicle_firetruck>
+		<special_vehicle_tank><![CDATA[Panzer]]></special_vehicle_tank>
+		<special_mission><![CDATA[SPEZIAL]]></special_mission>
+		<new_mission><![CDATA[NEUES RUN-ZIEL!]]></new_mission>
+		<popular_tag><![CDATA[AM BELIEBTESTEN]]></popular_tag>
+		<bestvalue_tag><![CDATA[BESTES ANGEBOT]]></bestvalue_tag>
+		<invitefriends_reminder_title><![CDATA[VERGISS NICHT, DEINE FREUNDE EINZULADEN!]]></invitefriends_reminder_title>
+		<invitefriends_reminder_payoff><![CDATA[ERHALTE 1 DIAMANTEN FÜR NEU EINGELADENE FREUNDE]]></invitefriends_reminder_payoff>
+		<invitefriends_maxremaining><![CDATA[NEUE FREUNDE HEUTE: ]]></invitefriends_maxremaining>
+		<invitefriends_reinvite><![CDATA[ERNEUT EINL.]]></invitefriends_reinvite>
+		<credits_production><![CDATA[PRODUKTION]]></credits_production>
+		<credits_design><![CDATA[DESIGN]]></credits_design>
+		<credits_programming><![CDATA[PROGRAMMIERUNG]]></credits_programming>
+		<credits_3dart><![CDATA[3D-GRAFIK]]></credits_3dart>
+		<credits_2dart><![CDATA[2D-GRAFIK]]></credits_2dart>
+		<credits_sound><![CDATA[SOUND]]></credits_sound>
+		<credits_qa><![CDATA[QA]]></credits_qa>
+		<credits_thanks><![CDATA[DANK]]></credits_thanks>
+		<credits_specialthanks><![CDATA[BESONDERER DANK]]></credits_specialthanks>
+		<credits_allstaff><![CDATA[Das ganze Miniclip Team]]></credits_allstaff>
+	</language>
+</languages>

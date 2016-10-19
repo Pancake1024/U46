@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>P31WinPhoneSocialNetworking</name>
+    </assembly>
+    <members>
+        <member name="T:Prime31.WinPhoneSocialNetworking.FacebookAccess">
+            <summary>
+            Before calling any methods the <i>applicationId</i> should be set. When it is set the plugin will attempt to find a
+            previous session. You can use the <i>isSessionValid</i> method to see if an authenticated user was found. Note
+            that when the login web browser is visible touches will leak through to Unity so they should be ignored.
+            
+            To enable high detail logs add the following line inside the Unity_Loaded method of the MainPage.xaml.cs file:
+            P31WinPhoneHelpers.Log.enableHighDetailLogs = true;
+            </summary>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.FacebookAccess.#cctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.FacebookAccess.login(System.String,System.String,System.String[],System.Action{System.String,System.Exception})">
+            <summary>
+            Logs a user in. This method will clear the cookie cache of the browser before showing it each time so the user
+            will have to login again.
+            </summary>
+            <param name="redirectUrl"></param>
+            <param name="appSecret"></param>
+            <param name="permissions"></param>
+            <param name="completionHandler"></param>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.FacebookAccess.logout">
+            <summary>
+            Destroys the cached access token
+            </summary>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.FacebookAccess.isSessionValid">
+            <summary>
+            Note that this method just checks to see if there is a cached access token. You should be extending the access token every launch
+            to ensure it is valid!
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.FacebookAccess.showDialog(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Action{System.String})">
+            <summary>
+            Shows a Facebook dialog. The completionHandler will be called with the final dialog URL that Facebook provides or null if an Exception occurs.
+            </summary>
+            <param name="dialogType"></param>
+            <param name="parameters"></param>
+            <param name="completionHandler"></param>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.FacebookAccess.graphRequestGet(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Action{System.Object})">
+            <summary>
+            Performs a GET Graph Request. If an error occurs, the completionHandler will be passed null. If the call is successful, the 
+            completionHandler will be passed an object that is castable to IDictionary&lt;string,object&gt; or IList&lt;object&gt;. Visit Facebook's
+            Graph API documentation to learn what the endpoint returns.
+            </summary>
+            <param name="path"></param>
+            <param name="parameters"></param>
+            <param name="completionHandler"></param>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.FacebookAccess.graphRequestPost(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Action{System.Object})">
+            <summary>
+            Performs a POST Graph Request. If an error occurs, the completionHandler will be passed null. If the call is successful, the 
+            completionHandler will be passed an object that is castable to IDictionary&lt;string,object&gt; or IList&lt;object&gt;. Visit Facebook's
+            Graph API documentation to learn what the endpoint returns.
+            </summary>
+            <param name="path"></param>
+            <param name="parameters"></param>
+            <param name="completionHandler"></param>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.FacebookAccess.graphRequestDelete(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Action{System.Object})">
+            <summary>
+            Performs a DELETE Graph Request. If an error occurs, the completionHandler will be passed null. If the call is successful, the 
+            completionHandler will be passed an object that is castable to IDictionary&lt;string,object&gt; or IList&lt;object&gt;. Visit Facebook's
+            Graph API documentation to learn what the endpoint returns.
+            </summary>
+            <param name="path"></param>
+            <param name="parameters"></param>
+            <param name="completionHandler"></param>
+        </member>
+        <member name="P:Prime31.WinPhoneSocialNetworking.FacebookAccess.accessToken">
+            <summary>
+            Fetches the access token if available. Returns null if the user is not logged in.
+            </summary>
+        </member>
+        <member name="P:Prime31.WinPhoneSocialNetworking.FacebookAccess.applicationId">
+            <summary>
+            The appId must be set before any other methods are called!
+            </summary>
+        </member>
+        <member name="P:Prime31.WinPhoneSocialNetworking.FacebookAccess.lastErrorMessage">
+            <summary>
+            Conatins the last known error as reported by the Facebook SDK
+            </summary>
+        </member>
+        <member name="T:Prime31.WinPhoneSocialNetworking.TwitterAccess">
+            <summary>
+            Before calling any methods the <i>init</i> method must be called. It will return true if the user is already
+            signed in. Note that when the login web browser is visible touches will leak through to Unity so they should
+            be ignored.
+            
+            To enable high detail logs add the following line inside the Unity_Loaded method of the MainPage.xaml.cs file:
+            P31WinPhoneHelpers.Log.enableHighDetailLogs = true;
+            </summary>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.TwitterAccess.init(System.String,System.String)">
+            <summary>
+            init must be called before any other methods! This will return true if the user is already logged in.
+            </summary>
+            <param name="consumerKey"></param>
+            <param name="consumerSecret"></param>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.TwitterAccess.init(System.String,System.String,System.String)">
+            <summary>
+            init must be called before any other methods! This will return true if the user is already logged in.
+            Optionally you can provide your own oath callback URL. If you do not provide one http://unity3d.com will be used.
+            </summary>
+            <param name="consumerKey"></param>
+            <param name="consumerSecret"></param>
+            <param name="oauthCallbackUrl"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.TwitterAccess.login(System.Action{System.Boolean})">
+            <summary>
+            Displays the login dialog
+            </summary>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.TwitterAccess.logout">
+            <summary>
+            Destroys the access token
+            </summary>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.TwitterAccess.performGetRequest(System.String,System.Collections.Generic.Dictionary{System.String,System.String},System.Action{System.Object,System.String})">
+            <summary>
+            Performs Twitter API GET request. If an error occurs, the completionHandler's second parameter will not be null. If the call is successful, the 
+            completionHandler will be passed an object that is castable to IDictionary&lt;string,object&gt; or IList&lt;object&gt;. Visit Twitter's
+            documentation to learn what each endpoint returns.
+            
+            The path parameter should be the Resource as defined by Twitter documentation
+            </summary>
+            <param name="path"></param>
+            <param name="parameters"></param>
+            <param name="completionHandler"></param>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.TwitterAccess.performPostRequest(System.String,System.Collections.Generic.Dictionary{System.String,System.String},System.Action{System.Object,System.String})">
+            <summary>
+            Performs Twitter API POST request. If an error occurs, the completionHandler's second parameter will not be null. If the call is successful, the 
+            completionHandler will be passed an object that is castable to IDictionary&lt;string,object&gt; or IList&lt;object&gt;. Visit Twitter's
+            documentation to learn what each endpoint returns.
+            
+            The path parameter should be the Resource as defined by Twitter documentation
+            </summary>
+            <param name="path"></param>
+            <param name="parameters"></param>
+            <param name="completionHandler"></param>
+        </member>
+        <member name="M:Prime31.WinPhoneSocialNetworking.TwitterAccess.postImage(System.String,System.Byte[],System.Action{System.Object,System.String})">
+            <summary>
+            Performs Twitter API POST request with an image attachment. If an error occurs, the completionHandler's second parameter will not be null. If the call is successful, the 
+            completionHandler will be passed an object that is castable to IDictionary&lt;string,object&gt;. Visit Twitter's
+            documentation to learn what each endpoint returns.
+            </summary>
+            <param name="status"></param>
+            <param name="imageData"></param>
+            <param name="completionHandler"></param>
+        </member>
+        <member name="P:Prime31.WinPhoneSocialNetworking.TwitterAccess.screenName">
+            <summary>
+            The logged in users screen name
+            </summary>
+        </member>
+        <member name="P:Prime31.WinPhoneSocialNetworking.TwitterAccess.userId">
+            <summary>
+            The logged in users userId
+            </summary>
+        </member>
+        <member name="P:Prime31.WinPhoneSocialNetworking.TwitterAccess.isLoggedIn">
+            <summary>
+            Checks to see if the user is logged in
+            </summary>
+        </member>
+        <member name="P:Prime31.WinPhoneSocialNetworking.TwitterAccess.lastStatusMessage">
+            <summary>
+            If an error occurred during login the lastStatusMessage might contain some details
+            </summary>
+        </member>
+    </members>
+</doc>

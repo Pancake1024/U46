@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: d1b4cdd6b308f874994d475ea1098ddd
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ve3_wheel_b
+    100004: ve3_wheel_fl
+    100006: ve3_wheel_fr
+    100008: veh_wheel_b
+    100010: veh_wheel_fl
+    100012: veh_wheel_fr
+    400000: //RootNode
+    400002: ve3_wheel_b
+    400004: ve3_wheel_fl
+    400006: ve3_wheel_fr
+    400008: veh_wheel_b
+    400010: veh_wheel_fl
+    400012: veh_wheel_fr
+    2300000: //RootNode
+    2300002: ve3_wheel_b
+    2300004: ve3_wheel_fl
+    2300006: ve3_wheel_fr
+    2300008: veh_wheel_b
+    2300010: veh_wheel_fl
+    2300012: veh_wheel_fr
+    3300000: //RootNode
+    3300002: ve3_wheel_b
+    3300004: ve3_wheel_fl
+    3300006: ve3_wheel_fr
+    3300008: veh_wheel_b
+    3300010: veh_wheel_fl
+    3300012: veh_wheel_fr
+    4300000: pl_ny_ve3
+    4300002: ve3_wheel_fr
+    4300004: ve3_wheel_fl
+    4300006: ve3_wheel_b
+    4300008: player_chassis
+    4300010: veh_wheel_b
+    4300012: veh_wheel_fl
+    4300014: veh_wheel_fr
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

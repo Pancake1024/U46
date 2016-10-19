@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GetJar Rewards</title>
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1 ,minimum-scale=1 , maximum-scale=1, user-scalable=no"/>
+<style type="text/css">
+/* css reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,p {
+margin:0;
+padding:0;
+}
+em,strong {
+font-style:normal;
+font-weight:normal;
+}
+li{
+list-style:none;
+}
+h1,h2,h3,h4,h5,h6 {
+font-size:100%;
+font-weight:normal;
+}
+/* css reset */
+html,body{
+height:100%;
+}
+body{
+background-color: #111;
+color: #eee;
+font-size: 23px;
+font-family:'Droid Sans',sans-serif;
+}
+.show{
+display:block;
+}
+.hide{
+display:none;
+}
+.showInline{
+display:inline;
+}
+.content{
+padding:30px 10px;
+}
+.content div{
+text-align:center;
+}
+.button{
+padding:8px 15px;
+text-align:center;
+border-radius:3px;
+color:#fff;
+font-size:23px;
+margin:15px 10px;
+/*
+-webkit-tap-highlight-color:rgba(0, 0, 0, 0);
+*/
+}
+.cancelBtn{
+background: #7e7e7e;
+background:-webkit-gradient(linear, left top, left bottom, from(#ababab), to(#7e7e7e));
+background:-webkit-linear-gradient(top,#ababab, #7e7e7e);
+background:-moz-linear-gradient(top,#ababab, #7e7e7e);
+background:linear-gradient(top,#ababab,#7e7e7e);
+border:1px solid #999;
+}
+.reloadBtn{
+background: #329901;
+background:-webkit-gradient(linear, left top, left bottom, from(#39b200), to(#39b200));
+background:-webkit-linear-gradient(top,#39b200, #019932);
+background:-moz-linear-gradient(top,#39b200, #019932);
+background:linear-gradient(top,#39b200,#019932);
+border:1px solid #39b200;
+}
+</style>
+
+</head>
+<body>
+
+	<div class="content">
+		<div id="networkError" class="hide">
+			<button id="nwCancelBtn" class="button cancelBtn">Cancel</button>
+			<button id="nwReloadBtn" class="button reloadBtn">Reload</button>
+			<div id="networkErrorMessage"></div>
+		</div>
+		<div id="authError" class="hide">
+			<button id="auCancelBtn" class="button cancelBtn">Cancel</button>
+			<div id="authErrorMessage"></div>
+		</div>
+		<div id="serviceError" class="hide">
+			<button id="svCancelBtn" class="button cancelBtn">Cancel</button>
+			<button id="svReloadBtn" class="button reloadBtn">Reload</button>
+			<div id="serviceErrorMessage"></div>
+		</div>
+	</div>
+
+<script type="text/javascript">
+
+(function( win ) {
+	
+	var GJ = {},
+		GetJarSDK = win.GetJarSDK,
+		doc = win.document,
+		$networkError = doc.getElementById( "networkError" ),
+		$authError = doc.getElementById( "authError" ),
+		$serviceError = doc.getElementById( "serviceError" ),
+		$nwCancelButton = doc.getElementById( "nwCancelBtn" ),
+		$nwReloadButton = doc.getElementById( "nwReloadBtn" ),
+		$auCancelButton = doc.getElementById( "auCancelBtn" ),
+		$svCancelButton = doc.getElementById( "svCancelBtn" ),
+		$svReloadButton = doc.getElementById( "svReloadBtn" ),
+		$networkErrorMessage = doc.getElementById( "networkErrorMessage" ),
+		$authErrorMessage = doc.getElementById( "authErrorMessage" ),
+		$serviceErrorMessage = doc.getElementById( "serviceErrorMessage" );
+
+	GJ.successfulEarnInstall = function( theAppId, thePackageName, theFriendlyName, theSubState, theAmount ) {
+		console.log( "successfulEarnInstall..." );
+	};
+
+	GJ.failedEarnInstall = function( theAppId, thePackageName, theFriendlyName, theSubState, theAmount ) {
+		console.log( "failedEarnInstall..." );
+	};
+
+	GJ.successfulPurchaseInstall = function( theAppId, thePackageName, theFriendlyName, theSubState, theAmount ) {
+		console.log( "successfulPurchaseInstall..." );
+	};
+
+	GJ.failedPurchaseInstall = function( theAppId, thePackageName, theFriendlyName, theSubState, theAmount ) {
+		console.log( "failedPurchaseInstall..." );
+	};
+
+	GJ.successfulPurchaseUnmanagedOffer = function( theProductId, theProductName, theSubState, theAmount ) {
+		console.log( "successfulPurchaseUnmanagedOffer..." );
+	};
+
+	GJ.failedPurchaseUnmanagedOffer = function( theProductId, theProductName, theSubState, theAmount ) {
+		console.log( "failedPurchaseUnmanagedOffer..." );
+	};
+
+	GJ.appInstalled = function( thePackageName ) {
+		console.log( "appInstalled..." );
+	};
+
+	GJ.setAuthToken = function( theAuthToken ) {
+		console.log( "setAuthToken..." );
+	};
+
+	GJ.onFocus = function() {
+		console.log( "onFocus..." );
+	};
+
+	GJ.onError = function( theCode, theSubCode ) {
+		console.log( "onError..." );
+		console.log( "theCode : " + theCode + " theSubCode : " + theSubCode );
+		displayErrorMessage( theCode, theSubCode );
+	};
+
+	var displayErrorMessage = function( theCode, theSubCode ) {
+		switch( theCode ) {
+			case "NETWORK" : 
+				displayNetworkError( "You must connect to a Wi-Fi or cellular data network for GetJar Rewards." );
+				break;
+			case "AUTH" : 
+				displayAuthError( theSubCode );
+				break;
+			case "SERVICE" : 
+				displayServiceError( "Uh oh, something has failed. Please try again." );
+				break;
+		}
+	};	
+
+	var displayNetworkError = function( theText ) {
+		$authError.className = "hide";
+		$serviceError.className = "hide";
+		$networkError.className = "show";
+		$networkErrorMessage.innerHTML = theText;
+	};
+
+	var displayAuthError = function( theSubCode ) {
+		$authError.className = "show";
+		$serviceError.className = "hide";
+		$networkError.className = "hide";
+		switch( theSubCode ) {
+			case "black_listed_app" :
+				$authErrorMessage.innerHTML = "Sorry! GetJar Rewards no longer supports this application. Install and Launch GetJar Rewards to earn and spend coins!";
+				break;
+			case "unsupported_device" :
+				$authErrorMessage.innerHTML = "Sorry! Your phone does not support GetJar Rewards. We are constantly working to improve the service and add more devices.";
+				break;
+			default:
+				$authErrorMessage.innerHTML = "Sorry! GetJar Rewards is unavailable.";
+				break;
+		}
+	};
+
+	var displayServiceError = function( theText ) {
+		$authError.className = "hide";
+		$serviceError.className = "show";
+		$networkError.className = "hide";
+		$serviceErrorMessage.innerHTML = theText;
+	};
+
+	var onCancelButtonTap = function( event ) {
+		console.log( "cancel button tapped...");
+		try{
+			GetJarSDK.closeView();
+		} catch( e ) {
+			console.log( e.message );
+		}
+	};
+
+	var onReloadButtonTap = function( event ) {
+		
+		console.log( "reload button tapped...");
+		try{
+			GetJarSDK.reloadViewNoSafety( true );
+		} catch( e ) {
+			console.log( e.message );
+		}
+	};
+
+	var initialize = function( event ) {
+		console.log("page loaded...");
+		console.log("adding event handlers for buttons...");
+		$nwCancelButton.addEventListener( "click", onCancelButtonTap, false);
+		$auCancelButton.addEventListener( "click", onCancelButtonTap, false);
+		$svCancelButton.addEventListener( "click", onCancelButtonTap, false);
+		$nwReloadButton.addEventListener( "click", onReloadButtonTap, false);
+		$svReloadButton.addEventListener( "click", onReloadButtonTap, false);
+	};
+
+	win.onload = initialize;
+
+	win.GJ = GJ;
+
+})( window );
+
+</script>
+
+</body>
+</html>

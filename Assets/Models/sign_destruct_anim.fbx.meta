@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 6d430658a5f3d2943ae6ae2feecdbd30
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: sign_destruct_1
+    100002: //RootNode
+    100004: sign_piece1
+    100006: sign_piece2
+    100008: sign_piece3
+    100010: sign_piece4
+    400000: sign_destruct_1
+    400002: //RootNode
+    400004: sign_piece1
+    400006: sign_piece2
+    400008: sign_piece3
+    400010: sign_piece4
+    2300000: sign_destruct_1
+    2300002: sign_piece1
+    2300004: sign_piece2
+    2300006: sign_piece3
+    2300008: sign_piece4
+    3300000: sign_destruct_1
+    3300002: sign_piece1
+    3300004: sign_piece2
+    3300006: sign_piece3
+    3300008: sign_piece4
+    4300000: sign_piece1
+    4300002: sign_piece2
+    4300004: sign_piece3
+    4300006: sign_piece4
+    4300008: sign_destruct_1
+    7400000: sign_destruct_anim
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: sign_destruct_anim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: sign_destruct_1
+        weight: 1
+      - path: sign_piece1
+        weight: 1
+      - path: sign_piece2
+        weight: 1
+      - path: sign_piece3
+        weight: 1
+      - path: sign_piece4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

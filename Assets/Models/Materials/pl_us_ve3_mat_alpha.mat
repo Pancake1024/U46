@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: pl_us_ve3_mat_alpha
+  m_Shader: {fileID: 4800000, guid: e11cf025d83334742badfa43135fbb3c, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: abbcb4c9f91c5ff4695b00580ec758d8, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: 81f8c3590fe0fb04dbbfb6448f9a827d, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Gloss
+        second:
+          m_Texture: {fileID: 2800000, guid: dcbf114116dbf03408bc0cdcbfaf3290, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .450519741
+      data:
+        first:
+          name: _FresnelPower
+        second: 2.57571435
+      data:
+        first:
+          name: _FresnelFading
+        second: .571428597
+      data:
+        first:
+          name: _LightingBase
+        second: .5
+      data:
+        first:
+          name: _LightingMul
+        second: .5
+      data:
+        first:
+          name: _ReflectionPower
+        second: 1.17678571
+      data:
+        first:
+          name: _FresnelBase
+        second: 0
+      data:
+        first:
+          name: _Alpha
+        second: .339285702
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}

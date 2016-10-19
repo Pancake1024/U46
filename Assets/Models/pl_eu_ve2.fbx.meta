@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: 22c790e0380b43b40b4cbc7217b33b86
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: veh_wheel_b
+    100004: veh_wheel_fl
+    100006: veh_wheel_fr
+    100008: light_headlights
+    100010: light_indicator_dx
+    100012: light_indicator_sx
+    100014: lights_stop
+    400000: //RootNode
+    400002: veh_wheel_b
+    400004: veh_wheel_fl
+    400006: veh_wheel_fr
+    400008: light_headlights
+    400010: light_indicator_dx
+    400012: light_indicator_sx
+    400014: lights_stop
+    2300000: //RootNode
+    2300002: veh_wheel_b
+    2300004: veh_wheel_fl
+    2300006: veh_wheel_fr
+    2300008: light_headlights
+    2300010: light_indicator_dx
+    2300012: light_indicator_sx
+    2300014: lights_stop
+    3300000: //RootNode
+    3300002: veh_wheel_b
+    3300004: veh_wheel_fl
+    3300006: veh_wheel_fr
+    3300008: light_headlights
+    3300010: light_indicator_dx
+    3300012: light_indicator_sx
+    3300014: lights_stop
+    4300000: pl_eu_ve2
+    4300002: veh_wheel_b
+    4300004: veh_wheel_fl
+    4300006: veh_wheel_fr
+    4300008: light_headlights
+    4300010: light_indicator_dx
+    4300012: light_indicator_sx
+    4300014: lights_stop
+    4300016: player_chassis
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
